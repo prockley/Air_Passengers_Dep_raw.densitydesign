@@ -29,7 +29,7 @@ I'm new to SVG graphics and stumbled across this fantastic website for creating 
 
 I used a Bump Chart with these settings (Width: 848, Height: 500, Padding: 90, Curve: basis).
 
-The data in '141123_DataFormatted.csv' was used. The regions 'Europe (other)' and 'Oceania & Polar' were removed as they were removed due their very small number of passengers (0.03% over the whole period 2005-2013). 
+The data in '141123_DataFormatted.csv' was used. The regions 'Europe (other)' and 'Oceania & Polar' were removed due to their very small number of passengers (0.03% of the total over the whole period 2005-2013). 
 
 Once the SVG file was generated there were some changes to be made to the underlying code to highlight the data of interest and to make sure that text was not cropped at the edges.
 
