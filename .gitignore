@@ -1,6 +1,9 @@
 # Excel file
 data/*.xlsx
 
+# Superseded images
+images/Superseded
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

@@ -1,775 +1,2809 @@
-Year,Dep. Airport,Destination,Destination_Region,Passengers (Thousand)
-2005,Cork,Bulgaria,Eastern Europe,0.1
-2005,Cork,Canary Islands,Africa,0.3
+Year,Dep. Airport,Destination,,Passengers (Thousand)
+2005,Cork,Ireland (domestic),Ireland (domestic),116.6
+2005,Cork,Austria,Western Europe,0
 2005,Cork,Belgium,Western Europe,0.8
-2005,Cork,Poland,Eastern Europe,3.1
+2005,Cork,Bulgaria,Eastern Europe,0.1
+2005,Cork,Cyprus,Southern Europe,0
+2005,Cork,Czech Republic,Eastern Europe,22.2
+2005,Cork,Denmark,Northern Europe,0
+2005,Cork,Estonia,Northern Europe,0
+2005,Cork,Finland,Northern Europe,0
+2005,Cork,France,Western Europe,54.4
+2005,Cork,Germany,Western Europe,11.3
+2005,Cork,Greece,Southern Europe,0
 2005,Cork,Hungary,Eastern Europe,7.3
 2005,Cork,Italy,Southern Europe,9.7
-2005,Cork,Portugal,Southern Europe,11.1
-2005,Cork,Germany,Western Europe,11.3
-2005,Cork,Wales,UK,14.5
-2005,Cork,Northern Ireland,Northern Europe,20.2
-2005,Cork,Czech Republic,Eastern Europe,22.2
-2005,Cork,Scotland,UK,25
-2005,Cork,France,Western Europe,54.4
+2005,Cork,Latvia,Northern Europe,0
+2005,Cork,Lithuania,Northern Europe,0
+2005,Cork,Luxembourg,Western Europe,0
+2005,Cork,Malta,Southern Europe,0
 2005,Cork,Netherlands,Western Europe,60
+2005,Cork,Poland,Eastern Europe,3.1
+2005,Cork,Portugal,Southern Europe,11.1
+2005,Cork,Romania,Eastern Europe,0
+2005,Cork,Slovakia,Eastern Europe,0
+2005,Cork,Slovenia,Southern Europe,0
 2005,Cork,Spain,Southern Europe,61.6
-2005,Cork,Ireland (domestic),Ireland (domestic),116.6
+2005,Cork,Sweden,Northern Europe,0
 2005,Cork,England,UK,731.1
-2005,Dublin,Eygpt,Africa,0.1
-2005,Dublin,Turkey,Asia,0.2
-2005,Dublin,Canada,Americas,0.3
-2005,Dublin,Other Africa (6),Africa,0.3
-2005,Dublin,Oceania and Polar regions (1),Oceania and Polar,0.8
-2005,Dublin,Bahrain,Asia,1.9
+2005,Cork,Northern Ireland,UK,20.2
+2005,Cork,Scotland,UK,25
+2005,Cork,Wales,UK,14.5
+2005,Cork,Other UK (1),UK,0
+2005,Cork,Croatia,Southern Europe,0
+2005,Cork,Iceland,Northern Europe,0
+2005,Cork,Norway,Northern Europe,0
+2005,Cork,Russian Federation,Eastern Europe,0
+2005,Cork,Serbia,Southern Europe,0
+2005,Cork,Switzerland,Western Europe,0
+2005,Cork,Other Europe (12),Europe (other),0
+2005,Cork,Canada,Americas,0
+2005,Cork,United States,Americas,0
+2005,Cork,Other America (5),Americas,0
+2005,Cork,Canary Islands,Africa,0.3
+2005,Cork,Eygpt,Africa,0
+2005,Cork,Morocco,Africa,0
+2005,Cork,Tunisia,Africa,0
+2005,Cork,Other Africa (6),Africa,0
+2005,Cork,Bahrain,Asia,0
+2005,Cork,Israel,Asia,0
+2005,Cork,Turkey,Asia,0
+2005,Cork,United Arab Emirates,Asia,0
+2005,Cork,Other Asian countries (4),Asia,0
+2005,Cork,Oceania and Polar regions (1),Oceania and Polar,0
+2005,Dublin,Ireland (domestic),Ireland (domestic),483
+2005,Dublin,Austria,Western Europe,50.2
+2005,Dublin,Belgium,Western Europe,177.6
+2005,Dublin,Bulgaria,Eastern Europe,0
+2005,Dublin,Cyprus,Southern Europe,15.5
+2005,Dublin,Czech Republic,Eastern Europe,103
+2005,Dublin,Denmark,Northern Europe,96.6
+2005,Dublin,Estonia,Northern Europe,11.4
+2005,Dublin,Finland,Northern Europe,14
+2005,Dublin,France,Western Europe,530.2
+2005,Dublin,Germany,Western Europe,482.3
+2005,Dublin,Greece,Southern Europe,3.4
+2005,Dublin,Hungary,Eastern Europe,70.5
+2005,Dublin,Italy,Southern Europe,312
+2005,Dublin,Latvia,Northern Europe,27
+2005,Dublin,Lithuania,Northern Europe,44.8
+2005,Dublin,Luxembourg,Western Europe,0
+2005,Dublin,Malta,Southern Europe,9.9
+2005,Dublin,Netherlands,Western Europe,299.5
+2005,Dublin,Poland,Eastern Europe,69.7
+2005,Dublin,Portugal,Southern Europe,74.6
+2005,Dublin,Romania,Eastern Europe,0
 2005,Dublin,Slovakia,Eastern Europe,2.8
 2005,Dublin,Slovenia,Southern Europe,2.8
-2005,Dublin,Greece,Southern Europe,3.4
-2005,Dublin,Malta,Southern Europe,9.9
-2005,Dublin,Estonia,Northern Europe,11.4
-2005,Dublin,Croatia,Southern Europe,12.8
-2005,Dublin,Finland,Northern Europe,14
-2005,Dublin,Northern Ireland,Northern Europe,14.1
-2005,Dublin,Cyprus,Southern Europe,15.5
-2005,Dublin,Norway,Northern Europe,21
-2005,Dublin,Canary Islands,Africa,22.5
-2005,Dublin,Latvia,Northern Europe,27
-2005,Dublin,Other UK (1),UK,30.9
-2005,Dublin,Sweden,Northern Europe,35.9
-2005,Dublin,Lithuania,Northern Europe,44.8
-2005,Dublin,Austria,Western Europe,50.2
-2005,Dublin,Wales,UK,60.6
-2005,Dublin,Poland,Eastern Europe,69.7
-2005,Dublin,Hungary,Eastern Europe,70.5
-2005,Dublin,Portugal,Southern Europe,74.6
-2005,Dublin,Switzerland,Western Europe,83.8
-2005,Dublin,Denmark,Northern Europe,96.6
-2005,Dublin,Czech Republic,Eastern Europe,103
-2005,Dublin,Belgium,Western Europe,177.6
-2005,Dublin,Netherlands,Western Europe,299.5
-2005,Dublin,Italy,Southern Europe,312
-2005,Dublin,Scotland,UK,421.4
-2005,Dublin,Germany,Western Europe,482.3
-2005,Dublin,Ireland (domestic),Ireland (domestic),483
-2005,Dublin,United States,Americas,485.8
-2005,Dublin,France,Western Europe,530.2
 2005,Dublin,Spain,Southern Europe,534.3
+2005,Dublin,Sweden,Northern Europe,35.9
 2005,Dublin,England,UK,3602.5
-2005,Galway,Other UK (1),UK,0.1
-2005,Galway,Spain,Southern Europe,1.6
-2005,Galway,France,Western Europe,3.3
-2005,Galway,Scotland,UK,14.5
+2005,Dublin,Northern Ireland,UK,14.1
+2005,Dublin,Scotland,UK,421.4
+2005,Dublin,Wales,UK,60.6
+2005,Dublin,Other UK (1),UK,30.9
+2005,Dublin,Croatia,Southern Europe,12.8
+2005,Dublin,Iceland,Northern Europe,0
+2005,Dublin,Norway,Northern Europe,21
+2005,Dublin,Russian Federation,Eastern Europe,0
+2005,Dublin,Serbia,Southern Europe,0
+2005,Dublin,Switzerland,Western Europe,83.8
+2005,Dublin,Other Europe (12),Europe (other),0
+2005,Dublin,Canada,Americas,0.3
+2005,Dublin,United States,Americas,485.8
+2005,Dublin,Other America (5),Americas,0
+2005,Dublin,Canary Islands,Africa,22.5
+2005,Dublin,Eygpt,Africa,0.1
+2005,Dublin,Morocco,Africa,0
+2005,Dublin,Tunisia,Africa,0
+2005,Dublin,Other Africa (6),Africa,0.3
+2005,Dublin,Bahrain,Asia,1.9
+2005,Dublin,Israel,Asia,0
+2005,Dublin,Turkey,Asia,0.2
+2005,Dublin,United Arab Emirates,Asia,0
+2005,Dublin,Other Asian countries (4),Asia,0
+2005,Dublin,Oceania and Polar regions (1),Oceania and Polar,0.8
 2005,Galway,Ireland (domestic),Ireland (domestic),49.4
+2005,Galway,Austria,Western Europe,0
+2005,Galway,Belgium,Western Europe,0
+2005,Galway,Bulgaria,Eastern Europe,0
+2005,Galway,Cyprus,Southern Europe,0
+2005,Galway,Czech Republic,Eastern Europe,0
+2005,Galway,Denmark,Northern Europe,0
+2005,Galway,Estonia,Northern Europe,0
+2005,Galway,Finland,Northern Europe,0
+2005,Galway,France,Western Europe,3.3
+2005,Galway,Germany,Western Europe,0
+2005,Galway,Greece,Southern Europe,0
+2005,Galway,Hungary,Eastern Europe,0
+2005,Galway,Italy,Southern Europe,0
+2005,Galway,Latvia,Northern Europe,0
+2005,Galway,Lithuania,Northern Europe,0
+2005,Galway,Luxembourg,Western Europe,0
+2005,Galway,Malta,Southern Europe,0
+2005,Galway,Netherlands,Western Europe,0
+2005,Galway,Poland,Eastern Europe,0
+2005,Galway,Portugal,Southern Europe,0
+2005,Galway,Romania,Eastern Europe,0
+2005,Galway,Slovakia,Eastern Europe,0
+2005,Galway,Slovenia,Southern Europe,0
+2005,Galway,Spain,Southern Europe,1.6
+2005,Galway,Sweden,Northern Europe,0
 2005,Galway,England,UK,58.1
-2005,Kerry,Scotland,UK,0.1
+2005,Galway,Northern Ireland,UK,0
+2005,Galway,Scotland,UK,14.5
+2005,Galway,Wales,UK,0
+2005,Galway,Other UK (1),UK,0.1
+2005,Galway,Croatia,Southern Europe,0
+2005,Galway,Iceland,Northern Europe,0
+2005,Galway,Norway,Northern Europe,0
+2005,Galway,Russian Federation,Eastern Europe,0
+2005,Galway,Serbia,Southern Europe,0
+2005,Galway,Switzerland,Western Europe,0
+2005,Galway,Other Europe (12),Europe (other),0
+2005,Galway,Canada,Americas,0
+2005,Galway,United States,Americas,0
+2005,Galway,Other America (5),Americas,0
+2005,Galway,Canary Islands,Africa,0
+2005,Galway,Eygpt,Africa,0
+2005,Galway,Morocco,Africa,0
+2005,Galway,Tunisia,Africa,0
+2005,Galway,Other Africa (6),Africa,0
+2005,Galway,Bahrain,Asia,0
+2005,Galway,Israel,Asia,0
+2005,Galway,Turkey,Asia,0
+2005,Galway,United Arab Emirates,Asia,0
+2005,Galway,Other Asian countries (4),Asia,0
+2005,Galway,Oceania and Polar regions (1),Oceania and Polar,0
+2005,Kerry,Ireland (domestic),Ireland (domestic),57.3
+2005,Kerry,Austria,Western Europe,0
+2005,Kerry,Belgium,Western Europe,0
+2005,Kerry,Bulgaria,Eastern Europe,0
+2005,Kerry,Cyprus,Southern Europe,0
+2005,Kerry,Czech Republic,Eastern Europe,0
+2005,Kerry,Denmark,Northern Europe,0
+2005,Kerry,Estonia,Northern Europe,0
+2005,Kerry,Finland,Northern Europe,0
 2005,Kerry,France,Western Europe,0.4
 2005,Kerry,Germany,Western Europe,50.4
-2005,Kerry,Ireland (domestic),Ireland (domestic),57.3
+2005,Kerry,Greece,Southern Europe,0
+2005,Kerry,Hungary,Eastern Europe,0
+2005,Kerry,Italy,Southern Europe,0
+2005,Kerry,Latvia,Northern Europe,0
+2005,Kerry,Lithuania,Northern Europe,0
+2005,Kerry,Luxembourg,Western Europe,0
+2005,Kerry,Malta,Southern Europe,0
+2005,Kerry,Netherlands,Western Europe,0
+2005,Kerry,Poland,Eastern Europe,0
+2005,Kerry,Portugal,Southern Europe,0
+2005,Kerry,Romania,Eastern Europe,0
+2005,Kerry,Slovakia,Eastern Europe,0
+2005,Kerry,Slovenia,Southern Europe,0
+2005,Kerry,Spain,Southern Europe,0
+2005,Kerry,Sweden,Northern Europe,0
 2005,Kerry,England,UK,83.3
-2005,Knock,France,Western Europe,0.2
+2005,Kerry,Northern Ireland,UK,0
+2005,Kerry,Scotland,UK,0.1
+2005,Kerry,Wales,UK,0
+2005,Kerry,Other UK (1),UK,0
+2005,Kerry,Croatia,Southern Europe,0
+2005,Kerry,Iceland,Northern Europe,0
+2005,Kerry,Norway,Northern Europe,0
+2005,Kerry,Russian Federation,Eastern Europe,0
+2005,Kerry,Serbia,Southern Europe,0
+2005,Kerry,Switzerland,Western Europe,0
+2005,Kerry,Other Europe (12),Europe (other),0
+2005,Kerry,Canada,Americas,0
+2005,Kerry,United States,Americas,0
+2005,Kerry,Other America (5),Americas,0
+2005,Kerry,Canary Islands,Africa,0
+2005,Kerry,Eygpt,Africa,0
+2005,Kerry,Morocco,Africa,0
+2005,Kerry,Tunisia,Africa,0
+2005,Kerry,Other Africa (6),Africa,0
+2005,Kerry,Bahrain,Asia,0
+2005,Kerry,Israel,Asia,0
+2005,Kerry,Turkey,Asia,0
+2005,Kerry,United Arab Emirates,Asia,0
+2005,Kerry,Other Asian countries (4),Asia,0
+2005,Kerry,Oceania and Polar regions (1),Oceania and Polar,0
 2005,Knock,Ireland (domestic),Ireland (domestic),7.1
+2005,Knock,Austria,Western Europe,0
+2005,Knock,Belgium,Western Europe,0
+2005,Knock,Bulgaria,Eastern Europe,0
+2005,Knock,Cyprus,Southern Europe,0
+2005,Knock,Czech Republic,Eastern Europe,0
+2005,Knock,Denmark,Northern Europe,0
+2005,Knock,Estonia,Northern Europe,0
+2005,Knock,Finland,Northern Europe,0
+2005,Knock,France,Western Europe,0.2
+2005,Knock,Germany,Western Europe,0
+2005,Knock,Greece,Southern Europe,0
+2005,Knock,Hungary,Eastern Europe,0
+2005,Knock,Italy,Southern Europe,0
+2005,Knock,Latvia,Northern Europe,0
+2005,Knock,Lithuania,Northern Europe,0
+2005,Knock,Luxembourg,Western Europe,0
+2005,Knock,Malta,Southern Europe,0
+2005,Knock,Netherlands,Western Europe,0
+2005,Knock,Poland,Eastern Europe,0
+2005,Knock,Portugal,Southern Europe,0
+2005,Knock,Romania,Eastern Europe,0
+2005,Knock,Slovakia,Eastern Europe,0
+2005,Knock,Slovenia,Southern Europe,0
+2005,Knock,Spain,Southern Europe,0
+2005,Knock,Sweden,Northern Europe,0
 2005,Knock,England,UK,213
-2005,Shannon,Switzerland,Western Europe,0.7
-2005,Shannon,Oceania and Polar regions (1),Oceania and Polar,1.5
-2005,Shannon,Poland,Eastern Europe,2.6
-2005,Shannon,Portugal,Southern Europe,2.9
-2005,Shannon,Russian Federation,Eastern Europe,3.9
-2005,Shannon,Sweden,Northern Europe,10.7
-2005,Shannon,Italy,Southern Europe,18.9
-2005,Shannon,Canada,Americas,18.9
-2005,Shannon,Spain,Southern Europe,29.5
+2005,Knock,Northern Ireland,UK,0
+2005,Knock,Scotland,UK,0
+2005,Knock,Wales,UK,0
+2005,Knock,Other UK (1),UK,0
+2005,Knock,Croatia,Southern Europe,0
+2005,Knock,Iceland,Northern Europe,0
+2005,Knock,Norway,Northern Europe,0
+2005,Knock,Russian Federation,Eastern Europe,0
+2005,Knock,Serbia,Southern Europe,0
+2005,Knock,Switzerland,Western Europe,0
+2005,Knock,Other Europe (12),Europe (other),0
+2005,Knock,Canada,Americas,0
+2005,Knock,United States,Americas,0
+2005,Knock,Other America (5),Americas,0
+2005,Knock,Canary Islands,Africa,0
+2005,Knock,Eygpt,Africa,0
+2005,Knock,Morocco,Africa,0
+2005,Knock,Tunisia,Africa,0
+2005,Knock,Other Africa (6),Africa,0
+2005,Knock,Bahrain,Asia,0
+2005,Knock,Israel,Asia,0
+2005,Knock,Turkey,Asia,0
+2005,Knock,United Arab Emirates,Asia,0
+2005,Knock,Other Asian countries (4),Asia,0
+2005,Knock,Oceania and Polar regions (1),Oceania and Polar,0
+2005,Shannon,Ireland (domestic),Ireland (domestic),221
+2005,Shannon,Austria,Western Europe,0
 2005,Shannon,Belgium,Western Europe,42.6
-2005,Shannon,Scotland,UK,48.2
+2005,Shannon,Bulgaria,Eastern Europe,0
+2005,Shannon,Cyprus,Southern Europe,0
+2005,Shannon,Czech Republic,Eastern Europe,0
+2005,Shannon,Denmark,Northern Europe,0
+2005,Shannon,Estonia,Northern Europe,0
+2005,Shannon,Finland,Northern Europe,0
 2005,Shannon,France,Western Europe,52.3
 2005,Shannon,Germany,Western Europe,57.8
-2005,Shannon,Ireland (domestic),Ireland (domestic),221
-2005,Shannon,United States,Americas,400
+2005,Shannon,Greece,Southern Europe,0
+2005,Shannon,Hungary,Eastern Europe,0
+2005,Shannon,Italy,Southern Europe,18.9
+2005,Shannon,Latvia,Northern Europe,0
+2005,Shannon,Lithuania,Northern Europe,0
+2005,Shannon,Luxembourg,Western Europe,0
+2005,Shannon,Malta,Southern Europe,0
+2005,Shannon,Netherlands,Western Europe,0
+2005,Shannon,Poland,Eastern Europe,2.6
+2005,Shannon,Portugal,Southern Europe,2.9
+2005,Shannon,Romania,Eastern Europe,0
+2005,Shannon,Slovakia,Eastern Europe,0
+2005,Shannon,Slovenia,Southern Europe,0
+2005,Shannon,Spain,Southern Europe,29.5
+2005,Shannon,Sweden,Northern Europe,10.7
 2005,Shannon,England,UK,526.7
-2006,Cork,Oceania and Polar regions (1),Oceania and Polar,0.8
-2006,Cork,Other UK (1),UK,0.9
-2006,Cork,Canary Islands,Africa,5
-2006,Cork,Wales,UK,9.6
-2006,Cork,Germany,Western Europe,11.4
-2006,Cork,Hungary,Eastern Europe,13
-2006,Cork,Portugal,Southern Europe,15.8
-2006,Cork,Italy,Southern Europe,17.2
-2006,Cork,Northern Ireland,Northern Europe,21.6
-2006,Cork,Czech Republic,Eastern Europe,25.2
-2006,Cork,Scotland,UK,28.9
-2006,Cork,Poland,Eastern Europe,37.1
-2006,Cork,France,Western Europe,65.9
-2006,Cork,Netherlands,Western Europe,71.6
-2006,Cork,Spain,Southern Europe,74.4
+2005,Shannon,Northern Ireland,UK,0
+2005,Shannon,Scotland,UK,48.2
+2005,Shannon,Wales,UK,0
+2005,Shannon,Other UK (1),UK,0
+2005,Shannon,Croatia,Southern Europe,0
+2005,Shannon,Iceland,Northern Europe,0
+2005,Shannon,Norway,Northern Europe,0
+2005,Shannon,Russian Federation,Eastern Europe,3.9
+2005,Shannon,Serbia,Southern Europe,0
+2005,Shannon,Switzerland,Western Europe,0.7
+2005,Shannon,Other Europe (12),Europe (other),0
+2005,Shannon,Canada,Americas,18.9
+2005,Shannon,United States,Americas,400
+2005,Shannon,Other America (5),Americas,0
+2005,Shannon,Canary Islands,Africa,0
+2005,Shannon,Eygpt,Africa,0
+2005,Shannon,Morocco,Africa,0
+2005,Shannon,Tunisia,Africa,0
+2005,Shannon,Other Africa (6),Africa,0
+2005,Shannon,Bahrain,Asia,0
+2005,Shannon,Israel,Asia,0
+2005,Shannon,Turkey,Asia,0
+2005,Shannon,United Arab Emirates,Asia,0
+2005,Shannon,Other Asian countries (4),Asia,0
+2005,Shannon,Oceania and Polar regions (1),Oceania and Polar,1.5
 2006,Cork,Ireland (domestic),Ireland (domestic),208.1
+2006,Cork,Austria,Western Europe,0
+2006,Cork,Belgium,Western Europe,0
+2006,Cork,Bulgaria,Eastern Europe,0
+2006,Cork,Cyprus,Southern Europe,0
+2006,Cork,Czech Republic,Eastern Europe,25.2
+2006,Cork,Denmark,Northern Europe,0
+2006,Cork,Estonia,Northern Europe,0
+2006,Cork,Finland,Northern Europe,0
+2006,Cork,France,Western Europe,65.9
+2006,Cork,Germany,Western Europe,11.4
+2006,Cork,Greece,Southern Europe,0
+2006,Cork,Hungary,Eastern Europe,13
+2006,Cork,Italy,Southern Europe,17.2
+2006,Cork,Latvia,Northern Europe,0
+2006,Cork,Lithuania,Northern Europe,0
+2006,Cork,Luxembourg,Western Europe,0
+2006,Cork,Malta,Southern Europe,0
+2006,Cork,Netherlands,Western Europe,71.6
+2006,Cork,Poland,Eastern Europe,37.1
+2006,Cork,Portugal,Southern Europe,15.8
+2006,Cork,Romania,Eastern Europe,0
+2006,Cork,Slovakia,Eastern Europe,0
+2006,Cork,Slovenia,Southern Europe,0
+2006,Cork,Spain,Southern Europe,74.4
+2006,Cork,Sweden,Northern Europe,0
 2006,Cork,England,UK,709.6
+2006,Cork,Northern Ireland,UK,21.6
+2006,Cork,Scotland,UK,28.9
+2006,Cork,Wales,UK,9.6
+2006,Cork,Other UK (1),UK,0.9
+2006,Cork,Croatia,Southern Europe,0
+2006,Cork,Iceland,Northern Europe,0
+2006,Cork,Norway,Northern Europe,0
+2006,Cork,Russian Federation,Eastern Europe,0
+2006,Cork,Serbia,Southern Europe,0
+2006,Cork,Switzerland,Western Europe,0
+2006,Cork,Other Europe (12),Europe (other),0
+2006,Cork,Canada,Americas,0
+2006,Cork,United States,Americas,0
+2006,Cork,Other America (5),Americas,0
+2006,Cork,Canary Islands,Africa,5
+2006,Cork,Eygpt,Africa,0
+2006,Cork,Morocco,Africa,0
+2006,Cork,Tunisia,Africa,0
+2006,Cork,Other Africa (6),Africa,0
+2006,Cork,Bahrain,Asia,0
+2006,Cork,Israel,Asia,0
+2006,Cork,Turkey,Asia,0
+2006,Cork,United Arab Emirates,Asia,0
+2006,Cork,Other Asian countries (4),Asia,0
+2006,Cork,Oceania and Polar regions (1),Oceania and Polar,0.8
+2006,Dublin,Ireland (domestic),Ireland (domestic),597.3
+2006,Dublin,Austria,Western Europe,78.4
+2006,Dublin,Belgium,Western Europe,187
+2006,Dublin,Bulgaria,Eastern Europe,3.8
+2006,Dublin,Cyprus,Southern Europe,5.5
+2006,Dublin,Czech Republic,Eastern Europe,102.2
+2006,Dublin,Denmark,Northern Europe,85
+2006,Dublin,Estonia,Northern Europe,9
+2006,Dublin,Finland,Northern Europe,16.7
+2006,Dublin,France,Western Europe,666.9
+2006,Dublin,Germany,Western Europe,615.6
+2006,Dublin,Greece,Southern Europe,4.3
+2006,Dublin,Hungary,Eastern Europe,72.6
+2006,Dublin,Italy,Southern Europe,411.9
+2006,Dublin,Latvia,Northern Europe,93.7
+2006,Dublin,Lithuania,Northern Europe,67.4
+2006,Dublin,Luxembourg,Western Europe,0
+2006,Dublin,Malta,Southern Europe,9.7
+2006,Dublin,Netherlands,Western Europe,313.8
+2006,Dublin,Poland,Eastern Europe,281.1
+2006,Dublin,Portugal,Southern Europe,153.8
+2006,Dublin,Romania,Eastern Europe,0
+2006,Dublin,Slovakia,Eastern Europe,36.9
+2006,Dublin,Slovenia,Southern Europe,1.4
+2006,Dublin,Spain,Southern Europe,702.3
+2006,Dublin,Sweden,Northern Europe,78.9
+2006,Dublin,England,UK,3756.4
+2006,Dublin,Northern Ireland,UK,14.8
+2006,Dublin,Scotland,UK,468.8
+2006,Dublin,Wales,UK,41.9
+2006,Dublin,Other UK (1),UK,29.7
+2006,Dublin,Croatia,Southern Europe,15.3
+2006,Dublin,Iceland,Northern Europe,0
+2006,Dublin,Norway,Northern Europe,26.7
+2006,Dublin,Russian Federation,Eastern Europe,0
+2006,Dublin,Serbia,Southern Europe,0
+2006,Dublin,Switzerland,Western Europe,92.3
+2006,Dublin,Other Europe (12),Europe (other),0
+2006,Dublin,Canada,Americas,0.4
+2006,Dublin,United States,Americas,524.9
+2006,Dublin,Other America (5),Americas,0
+2006,Dublin,Canary Islands,Africa,55
+2006,Dublin,Eygpt,Africa,0
 2006,Dublin,Morocco,Africa,0.2
 2006,Dublin,Tunisia,Africa,0.2
-2006,Dublin,Israel,Asia,0.2
-2006,Dublin,Canada,Americas,0.4
-2006,Dublin,Slovenia,Southern Europe,1.4
-2006,Dublin,Bulgaria,Eastern Europe,3.8
-2006,Dublin,Greece,Southern Europe,4.3
-2006,Dublin,Cyprus,Southern Europe,5.5
-2006,Dublin,Turkey,Asia,8.5
-2006,Dublin,Estonia,Northern Europe,9
-2006,Dublin,Malta,Southern Europe,9.7
-2006,Dublin,Northern Ireland,Northern Europe,14.8
-2006,Dublin,Croatia,Southern Europe,15.3
-2006,Dublin,Finland,Northern Europe,16.7
-2006,Dublin,United Arab Emirates,Asia,22.5
+2006,Dublin,Other Africa (6),Africa,0
 2006,Dublin,Bahrain,Asia,25.6
-2006,Dublin,Norway,Northern Europe,26.7
-2006,Dublin,Other UK (1),UK,29.7
-2006,Dublin,Slovakia,Eastern Europe,36.9
-2006,Dublin,Wales,UK,41.9
-2006,Dublin,Canary Islands,Africa,55
-2006,Dublin,Lithuania,Northern Europe,67.4
-2006,Dublin,Hungary,Eastern Europe,72.6
-2006,Dublin,Austria,Western Europe,78.4
-2006,Dublin,Sweden,Northern Europe,78.9
-2006,Dublin,Denmark,Northern Europe,85
-2006,Dublin,Switzerland,Western Europe,92.3
-2006,Dublin,Latvia,Northern Europe,93.7
-2006,Dublin,Czech Republic,Eastern Europe,102.2
-2006,Dublin,Portugal,Southern Europe,153.8
-2006,Dublin,Belgium,Western Europe,187
-2006,Dublin,Poland,Eastern Europe,281.1
-2006,Dublin,Netherlands,Western Europe,313.8
-2006,Dublin,Italy,Southern Europe,411.9
-2006,Dublin,Scotland,UK,468.8
-2006,Dublin,United States,Americas,524.9
-2006,Dublin,Ireland (domestic),Ireland (domestic),597.3
-2006,Dublin,Germany,Western Europe,615.6
-2006,Dublin,France,Western Europe,666.9
-2006,Dublin,Spain,Southern Europe,702.3
-2006,Dublin,England,UK,3756.4
-2006,Galway,Oceania and Polar regions (1),Oceania and Polar,0.9
-2006,Galway,Wales,UK,2.2
-2006,Galway,France,Western Europe,2.5
-2006,Galway,Scotland,UK,13
+2006,Dublin,Israel,Asia,0.2
+2006,Dublin,Turkey,Asia,8.5
+2006,Dublin,United Arab Emirates,Asia,22.5
+2006,Dublin,Other Asian countries (4),Asia,0
+2006,Dublin,Oceania and Polar regions (1),Oceania and Polar,0
 2006,Galway,Ireland (domestic),Ireland (domestic),45
+2006,Galway,Austria,Western Europe,0
+2006,Galway,Belgium,Western Europe,0
+2006,Galway,Bulgaria,Eastern Europe,0
+2006,Galway,Cyprus,Southern Europe,0
+2006,Galway,Czech Republic,Eastern Europe,0
+2006,Galway,Denmark,Northern Europe,0
+2006,Galway,Estonia,Northern Europe,0
+2006,Galway,Finland,Northern Europe,0
+2006,Galway,France,Western Europe,2.5
+2006,Galway,Germany,Western Europe,0
+2006,Galway,Greece,Southern Europe,0
+2006,Galway,Hungary,Eastern Europe,0
+2006,Galway,Italy,Southern Europe,0
+2006,Galway,Latvia,Northern Europe,0
+2006,Galway,Lithuania,Northern Europe,0
+2006,Galway,Luxembourg,Western Europe,0
+2006,Galway,Malta,Southern Europe,0
+2006,Galway,Netherlands,Western Europe,0
+2006,Galway,Poland,Eastern Europe,0
+2006,Galway,Portugal,Southern Europe,0
+2006,Galway,Romania,Eastern Europe,0
+2006,Galway,Slovakia,Eastern Europe,0
+2006,Galway,Slovenia,Southern Europe,0
+2006,Galway,Spain,Southern Europe,0
+2006,Galway,Sweden,Northern Europe,0
 2006,Galway,England,UK,57.3
-2006,Kerry,Italy,Southern Europe,0.1
-2006,Kerry,Scotland,UK,0.3
-2006,Kerry,Croatia,Southern Europe,0.3
+2006,Galway,Northern Ireland,UK,0
+2006,Galway,Scotland,UK,13
+2006,Galway,Wales,UK,2.2
+2006,Galway,Other UK (1),UK,0
+2006,Galway,Croatia,Southern Europe,0
+2006,Galway,Iceland,Northern Europe,0
+2006,Galway,Norway,Northern Europe,0
+2006,Galway,Russian Federation,Eastern Europe,0
+2006,Galway,Serbia,Southern Europe,0
+2006,Galway,Switzerland,Western Europe,0
+2006,Galway,Other Europe (12),Europe (other),0
+2006,Galway,Canada,Americas,0
+2006,Galway,United States,Americas,0
+2006,Galway,Other America (5),Americas,0
+2006,Galway,Canary Islands,Africa,0
+2006,Galway,Eygpt,Africa,0
+2006,Galway,Morocco,Africa,0
+2006,Galway,Tunisia,Africa,0
+2006,Galway,Other Africa (6),Africa,0
+2006,Galway,Bahrain,Asia,0
+2006,Galway,Israel,Asia,0
+2006,Galway,Turkey,Asia,0
+2006,Galway,United Arab Emirates,Asia,0
+2006,Galway,Other Asian countries (4),Asia,0
+2006,Galway,Oceania and Polar regions (1),Oceania and Polar,0.9
+2006,Kerry,Ireland (domestic),Ireland (domestic),56.7
+2006,Kerry,Austria,Western Europe,0
+2006,Kerry,Belgium,Western Europe,0
+2006,Kerry,Bulgaria,Eastern Europe,0
+2006,Kerry,Cyprus,Southern Europe,0
+2006,Kerry,Czech Republic,Eastern Europe,0
+2006,Kerry,Denmark,Northern Europe,0
+2006,Kerry,Estonia,Northern Europe,0
+2006,Kerry,Finland,Northern Europe,0
 2006,Kerry,France,Western Europe,2.7
 2006,Kerry,Germany,Western Europe,45.8
-2006,Kerry,Ireland (domestic),Ireland (domestic),56.7
+2006,Kerry,Greece,Southern Europe,0
+2006,Kerry,Hungary,Eastern Europe,0
+2006,Kerry,Italy,Southern Europe,0.1
+2006,Kerry,Latvia,Northern Europe,0
+2006,Kerry,Lithuania,Northern Europe,0
+2006,Kerry,Luxembourg,Western Europe,0
+2006,Kerry,Malta,Southern Europe,0
+2006,Kerry,Netherlands,Western Europe,0
+2006,Kerry,Poland,Eastern Europe,0
+2006,Kerry,Portugal,Southern Europe,0
+2006,Kerry,Romania,Eastern Europe,0
+2006,Kerry,Slovakia,Eastern Europe,0
+2006,Kerry,Slovenia,Southern Europe,0
+2006,Kerry,Spain,Southern Europe,0
+2006,Kerry,Sweden,Northern Europe,0
 2006,Kerry,England,UK,88.1
+2006,Kerry,Northern Ireland,UK,0
+2006,Kerry,Scotland,UK,0.3
+2006,Kerry,Wales,UK,0
+2006,Kerry,Other UK (1),UK,0
+2006,Kerry,Croatia,Southern Europe,0.3
+2006,Kerry,Iceland,Northern Europe,0
+2006,Kerry,Norway,Northern Europe,0
+2006,Kerry,Russian Federation,Eastern Europe,0
+2006,Kerry,Serbia,Southern Europe,0
+2006,Kerry,Switzerland,Western Europe,0
+2006,Kerry,Other Europe (12),Europe (other),0
+2006,Kerry,Canada,Americas,0
+2006,Kerry,United States,Americas,0
+2006,Kerry,Other America (5),Americas,0
+2006,Kerry,Canary Islands,Africa,0
+2006,Kerry,Eygpt,Africa,0
+2006,Kerry,Morocco,Africa,0
+2006,Kerry,Tunisia,Africa,0
+2006,Kerry,Other Africa (6),Africa,0
+2006,Kerry,Bahrain,Asia,0
+2006,Kerry,Israel,Asia,0
+2006,Kerry,Turkey,Asia,0
+2006,Kerry,United Arab Emirates,Asia,0
+2006,Kerry,Other Asian countries (4),Asia,0
+2006,Kerry,Oceania and Polar regions (1),Oceania and Polar,0
 2006,Knock,Ireland (domestic),Ireland (domestic),6.7
+2006,Knock,Austria,Western Europe,0
+2006,Knock,Belgium,Western Europe,0
+2006,Knock,Bulgaria,Eastern Europe,0
+2006,Knock,Cyprus,Southern Europe,0
+2006,Knock,Czech Republic,Eastern Europe,0
+2006,Knock,Denmark,Northern Europe,0
+2006,Knock,Estonia,Northern Europe,0
+2006,Knock,Finland,Northern Europe,0
+2006,Knock,France,Western Europe,0
+2006,Knock,Germany,Western Europe,0
+2006,Knock,Greece,Southern Europe,0
+2006,Knock,Hungary,Eastern Europe,0
+2006,Knock,Italy,Southern Europe,0
+2006,Knock,Latvia,Northern Europe,0
+2006,Knock,Lithuania,Northern Europe,0
+2006,Knock,Luxembourg,Western Europe,0
+2006,Knock,Malta,Southern Europe,0
+2006,Knock,Netherlands,Western Europe,0
+2006,Knock,Poland,Eastern Europe,0
+2006,Knock,Portugal,Southern Europe,0
+2006,Knock,Romania,Eastern Europe,0
+2006,Knock,Slovakia,Eastern Europe,0
+2006,Knock,Slovenia,Southern Europe,0
+2006,Knock,Spain,Southern Europe,0
+2006,Knock,Sweden,Northern Europe,0
 2006,Knock,England,UK,260.1
-2006,Shannon,Lithuania,Northern Europe,0.5
-2006,Shannon,Sweden,Northern Europe,1
-2006,Shannon,Portugal,Southern Europe,2.7
-2006,Shannon,Russian Federation,Eastern Europe,3.8
-2006,Shannon,Canada,Americas,19.3
-2006,Shannon,Belgium,Western Europe,21.3
-2006,Shannon,Germany,Western Europe,38.8
-2006,Shannon,Italy,Southern Europe,42.8
-2006,Shannon,Scotland,UK,47.5
-2006,Shannon,Poland,Eastern Europe,48.1
-2006,Shannon,Spain,Southern Europe,67.5
-2006,Shannon,France,Western Europe,69.6
+2006,Knock,Northern Ireland,UK,0
+2006,Knock,Scotland,UK,0
+2006,Knock,Wales,UK,0
+2006,Knock,Other UK (1),UK,0
+2006,Knock,Croatia,Southern Europe,0
+2006,Knock,Iceland,Northern Europe,0
+2006,Knock,Norway,Northern Europe,0
+2006,Knock,Russian Federation,Eastern Europe,0
+2006,Knock,Serbia,Southern Europe,0
+2006,Knock,Switzerland,Western Europe,0
+2006,Knock,Other Europe (12),Europe (other),0
+2006,Knock,Canada,Americas,0
+2006,Knock,United States,Americas,0
+2006,Knock,Other America (5),Americas,0
+2006,Knock,Canary Islands,Africa,0
+2006,Knock,Eygpt,Africa,0
+2006,Knock,Morocco,Africa,0
+2006,Knock,Tunisia,Africa,0
+2006,Knock,Other Africa (6),Africa,0
+2006,Knock,Bahrain,Asia,0
+2006,Knock,Israel,Asia,0
+2006,Knock,Turkey,Asia,0
+2006,Knock,United Arab Emirates,Asia,0
+2006,Knock,Other Asian countries (4),Asia,0
+2006,Knock,Oceania and Polar regions (1),Oceania and Polar,0
 2006,Shannon,Ireland (domestic),Ireland (domestic),244.9
-2006,Shannon,United States,Americas,484.9
+2006,Shannon,Austria,Western Europe,0
+2006,Shannon,Belgium,Western Europe,21.3
+2006,Shannon,Bulgaria,Eastern Europe,0
+2006,Shannon,Cyprus,Southern Europe,0
+2006,Shannon,Czech Republic,Eastern Europe,0
+2006,Shannon,Denmark,Northern Europe,0
+2006,Shannon,Estonia,Northern Europe,0
+2006,Shannon,Finland,Northern Europe,0
+2006,Shannon,France,Western Europe,69.6
+2006,Shannon,Germany,Western Europe,38.8
+2006,Shannon,Greece,Southern Europe,0
+2006,Shannon,Hungary,Eastern Europe,0
+2006,Shannon,Italy,Southern Europe,42.8
+2006,Shannon,Latvia,Northern Europe,0
+2006,Shannon,Lithuania,Northern Europe,0.5
+2006,Shannon,Luxembourg,Western Europe,0
+2006,Shannon,Malta,Southern Europe,0
+2006,Shannon,Netherlands,Western Europe,0
+2006,Shannon,Poland,Eastern Europe,48.1
+2006,Shannon,Portugal,Southern Europe,2.7
+2006,Shannon,Romania,Eastern Europe,0
+2006,Shannon,Slovakia,Eastern Europe,0
+2006,Shannon,Slovenia,Southern Europe,0
+2006,Shannon,Spain,Southern Europe,67.5
+2006,Shannon,Sweden,Northern Europe,1
 2006,Shannon,England,UK,591.7
-2007,Cork,Other UK (1),UK,0.8
-2007,Cork,Slovakia,Eastern Europe,2.7
-2007,Cork,Canary Islands,Africa,8.5
-2007,Cork,Wales,UK,11.8
-2007,Cork,Hungary,Eastern Europe,13.9
-2007,Cork,Portugal,Southern Europe,17.4
-2007,Cork,Italy,Southern Europe,20.2
-2007,Cork,Germany,Western Europe,20.6
-2007,Cork,Czech Republic,Eastern Europe,22.3
-2007,Cork,Northern Ireland,Northern Europe,22.5
-2007,Cork,Scotland,UK,28.9
-2007,Cork,France,Western Europe,67.7
-2007,Cork,Netherlands,Western Europe,77.7
-2007,Cork,Spain,Southern Europe,86.3
-2007,Cork,Poland,Eastern Europe,101
+2006,Shannon,Northern Ireland,UK,0
+2006,Shannon,Scotland,UK,47.5
+2006,Shannon,Wales,UK,0
+2006,Shannon,Other UK (1),UK,0
+2006,Shannon,Croatia,Southern Europe,0
+2006,Shannon,Iceland,Northern Europe,0
+2006,Shannon,Norway,Northern Europe,0
+2006,Shannon,Russian Federation,Eastern Europe,3.8
+2006,Shannon,Serbia,Southern Europe,0
+2006,Shannon,Switzerland,Western Europe,0
+2006,Shannon,Other Europe (12),Europe (other),0
+2006,Shannon,Canada,Americas,19.3
+2006,Shannon,United States,Americas,484.9
+2006,Shannon,Other America (5),Americas,0
+2006,Shannon,Canary Islands,Africa,0
+2006,Shannon,Eygpt,Africa,0
+2006,Shannon,Morocco,Africa,0
+2006,Shannon,Tunisia,Africa,0
+2006,Shannon,Other Africa (6),Africa,0
+2006,Shannon,Bahrain,Asia,0
+2006,Shannon,Israel,Asia,0
+2006,Shannon,Turkey,Asia,0
+2006,Shannon,United Arab Emirates,Asia,0
+2006,Shannon,Other Asian countries (4),Asia,0
+2006,Shannon,Oceania and Polar regions (1),Oceania and Polar,0
 2007,Cork,Ireland (domestic),Ireland (domestic),254.6
+2007,Cork,Austria,Western Europe,0
+2007,Cork,Belgium,Western Europe,0
+2007,Cork,Bulgaria,Eastern Europe,0
+2007,Cork,Cyprus,Southern Europe,0
+2007,Cork,Czech Republic,Eastern Europe,22.3
+2007,Cork,Denmark,Northern Europe,0
+2007,Cork,Estonia,Northern Europe,0
+2007,Cork,Finland,Northern Europe,0
+2007,Cork,France,Western Europe,67.7
+2007,Cork,Germany,Western Europe,20.6
+2007,Cork,Greece,Southern Europe,0
+2007,Cork,Hungary,Eastern Europe,13.9
+2007,Cork,Italy,Southern Europe,20.2
+2007,Cork,Latvia,Northern Europe,0
+2007,Cork,Lithuania,Northern Europe,0
+2007,Cork,Luxembourg,Western Europe,0
+2007,Cork,Malta,Southern Europe,0
+2007,Cork,Netherlands,Western Europe,77.7
+2007,Cork,Poland,Eastern Europe,101
+2007,Cork,Portugal,Southern Europe,17.4
+2007,Cork,Romania,Eastern Europe,0
+2007,Cork,Slovakia,Eastern Europe,2.7
+2007,Cork,Slovenia,Southern Europe,0
+2007,Cork,Spain,Southern Europe,86.3
+2007,Cork,Sweden,Northern Europe,0
 2007,Cork,England,UK,654.2
-2007,Dublin,Tunisia,Africa,0.1
-2007,Dublin,Oceania and Polar regions (1),Oceania and Polar,0.1
-2007,Dublin,Bulgaria,Eastern Europe,1.1
-2007,Dublin,Morocco,Africa,1.2
-2007,Dublin,Israel,Asia,1.2
-2007,Dublin,Luxembourg,Western Europe,1.4
-2007,Dublin,Cyprus,Southern Europe,1.7
-2007,Dublin,Slovenia,Southern Europe,1.7
-2007,Dublin,Romania,Eastern Europe,2.8
-2007,Dublin,Estonia,Northern Europe,8.7
-2007,Dublin,Greece,Southern Europe,9.3
-2007,Dublin,Bahrain,Asia,10.6
-2007,Dublin,Canada,Americas,13
-2007,Dublin,Northern Ireland,Northern Europe,13.1
-2007,Dublin,Malta,Southern Europe,22.4
-2007,Dublin,Turkey,Asia,24.6
-2007,Dublin,Other UK (1),UK,26.2
-2007,Dublin,Croatia,Southern Europe,31.4
-2007,Dublin,Wales,UK,33.9
-2007,Dublin,Finland,Northern Europe,46
-2007,Dublin,United Arab Emirates,Asia,53.5
-2007,Dublin,Slovakia,Eastern Europe,61.3
-2007,Dublin,Norway,Northern Europe,62.2
+2007,Cork,Northern Ireland,UK,22.5
+2007,Cork,Scotland,UK,28.9
+2007,Cork,Wales,UK,11.8
+2007,Cork,Other UK (1),UK,0.8
+2007,Cork,Croatia,Southern Europe,0
+2007,Cork,Iceland,Northern Europe,0
+2007,Cork,Norway,Northern Europe,0
+2007,Cork,Russian Federation,Eastern Europe,0
+2007,Cork,Serbia,Southern Europe,0
+2007,Cork,Switzerland,Western Europe,0
+2007,Cork,Other Europe (12),Europe (other),0
+2007,Cork,Canada,Americas,0
+2007,Cork,United States,Americas,0
+2007,Cork,Other America (5),Americas,0
+2007,Cork,Canary Islands,Africa,8.5
+2007,Cork,Eygpt,Africa,0
+2007,Cork,Morocco,Africa,0
+2007,Cork,Tunisia,Africa,0
+2007,Cork,Other Africa (6),Africa,0
+2007,Cork,Bahrain,Asia,0
+2007,Cork,Israel,Asia,0
+2007,Cork,Turkey,Asia,0
+2007,Cork,United Arab Emirates,Asia,0
+2007,Cork,Other Asian countries (4),Asia,0
+2007,Cork,Oceania and Polar regions (1),Oceania and Polar,0
+2007,Dublin,Ireland (domestic),Ireland (domestic),584.4
 2007,Dublin,Austria,Western Europe,72.3
-2007,Dublin,Hungary,Eastern Europe,95
-2007,Dublin,Lithuania,Northern Europe,98.9
-2007,Dublin,Sweden,Northern Europe,103.3
-2007,Dublin,Canary Islands,Africa,111
-2007,Dublin,Denmark,Northern Europe,114.6
-2007,Dublin,Latvia,Northern Europe,114.8
-2007,Dublin,Czech Republic,Eastern Europe,115.1
-2007,Dublin,Switzerland,Western Europe,122.5
 2007,Dublin,Belgium,Western Europe,175.1
-2007,Dublin,Portugal,Southern Europe,176.5
+2007,Dublin,Bulgaria,Eastern Europe,1.1
+2007,Dublin,Cyprus,Southern Europe,1.7
+2007,Dublin,Czech Republic,Eastern Europe,115.1
+2007,Dublin,Denmark,Northern Europe,114.6
+2007,Dublin,Estonia,Northern Europe,8.7
+2007,Dublin,Finland,Northern Europe,46
+2007,Dublin,France,Western Europe,722
+2007,Dublin,Germany,Western Europe,670.9
+2007,Dublin,Greece,Southern Europe,9.3
+2007,Dublin,Hungary,Eastern Europe,95
+2007,Dublin,Italy,Southern Europe,480.3
+2007,Dublin,Latvia,Northern Europe,114.8
+2007,Dublin,Lithuania,Northern Europe,98.9
+2007,Dublin,Luxembourg,Western Europe,1.4
+2007,Dublin,Malta,Southern Europe,22.4
 2007,Dublin,Netherlands,Western Europe,309.3
 2007,Dublin,Poland,Eastern Europe,467.7
-2007,Dublin,Scotland,UK,469.5
-2007,Dublin,Italy,Southern Europe,480.3
-2007,Dublin,Ireland (domestic),Ireland (domestic),584.4
-2007,Dublin,United States,Americas,654.3
-2007,Dublin,Germany,Western Europe,670.9
-2007,Dublin,France,Western Europe,722
+2007,Dublin,Portugal,Southern Europe,176.5
+2007,Dublin,Romania,Eastern Europe,2.8
+2007,Dublin,Slovakia,Eastern Europe,61.3
+2007,Dublin,Slovenia,Southern Europe,1.7
 2007,Dublin,Spain,Southern Europe,864.2
+2007,Dublin,Sweden,Northern Europe,103.3
 2007,Dublin,England,UK,3802.4
-2007,Galway,Spain,Southern Europe,0.3
-2007,Galway,Portugal,Southern Europe,0.4
-2007,Galway,Wales,UK,0.7
-2007,Galway,Oceania and Polar regions (1),Oceania and Polar,1.6
-2007,Galway,France,Western Europe,1.8
-2007,Galway,Northern Ireland,Northern Europe,3.3
-2007,Galway,Scotland,UK,13.5
+2007,Dublin,Northern Ireland,UK,13.1
+2007,Dublin,Scotland,UK,469.5
+2007,Dublin,Wales,UK,33.9
+2007,Dublin,Other UK (1),UK,26.2
+2007,Dublin,Croatia,Southern Europe,31.4
+2007,Dublin,Iceland,Northern Europe,0
+2007,Dublin,Norway,Northern Europe,62.2
+2007,Dublin,Russian Federation,Eastern Europe,0
+2007,Dublin,Serbia,Southern Europe,0
+2007,Dublin,Switzerland,Western Europe,122.5
+2007,Dublin,Other Europe (12),Europe (other),0
+2007,Dublin,Canada,Americas,13
+2007,Dublin,United States,Americas,654.3
+2007,Dublin,Other America (5),Americas,0
+2007,Dublin,Canary Islands,Africa,111
+2007,Dublin,Eygpt,Africa,0
+2007,Dublin,Morocco,Africa,1.2
+2007,Dublin,Tunisia,Africa,0.1
+2007,Dublin,Other Africa (6),Africa,0
+2007,Dublin,Bahrain,Asia,10.6
+2007,Dublin,Israel,Asia,1.2
+2007,Dublin,Turkey,Asia,24.6
+2007,Dublin,United Arab Emirates,Asia,53.5
+2007,Dublin,Other Asian countries (4),Asia,0
+2007,Dublin,Oceania and Polar regions (1),Oceania and Polar,0.1
 2007,Galway,Ireland (domestic),Ireland (domestic),51.2
+2007,Galway,Austria,Western Europe,0
+2007,Galway,Belgium,Western Europe,0
+2007,Galway,Bulgaria,Eastern Europe,0
+2007,Galway,Cyprus,Southern Europe,0
+2007,Galway,Czech Republic,Eastern Europe,0
+2007,Galway,Denmark,Northern Europe,0
+2007,Galway,Estonia,Northern Europe,0
+2007,Galway,Finland,Northern Europe,0
+2007,Galway,France,Western Europe,1.8
+2007,Galway,Germany,Western Europe,0
+2007,Galway,Greece,Southern Europe,0
+2007,Galway,Hungary,Eastern Europe,0
+2007,Galway,Italy,Southern Europe,0
+2007,Galway,Latvia,Northern Europe,0
+2007,Galway,Lithuania,Northern Europe,0
+2007,Galway,Luxembourg,Western Europe,0
+2007,Galway,Malta,Southern Europe,0
+2007,Galway,Netherlands,Western Europe,0
+2007,Galway,Poland,Eastern Europe,0
+2007,Galway,Portugal,Southern Europe,0.4
+2007,Galway,Romania,Eastern Europe,0
+2007,Galway,Slovakia,Eastern Europe,0
+2007,Galway,Slovenia,Southern Europe,0
+2007,Galway,Spain,Southern Europe,0.3
+2007,Galway,Sweden,Northern Europe,0
 2007,Galway,England,UK,81.3
-2007,Kerry,United States,Americas,0.1
-2007,Kerry,France,Western Europe,1.9
-2007,Kerry,Canary Islands,Africa,1.9
-2007,Kerry,Germany,Western Europe,43.9
+2007,Galway,Northern Ireland,UK,3.3
+2007,Galway,Scotland,UK,13.5
+2007,Galway,Wales,UK,0.7
+2007,Galway,Other UK (1),UK,0
+2007,Galway,Croatia,Southern Europe,0
+2007,Galway,Iceland,Northern Europe,0
+2007,Galway,Norway,Northern Europe,0
+2007,Galway,Russian Federation,Eastern Europe,0
+2007,Galway,Serbia,Southern Europe,0
+2007,Galway,Switzerland,Western Europe,0
+2007,Galway,Other Europe (12),Europe (other),0
+2007,Galway,Canada,Americas,0
+2007,Galway,United States,Americas,0
+2007,Galway,Other America (5),Americas,0
+2007,Galway,Canary Islands,Africa,0
+2007,Galway,Eygpt,Africa,0
+2007,Galway,Morocco,Africa,0
+2007,Galway,Tunisia,Africa,0
+2007,Galway,Other Africa (6),Africa,0
+2007,Galway,Bahrain,Asia,0
+2007,Galway,Israel,Asia,0
+2007,Galway,Turkey,Asia,0
+2007,Galway,United Arab Emirates,Asia,0
+2007,Galway,Other Asian countries (4),Asia,0
+2007,Galway,Oceania and Polar regions (1),Oceania and Polar,1.6
 2007,Kerry,Ireland (domestic),Ireland (domestic),61.2
+2007,Kerry,Austria,Western Europe,0
+2007,Kerry,Belgium,Western Europe,0
+2007,Kerry,Bulgaria,Eastern Europe,0
+2007,Kerry,Cyprus,Southern Europe,0
+2007,Kerry,Czech Republic,Eastern Europe,0
+2007,Kerry,Denmark,Northern Europe,0
+2007,Kerry,Estonia,Northern Europe,0
+2007,Kerry,Finland,Northern Europe,0
+2007,Kerry,France,Western Europe,1.9
+2007,Kerry,Germany,Western Europe,43.9
+2007,Kerry,Greece,Southern Europe,0
+2007,Kerry,Hungary,Eastern Europe,0
+2007,Kerry,Italy,Southern Europe,0
+2007,Kerry,Latvia,Northern Europe,0
+2007,Kerry,Lithuania,Northern Europe,0
+2007,Kerry,Luxembourg,Western Europe,0
+2007,Kerry,Malta,Southern Europe,0
+2007,Kerry,Netherlands,Western Europe,0
+2007,Kerry,Poland,Eastern Europe,0
+2007,Kerry,Portugal,Southern Europe,0
+2007,Kerry,Romania,Eastern Europe,0
+2007,Kerry,Slovakia,Eastern Europe,0
+2007,Kerry,Slovenia,Southern Europe,0
+2007,Kerry,Spain,Southern Europe,0
+2007,Kerry,Sweden,Northern Europe,0
 2007,Kerry,England,UK,86.6
-2007,Knock,France,Western Europe,0.1
-2007,Knock,Croatia,Southern Europe,0.1
-2007,Knock,Serbia,Southern Europe,0.2
-2007,Knock,Spain,Southern Europe,0.5
-2007,Knock,Canary Islands,Africa,1.2
+2007,Kerry,Northern Ireland,UK,0
+2007,Kerry,Scotland,UK,0
+2007,Kerry,Wales,UK,0
+2007,Kerry,Other UK (1),UK,0
+2007,Kerry,Croatia,Southern Europe,0
+2007,Kerry,Iceland,Northern Europe,0
+2007,Kerry,Norway,Northern Europe,0
+2007,Kerry,Russian Federation,Eastern Europe,0
+2007,Kerry,Serbia,Southern Europe,0
+2007,Kerry,Switzerland,Western Europe,0
+2007,Kerry,Other Europe (12),Europe (other),0
+2007,Kerry,Canada,Americas,0
+2007,Kerry,United States,Americas,0.1
+2007,Kerry,Other America (5),Americas,0
+2007,Kerry,Canary Islands,Africa,1.9
+2007,Kerry,Eygpt,Africa,0
+2007,Kerry,Morocco,Africa,0
+2007,Kerry,Tunisia,Africa,0
+2007,Kerry,Other Africa (6),Africa,0
+2007,Kerry,Bahrain,Asia,0
+2007,Kerry,Israel,Asia,0
+2007,Kerry,Turkey,Asia,0
+2007,Kerry,United Arab Emirates,Asia,0
+2007,Kerry,Other Asian countries (4),Asia,0
+2007,Kerry,Oceania and Polar regions (1),Oceania and Polar,0
 2007,Knock,Ireland (domestic),Ireland (domestic),8.1
-2007,Knock,United States,Americas,9.4
+2007,Knock,Austria,Western Europe,0
+2007,Knock,Belgium,Western Europe,0
+2007,Knock,Bulgaria,Eastern Europe,0
+2007,Knock,Cyprus,Southern Europe,0
+2007,Knock,Czech Republic,Eastern Europe,0
+2007,Knock,Denmark,Northern Europe,0
+2007,Knock,Estonia,Northern Europe,0
+2007,Knock,Finland,Northern Europe,0
+2007,Knock,France,Western Europe,0.1
+2007,Knock,Germany,Western Europe,0
+2007,Knock,Greece,Southern Europe,0
+2007,Knock,Hungary,Eastern Europe,0
+2007,Knock,Italy,Southern Europe,0
+2007,Knock,Latvia,Northern Europe,0
+2007,Knock,Lithuania,Northern Europe,0
+2007,Knock,Luxembourg,Western Europe,0
+2007,Knock,Malta,Southern Europe,0
+2007,Knock,Netherlands,Western Europe,0
+2007,Knock,Poland,Eastern Europe,0
+2007,Knock,Portugal,Southern Europe,0
+2007,Knock,Romania,Eastern Europe,0
+2007,Knock,Slovakia,Eastern Europe,0
+2007,Knock,Slovenia,Southern Europe,0
+2007,Knock,Spain,Southern Europe,0.5
+2007,Knock,Sweden,Northern Europe,0
 2007,Knock,England,UK,217.3
-2007,Shannon,Latvia,Northern Europe,2.3
-2007,Shannon,Canary Islands,Africa,2.4
-2007,Shannon,Lithuania,Northern Europe,2.8
-2007,Shannon,Russian Federation,Eastern Europe,3.2
-2007,Shannon,Canada,Americas,10.6
-2007,Shannon,Portugal,Southern Europe,15.8
-2007,Shannon,Belgium,Western Europe,21.5
-2007,Shannon,Germany,Western Europe,24.8
-2007,Shannon,Italy,Southern Europe,53.6
-2007,Shannon,Scotland,UK,65.2
-2007,Shannon,Spain,Southern Europe,89.2
-2007,Shannon,Poland,Eastern Europe,99.6
-2007,Shannon,France,Western Europe,100.5
+2007,Knock,Northern Ireland,UK,0
+2007,Knock,Scotland,UK,0
+2007,Knock,Wales,UK,0
+2007,Knock,Other UK (1),UK,0
+2007,Knock,Croatia,Southern Europe,0.1
+2007,Knock,Iceland,Northern Europe,0
+2007,Knock,Norway,Northern Europe,0
+2007,Knock,Russian Federation,Eastern Europe,0
+2007,Knock,Serbia,Southern Europe,0.2
+2007,Knock,Switzerland,Western Europe,0
+2007,Knock,Other Europe (12),Europe (other),0
+2007,Knock,Canada,Americas,0
+2007,Knock,United States,Americas,9.4
+2007,Knock,Other America (5),Americas,0
+2007,Knock,Canary Islands,Africa,1.2
+2007,Knock,Eygpt,Africa,0
+2007,Knock,Morocco,Africa,0
+2007,Knock,Tunisia,Africa,0
+2007,Knock,Other Africa (6),Africa,0
+2007,Knock,Bahrain,Asia,0
+2007,Knock,Israel,Asia,0
+2007,Knock,Turkey,Asia,0
+2007,Knock,United Arab Emirates,Asia,0
+2007,Knock,Other Asian countries (4),Asia,0
+2007,Knock,Oceania and Polar regions (1),Oceania and Polar,0
 2007,Shannon,Ireland (domestic),Ireland (domestic),126.3
-2007,Shannon,United States,Americas,426.5
+2007,Shannon,Austria,Western Europe,0
+2007,Shannon,Belgium,Western Europe,21.5
+2007,Shannon,Bulgaria,Eastern Europe,0
+2007,Shannon,Cyprus,Southern Europe,0
+2007,Shannon,Czech Republic,Eastern Europe,0
+2007,Shannon,Denmark,Northern Europe,0
+2007,Shannon,Estonia,Northern Europe,0
+2007,Shannon,Finland,Northern Europe,0
+2007,Shannon,France,Western Europe,100.5
+2007,Shannon,Germany,Western Europe,24.8
+2007,Shannon,Greece,Southern Europe,0
+2007,Shannon,Hungary,Eastern Europe,0
+2007,Shannon,Italy,Southern Europe,53.6
+2007,Shannon,Latvia,Northern Europe,2.3
+2007,Shannon,Lithuania,Northern Europe,2.8
+2007,Shannon,Luxembourg,Western Europe,0
+2007,Shannon,Malta,Southern Europe,0
+2007,Shannon,Netherlands,Western Europe,0
+2007,Shannon,Poland,Eastern Europe,99.6
+2007,Shannon,Portugal,Southern Europe,15.8
+2007,Shannon,Romania,Eastern Europe,0
+2007,Shannon,Slovakia,Eastern Europe,0
+2007,Shannon,Slovenia,Southern Europe,0
+2007,Shannon,Spain,Southern Europe,89.2
+2007,Shannon,Sweden,Northern Europe,0
 2007,Shannon,England,UK,563.3
-2008,Cork,Hungary,Eastern Europe,0.3
-2008,Cork,Switzerland,Western Europe,0.9
-2008,Cork,Other UK (1),UK,3.6
-2008,Cork,Wales,UK,11.5
-2008,Cork,Canary Islands,Africa,12.1
-2008,Cork,Slovakia,Eastern Europe,13.7
-2008,Cork,Czech Republic,Eastern Europe,17.2
-2008,Cork,Portugal,Southern Europe,20.6
-2008,Cork,Northern Ireland,Northern Europe,22.9
-2008,Cork,Italy,Southern Europe,24.2
-2008,Cork,Germany,Western Europe,41.9
-2008,Cork,Scotland,UK,52.5
-2008,Cork,Poland,Eastern Europe,69.4
-2008,Cork,France,Western Europe,76
-2008,Cork,Netherlands,Western Europe,80.8
-2008,Cork,Spain,Southern Europe,81.7
+2007,Shannon,Northern Ireland,UK,0
+2007,Shannon,Scotland,UK,65.2
+2007,Shannon,Wales,UK,0
+2007,Shannon,Other UK (1),UK,0
+2007,Shannon,Croatia,Southern Europe,0
+2007,Shannon,Iceland,Northern Europe,0
+2007,Shannon,Norway,Northern Europe,0
+2007,Shannon,Russian Federation,Eastern Europe,3.2
+2007,Shannon,Serbia,Southern Europe,0
+2007,Shannon,Switzerland,Western Europe,0
+2007,Shannon,Other Europe (12),Europe (other),0
+2007,Shannon,Canada,Americas,10.6
+2007,Shannon,United States,Americas,426.5
+2007,Shannon,Other America (5),Americas,0
+2007,Shannon,Canary Islands,Africa,2.4
+2007,Shannon,Eygpt,Africa,0
+2007,Shannon,Morocco,Africa,0
+2007,Shannon,Tunisia,Africa,0
+2007,Shannon,Other Africa (6),Africa,0
+2007,Shannon,Bahrain,Asia,0
+2007,Shannon,Israel,Asia,0
+2007,Shannon,Turkey,Asia,0
+2007,Shannon,United Arab Emirates,Asia,0
+2007,Shannon,Other Asian countries (4),Asia,0
+2007,Shannon,Oceania and Polar regions (1),Oceania and Polar,0
 2008,Cork,Ireland (domestic),Ireland (domestic),224.9
+2008,Cork,Austria,Western Europe,0
+2008,Cork,Belgium,Western Europe,0
+2008,Cork,Bulgaria,Eastern Europe,0
+2008,Cork,Cyprus,Southern Europe,0
+2008,Cork,Czech Republic,Eastern Europe,17.2
+2008,Cork,Denmark,Northern Europe,0
+2008,Cork,Estonia,Northern Europe,0
+2008,Cork,Finland,Northern Europe,0
+2008,Cork,France,Western Europe,76
+2008,Cork,Germany,Western Europe,41.9
+2008,Cork,Greece,Southern Europe,0
+2008,Cork,Hungary,Eastern Europe,0.3
+2008,Cork,Italy,Southern Europe,24.2
+2008,Cork,Latvia,Northern Europe,0
+2008,Cork,Lithuania,Northern Europe,0
+2008,Cork,Luxembourg,Western Europe,0
+2008,Cork,Malta,Southern Europe,0
+2008,Cork,Netherlands,Western Europe,80.8
+2008,Cork,Poland,Eastern Europe,69.4
+2008,Cork,Portugal,Southern Europe,20.6
+2008,Cork,Romania,Eastern Europe,0
+2008,Cork,Slovakia,Eastern Europe,13.7
+2008,Cork,Slovenia,Southern Europe,0
+2008,Cork,Spain,Southern Europe,81.7
+2008,Cork,Sweden,Northern Europe,0
 2008,Cork,England,UK,708.7
-2008,Dublin,Slovenia,Southern Europe,1.6
-2008,Dublin,Morocco,Africa,3.3
-2008,Dublin,Russian Federation,Eastern Europe,5.6
-2008,Dublin,Estonia,Northern Europe,6.9
-2008,Dublin,Bulgaria,Eastern Europe,8
-2008,Dublin,Luxembourg,Western Europe,9.1
-2008,Dublin,Northern Ireland,Northern Europe,12.3
-2008,Dublin,Greece,Southern Europe,14.6
-2008,Dublin,Romania,Eastern Europe,23.9
-2008,Dublin,Malta,Southern Europe,24.7
-2008,Dublin,Croatia,Southern Europe,25.3
-2008,Dublin,Turkey,Asia,26.1
-2008,Dublin,Other UK (1),UK,30.3
-2008,Dublin,Wales,UK,32.2
-2008,Dublin,Finland,Northern Europe,37.2
-2008,Dublin,Canada,Americas,41.8
-2008,Dublin,Norway,Northern Europe,55.6
+2008,Cork,Northern Ireland,UK,22.9
+2008,Cork,Scotland,UK,52.5
+2008,Cork,Wales,UK,11.5
+2008,Cork,Other UK (1),UK,3.6
+2008,Cork,Croatia,Southern Europe,0
+2008,Cork,Iceland,Northern Europe,0
+2008,Cork,Norway,Northern Europe,0
+2008,Cork,Russian Federation,Eastern Europe,0
+2008,Cork,Serbia,Southern Europe,0
+2008,Cork,Switzerland,Western Europe,0.9
+2008,Cork,Other Europe (12),Europe (other),0
+2008,Cork,Canada,Americas,0
+2008,Cork,United States,Americas,0
+2008,Cork,Other America (5),Americas,0
+2008,Cork,Canary Islands,Africa,12.1
+2008,Cork,Eygpt,Africa,0
+2008,Cork,Morocco,Africa,0
+2008,Cork,Tunisia,Africa,0
+2008,Cork,Other Africa (6),Africa,0
+2008,Cork,Bahrain,Asia,0
+2008,Cork,Israel,Asia,0
+2008,Cork,Turkey,Asia,0
+2008,Cork,United Arab Emirates,Asia,0
+2008,Cork,Other Asian countries (4),Asia,0
+2008,Cork,Oceania and Polar regions (1),Oceania and Polar,0
+2008,Dublin,Ireland (domestic),Ireland (domestic),460.5
 2008,Dublin,Austria,Western Europe,67.7
-2008,Dublin,United Arab Emirates,Asia,70.7
-2008,Dublin,Sweden,Northern Europe,82.1
-2008,Dublin,Slovakia,Eastern Europe,89.2
+2008,Dublin,Belgium,Western Europe,178.6
+2008,Dublin,Bulgaria,Eastern Europe,8
+2008,Dublin,Cyprus,Southern Europe,0
+2008,Dublin,Czech Republic,Eastern Europe,146.2
+2008,Dublin,Denmark,Northern Europe,123.6
+2008,Dublin,Estonia,Northern Europe,6.9
+2008,Dublin,Finland,Northern Europe,37.2
+2008,Dublin,France,Western Europe,752.9
+2008,Dublin,Germany,Western Europe,667.3
+2008,Dublin,Greece,Southern Europe,14.6
+2008,Dublin,Hungary,Eastern Europe,136.5
+2008,Dublin,Italy,Southern Europe,484
 2008,Dublin,Latvia,Northern Europe,102.8
 2008,Dublin,Lithuania,Northern Europe,113.3
-2008,Dublin,Denmark,Northern Europe,123.6
-2008,Dublin,Switzerland,Western Europe,128.6
-2008,Dublin,Hungary,Eastern Europe,136.5
-2008,Dublin,Canary Islands,Africa,140.4
-2008,Dublin,Czech Republic,Eastern Europe,146.2
-2008,Dublin,Belgium,Western Europe,178.6
-2008,Dublin,Portugal,Southern Europe,189.3
+2008,Dublin,Luxembourg,Western Europe,9.1
+2008,Dublin,Malta,Southern Europe,24.7
 2008,Dublin,Netherlands,Western Europe,302.3
-2008,Dublin,Scotland,UK,458.6
-2008,Dublin,Ireland (domestic),Ireland (domestic),460.5
 2008,Dublin,Poland,Eastern Europe,473.8
-2008,Dublin,Italy,Southern Europe,484
-2008,Dublin,Germany,Western Europe,667.3
-2008,Dublin,France,Western Europe,752.9
-2008,Dublin,United States,Americas,815
+2008,Dublin,Portugal,Southern Europe,189.3
+2008,Dublin,Romania,Eastern Europe,23.9
+2008,Dublin,Slovakia,Eastern Europe,89.2
+2008,Dublin,Slovenia,Southern Europe,1.6
 2008,Dublin,Spain,Southern Europe,835.3
+2008,Dublin,Sweden,Northern Europe,82.1
 2008,Dublin,England,UK,3750.1
-2008,Galway,Northern Ireland,Northern Europe,0.1
-2008,Galway,Oceania and Polar regions (1),Oceania and Polar,0.2
-2008,Galway,Portugal,Southern Europe,0.7
-2008,Galway,Spain,Southern Europe,0.9
-2008,Galway,France,Western Europe,2.7
-2008,Galway,Netherlands,Western Europe,5
-2008,Galway,Scotland,UK,10.5
+2008,Dublin,Northern Ireland,UK,12.3
+2008,Dublin,Scotland,UK,458.6
+2008,Dublin,Wales,UK,32.2
+2008,Dublin,Other UK (1),UK,30.3
+2008,Dublin,Croatia,Southern Europe,25.3
+2008,Dublin,Iceland,Northern Europe,0
+2008,Dublin,Norway,Northern Europe,55.6
+2008,Dublin,Russian Federation,Eastern Europe,5.6
+2008,Dublin,Serbia,Southern Europe,0
+2008,Dublin,Switzerland,Western Europe,128.6
+2008,Dublin,Other Europe (12),Europe (other),0
+2008,Dublin,Canada,Americas,41.8
+2008,Dublin,United States,Americas,815
+2008,Dublin,Other America (5),Americas,0
+2008,Dublin,Canary Islands,Africa,140.4
+2008,Dublin,Eygpt,Africa,0
+2008,Dublin,Morocco,Africa,3.3
+2008,Dublin,Tunisia,Africa,0
+2008,Dublin,Other Africa (6),Africa,0
+2008,Dublin,Bahrain,Asia,0
+2008,Dublin,Israel,Asia,0
+2008,Dublin,Turkey,Asia,26.1
+2008,Dublin,United Arab Emirates,Asia,70.7
+2008,Dublin,Other Asian countries (4),Asia,0
+2008,Dublin,Oceania and Polar regions (1),Oceania and Polar,0
 2008,Galway,Ireland (domestic),Ireland (domestic),45.3
+2008,Galway,Austria,Western Europe,0
+2008,Galway,Belgium,Western Europe,0
+2008,Galway,Bulgaria,Eastern Europe,0
+2008,Galway,Cyprus,Southern Europe,0
+2008,Galway,Czech Republic,Eastern Europe,0
+2008,Galway,Denmark,Northern Europe,0
+2008,Galway,Estonia,Northern Europe,0
+2008,Galway,Finland,Northern Europe,0
+2008,Galway,France,Western Europe,2.7
+2008,Galway,Germany,Western Europe,0
+2008,Galway,Greece,Southern Europe,0
+2008,Galway,Hungary,Eastern Europe,0
+2008,Galway,Italy,Southern Europe,0
+2008,Galway,Latvia,Northern Europe,0
+2008,Galway,Lithuania,Northern Europe,0
+2008,Galway,Luxembourg,Western Europe,0
+2008,Galway,Malta,Southern Europe,0
+2008,Galway,Netherlands,Western Europe,5
+2008,Galway,Poland,Eastern Europe,0
+2008,Galway,Portugal,Southern Europe,0.7
+2008,Galway,Romania,Eastern Europe,0
+2008,Galway,Slovakia,Eastern Europe,0
+2008,Galway,Slovenia,Southern Europe,0
+2008,Galway,Spain,Southern Europe,0.9
+2008,Galway,Sweden,Northern Europe,0
 2008,Galway,England,UK,69.8
-2008,Kerry,Canary Islands,Africa,1.5
+2008,Galway,Northern Ireland,UK,0.1
+2008,Galway,Scotland,UK,10.5
+2008,Galway,Wales,UK,0
+2008,Galway,Other UK (1),UK,0
+2008,Galway,Croatia,Southern Europe,0
+2008,Galway,Iceland,Northern Europe,0
+2008,Galway,Norway,Northern Europe,0
+2008,Galway,Russian Federation,Eastern Europe,0
+2008,Galway,Serbia,Southern Europe,0
+2008,Galway,Switzerland,Western Europe,0
+2008,Galway,Other Europe (12),Europe (other),0
+2008,Galway,Canada,Americas,0
+2008,Galway,United States,Americas,0
+2008,Galway,Other America (5),Americas,0
+2008,Galway,Canary Islands,Africa,0
+2008,Galway,Eygpt,Africa,0
+2008,Galway,Morocco,Africa,0
+2008,Galway,Tunisia,Africa,0
+2008,Galway,Other Africa (6),Africa,0
+2008,Galway,Bahrain,Asia,0
+2008,Galway,Israel,Asia,0
+2008,Galway,Turkey,Asia,0
+2008,Galway,United Arab Emirates,Asia,0
+2008,Galway,Other Asian countries (4),Asia,0
+2008,Galway,Oceania and Polar regions (1),Oceania and Polar,0.2
+2008,Kerry,Ireland (domestic),Ireland (domestic),64.1
+2008,Kerry,Austria,Western Europe,0
+2008,Kerry,Belgium,Western Europe,0
+2008,Kerry,Bulgaria,Eastern Europe,0
+2008,Kerry,Cyprus,Southern Europe,0
+2008,Kerry,Czech Republic,Eastern Europe,0
+2008,Kerry,Denmark,Northern Europe,0
+2008,Kerry,Estonia,Northern Europe,0
+2008,Kerry,Finland,Northern Europe,0
 2008,Kerry,France,Western Europe,1.8
 2008,Kerry,Germany,Western Europe,41.2
-2008,Kerry,Ireland (domestic),Ireland (domestic),64.1
+2008,Kerry,Greece,Southern Europe,0
+2008,Kerry,Hungary,Eastern Europe,0
+2008,Kerry,Italy,Southern Europe,0
+2008,Kerry,Latvia,Northern Europe,0
+2008,Kerry,Lithuania,Northern Europe,0
+2008,Kerry,Luxembourg,Western Europe,0
+2008,Kerry,Malta,Southern Europe,0
+2008,Kerry,Netherlands,Western Europe,0
+2008,Kerry,Poland,Eastern Europe,0
+2008,Kerry,Portugal,Southern Europe,0
+2008,Kerry,Romania,Eastern Europe,0
+2008,Kerry,Slovakia,Eastern Europe,0
+2008,Kerry,Slovenia,Southern Europe,0
+2008,Kerry,Spain,Southern Europe,0
+2008,Kerry,Sweden,Northern Europe,0
 2008,Kerry,England,UK,94.7
+2008,Kerry,Northern Ireland,UK,0
+2008,Kerry,Scotland,UK,0
+2008,Kerry,Wales,UK,0
+2008,Kerry,Other UK (1),UK,0
+2008,Kerry,Croatia,Southern Europe,0
+2008,Kerry,Iceland,Northern Europe,0
+2008,Kerry,Norway,Northern Europe,0
+2008,Kerry,Russian Federation,Eastern Europe,0
+2008,Kerry,Serbia,Southern Europe,0
+2008,Kerry,Switzerland,Western Europe,0
+2008,Kerry,Other Europe (12),Europe (other),0
+2008,Kerry,Canada,Americas,0
+2008,Kerry,United States,Americas,0
+2008,Kerry,Other America (5),Americas,0
+2008,Kerry,Canary Islands,Africa,1.5
+2008,Kerry,Eygpt,Africa,0
+2008,Kerry,Morocco,Africa,0
+2008,Kerry,Tunisia,Africa,0
+2008,Kerry,Other Africa (6),Africa,0
+2008,Kerry,Bahrain,Asia,0
+2008,Kerry,Israel,Asia,0
+2008,Kerry,Turkey,Asia,0
+2008,Kerry,United Arab Emirates,Asia,0
+2008,Kerry,Other Asian countries (4),Asia,0
+2008,Kerry,Oceania and Polar regions (1),Oceania and Polar,0
 2008,Knock,Ireland (domestic),Ireland (domestic),6.2
-2008,Knock,Scotland,UK,7.1
+2008,Knock,Austria,Western Europe,0
+2008,Knock,Belgium,Western Europe,0
+2008,Knock,Bulgaria,Eastern Europe,0
+2008,Knock,Cyprus,Southern Europe,0
+2008,Knock,Czech Republic,Eastern Europe,0
+2008,Knock,Denmark,Northern Europe,0
+2008,Knock,Estonia,Northern Europe,0
+2008,Knock,Finland,Northern Europe,0
+2008,Knock,France,Western Europe,0
+2008,Knock,Germany,Western Europe,0
+2008,Knock,Greece,Southern Europe,0
+2008,Knock,Hungary,Eastern Europe,0
+2008,Knock,Italy,Southern Europe,0
+2008,Knock,Latvia,Northern Europe,0
+2008,Knock,Lithuania,Northern Europe,0
+2008,Knock,Luxembourg,Western Europe,0
+2008,Knock,Malta,Southern Europe,0
+2008,Knock,Netherlands,Western Europe,0
+2008,Knock,Poland,Eastern Europe,0
+2008,Knock,Portugal,Southern Europe,0
+2008,Knock,Romania,Eastern Europe,0
+2008,Knock,Slovakia,Eastern Europe,0
+2008,Knock,Slovenia,Southern Europe,0
+2008,Knock,Spain,Southern Europe,0
+2008,Knock,Sweden,Northern Europe,0
 2008,Knock,England,UK,269.7
+2008,Knock,Northern Ireland,UK,0
+2008,Knock,Scotland,UK,7.1
+2008,Knock,Wales,UK,0
+2008,Knock,Other UK (1),UK,0
+2008,Knock,Croatia,Southern Europe,0
+2008,Knock,Iceland,Northern Europe,0
+2008,Knock,Norway,Northern Europe,0
+2008,Knock,Russian Federation,Eastern Europe,0
+2008,Knock,Serbia,Southern Europe,0
+2008,Knock,Switzerland,Western Europe,0
+2008,Knock,Other Europe (12),Europe (other),0
+2008,Knock,Canada,Americas,0
+2008,Knock,United States,Americas,0
+2008,Knock,Other America (5),Americas,0
+2008,Knock,Canary Islands,Africa,0
+2008,Knock,Eygpt,Africa,0
+2008,Knock,Morocco,Africa,0
+2008,Knock,Tunisia,Africa,0
+2008,Knock,Other Africa (6),Africa,0
+2008,Knock,Bahrain,Asia,0
+2008,Knock,Israel,Asia,0
+2008,Knock,Turkey,Asia,0
+2008,Knock,United Arab Emirates,Asia,0
+2008,Knock,Other Asian countries (4),Asia,0
+2008,Knock,Oceania and Polar regions (1),Oceania and Polar,0
+2008,Shannon,Ireland (domestic),Ireland (domestic),94.7
 2008,Shannon,Austria,Western Europe,0.1
-2008,Shannon,Russian Federation,Eastern Europe,3.5
+2008,Shannon,Belgium,Western Europe,21.1
+2008,Shannon,Bulgaria,Eastern Europe,0
+2008,Shannon,Cyprus,Southern Europe,0
+2008,Shannon,Czech Republic,Eastern Europe,0
+2008,Shannon,Denmark,Northern Europe,0
+2008,Shannon,Estonia,Northern Europe,0
+2008,Shannon,Finland,Northern Europe,0
+2008,Shannon,France,Western Europe,112.5
+2008,Shannon,Germany,Western Europe,31.4
+2008,Shannon,Greece,Southern Europe,0
+2008,Shannon,Hungary,Eastern Europe,0
+2008,Shannon,Italy,Southern Europe,21.7
 2008,Shannon,Latvia,Northern Europe,5.7
 2008,Shannon,Lithuania,Northern Europe,5.7
-2008,Shannon,Canada,Americas,10.6
-2008,Shannon,Canary Islands,Africa,15.4
-2008,Shannon,Portugal,Southern Europe,16.8
-2008,Shannon,Belgium,Western Europe,21.1
-2008,Shannon,Italy,Southern Europe,21.7
-2008,Shannon,Germany,Western Europe,31.4
-2008,Shannon,Scotland,UK,65.9
+2008,Shannon,Luxembourg,Western Europe,0
+2008,Shannon,Malta,Southern Europe,0
+2008,Shannon,Netherlands,Western Europe,0
 2008,Shannon,Poland,Eastern Europe,72.9
-2008,Shannon,Ireland (domestic),Ireland (domestic),94.7
+2008,Shannon,Portugal,Southern Europe,16.8
+2008,Shannon,Romania,Eastern Europe,0
+2008,Shannon,Slovakia,Eastern Europe,0
+2008,Shannon,Slovenia,Southern Europe,0
 2008,Shannon,Spain,Southern Europe,98.6
-2008,Shannon,France,Western Europe,112.5
-2008,Shannon,United States,Americas,283.1
+2008,Shannon,Sweden,Northern Europe,0
 2008,Shannon,England,UK,503.5
-2009,Cork,Other UK (1),UK,1.6
-2009,Cork,Switzerland,Western Europe,3.9
-2009,Cork,Wales,UK,8.2
-2009,Cork,Northern Ireland,Northern Europe,17.7
-2009,Cork,Scotland,UK,19.2
-2009,Cork,Italy,Southern Europe,19.9
-2009,Cork,Canary Islands,Africa,26.9
-2009,Cork,Portugal,Southern Europe,31
-2009,Cork,Germany,Western Europe,37.2
-2009,Cork,France,Western Europe,74
-2009,Cork,Netherlands,Western Europe,77.4
-2009,Cork,Spain,Southern Europe,80.5
-2009,Cork,Poland,Eastern Europe,89
+2008,Shannon,Northern Ireland,UK,0
+2008,Shannon,Scotland,UK,65.9
+2008,Shannon,Wales,UK,0
+2008,Shannon,Other UK (1),UK,0
+2008,Shannon,Croatia,Southern Europe,0
+2008,Shannon,Iceland,Northern Europe,0
+2008,Shannon,Norway,Northern Europe,0
+2008,Shannon,Russian Federation,Eastern Europe,3.5
+2008,Shannon,Serbia,Southern Europe,0
+2008,Shannon,Switzerland,Western Europe,0
+2008,Shannon,Other Europe (12),Europe (other),0
+2008,Shannon,Canada,Americas,10.6
+2008,Shannon,United States,Americas,283.1
+2008,Shannon,Other America (5),Americas,0
+2008,Shannon,Canary Islands,Africa,15.4
+2008,Shannon,Eygpt,Africa,0
+2008,Shannon,Morocco,Africa,0
+2008,Shannon,Tunisia,Africa,0
+2008,Shannon,Other Africa (6),Africa,0
+2008,Shannon,Bahrain,Asia,0
+2008,Shannon,Israel,Asia,0
+2008,Shannon,Turkey,Asia,0
+2008,Shannon,United Arab Emirates,Asia,0
+2008,Shannon,Other Asian countries (4),Asia,0
+2008,Shannon,Oceania and Polar regions (1),Oceania and Polar,0
 2009,Cork,Ireland (domestic),Ireland (domestic),169.7
+2009,Cork,Austria,Western Europe,0
+2009,Cork,Belgium,Western Europe,0
+2009,Cork,Bulgaria,Eastern Europe,0
+2009,Cork,Cyprus,Southern Europe,0
+2009,Cork,Czech Republic,Eastern Europe,0
+2009,Cork,Denmark,Northern Europe,0
+2009,Cork,Estonia,Northern Europe,0
+2009,Cork,Finland,Northern Europe,0
+2009,Cork,France,Western Europe,74
+2009,Cork,Germany,Western Europe,37.2
+2009,Cork,Greece,Southern Europe,0
+2009,Cork,Hungary,Eastern Europe,0
+2009,Cork,Italy,Southern Europe,19.9
+2009,Cork,Latvia,Northern Europe,0
+2009,Cork,Lithuania,Northern Europe,0
+2009,Cork,Luxembourg,Western Europe,0
+2009,Cork,Malta,Southern Europe,0
+2009,Cork,Netherlands,Western Europe,77.4
+2009,Cork,Poland,Eastern Europe,89
+2009,Cork,Portugal,Southern Europe,31
+2009,Cork,Romania,Eastern Europe,0
+2009,Cork,Slovakia,Eastern Europe,0
+2009,Cork,Slovenia,Southern Europe,0
+2009,Cork,Spain,Southern Europe,80.5
+2009,Cork,Sweden,Northern Europe,0
 2009,Cork,England,UK,614.2
-2009,Dublin,Slovenia,Southern Europe,1
-2009,Dublin,Estonia,Northern Europe,2.2
-2009,Dublin,Russian Federation,Eastern Europe,3.4
-2009,Dublin,Morocco,Africa,3.9
-2009,Dublin,Luxembourg,Western Europe,6.8
-2009,Dublin,Greece,Southern Europe,8.7
-2009,Dublin,Northern Ireland,Northern Europe,10.9
-2009,Dublin,Bulgaria,Eastern Europe,18.1
-2009,Dublin,Finland,Northern Europe,22.2
-2009,Dublin,Romania,Eastern Europe,25.1
-2009,Dublin,Croatia,Southern Europe,25.4
-2009,Dublin,Malta,Southern Europe,26
-2009,Dublin,Other UK (1),UK,27.5
-2009,Dublin,Wales,UK,30.5
-2009,Dublin,Canada,Americas,35.9
-2009,Dublin,Slovakia,Eastern Europe,36.8
-2009,Dublin,Turkey,Asia,38.2
-2009,Dublin,Sweden,Northern Europe,53.9
-2009,Dublin,Norway,Northern Europe,53.9
+2009,Cork,Northern Ireland,UK,17.7
+2009,Cork,Scotland,UK,19.2
+2009,Cork,Wales,UK,8.2
+2009,Cork,Other UK (1),UK,1.6
+2009,Cork,Croatia,Southern Europe,0
+2009,Cork,Iceland,Northern Europe,0
+2009,Cork,Norway,Northern Europe,0
+2009,Cork,Russian Federation,Eastern Europe,0
+2009,Cork,Serbia,Southern Europe,0
+2009,Cork,Switzerland,Western Europe,3.9
+2009,Cork,Other Europe (12),Europe (other),0
+2009,Cork,Canada,Americas,0
+2009,Cork,United States,Americas,0
+2009,Cork,Other America (5),Americas,0
+2009,Cork,Canary Islands,Africa,26.9
+2009,Cork,Eygpt,Africa,0
+2009,Cork,Morocco,Africa,0
+2009,Cork,Tunisia,Africa,0
+2009,Cork,Other Africa (6),Africa,0
+2009,Cork,Bahrain,Asia,0
+2009,Cork,Israel,Asia,0
+2009,Cork,Turkey,Asia,0
+2009,Cork,United Arab Emirates,Asia,0
+2009,Cork,Other Asian countries (4),Asia,0
+2009,Cork,Oceania and Polar regions (1),Oceania and Polar,0
+2009,Dublin,Ireland (domestic),Ireland (domestic),342.7
 2009,Dublin,Austria,Western Europe,56.6
-2009,Dublin,Latvia,Northern Europe,71
-2009,Dublin,Lithuania,Northern Europe,78.5
-2009,Dublin,United Arab Emirates,Asia,79.8
+2009,Dublin,Belgium,Western Europe,175.1
+2009,Dublin,Bulgaria,Eastern Europe,18.1
+2009,Dublin,Cyprus,Southern Europe,0
 2009,Dublin,Czech Republic,Eastern Europe,88.1
 2009,Dublin,Denmark,Northern Europe,94.6
-2009,Dublin,Hungary,Eastern Europe,111.9
-2009,Dublin,Switzerland,Western Europe,129.3
-2009,Dublin,Canary Islands,Africa,132.7
-2009,Dublin,Belgium,Western Europe,175.1
-2009,Dublin,Portugal,Southern Europe,188.3
-2009,Dublin,Netherlands,Western Europe,271.9
-2009,Dublin,Ireland (domestic),Ireland (domestic),342.7
-2009,Dublin,Poland,Eastern Europe,390.4
-2009,Dublin,Scotland,UK,398.4
-2009,Dublin,Italy,Southern Europe,462.7
-2009,Dublin,Germany,Western Europe,652
+2009,Dublin,Estonia,Northern Europe,2.2
+2009,Dublin,Finland,Northern Europe,22.2
 2009,Dublin,France,Western Europe,698.4
-2009,Dublin,United States,Americas,739.9
+2009,Dublin,Germany,Western Europe,652
+2009,Dublin,Greece,Southern Europe,8.7
+2009,Dublin,Hungary,Eastern Europe,111.9
+2009,Dublin,Italy,Southern Europe,462.7
+2009,Dublin,Latvia,Northern Europe,71
+2009,Dublin,Lithuania,Northern Europe,78.5
+2009,Dublin,Luxembourg,Western Europe,6.8
+2009,Dublin,Malta,Southern Europe,26
+2009,Dublin,Netherlands,Western Europe,271.9
+2009,Dublin,Poland,Eastern Europe,390.4
+2009,Dublin,Portugal,Southern Europe,188.3
+2009,Dublin,Romania,Eastern Europe,25.1
+2009,Dublin,Slovakia,Eastern Europe,36.8
+2009,Dublin,Slovenia,Southern Europe,1
 2009,Dublin,Spain,Southern Europe,814.8
+2009,Dublin,Sweden,Northern Europe,53.9
 2009,Dublin,England,UK,3320.2
-2009,Galway,Oceania and Polar regions (1),Oceania and Polar,0.1
-2009,Galway,Netherlands,Western Europe,0.2
-2009,Galway,France,Western Europe,1.1
-2009,Galway,Scotland,UK,9.7
+2009,Dublin,Northern Ireland,UK,10.9
+2009,Dublin,Scotland,UK,398.4
+2009,Dublin,Wales,UK,30.5
+2009,Dublin,Other UK (1),UK,27.5
+2009,Dublin,Croatia,Southern Europe,25.4
+2009,Dublin,Iceland,Northern Europe,0
+2009,Dublin,Norway,Northern Europe,53.9
+2009,Dublin,Russian Federation,Eastern Europe,3.4
+2009,Dublin,Serbia,Southern Europe,0
+2009,Dublin,Switzerland,Western Europe,129.3
+2009,Dublin,Other Europe (12),Europe (other),0
+2009,Dublin,Canada,Americas,35.9
+2009,Dublin,United States,Americas,739.9
+2009,Dublin,Other America (5),Americas,0
+2009,Dublin,Canary Islands,Africa,132.7
+2009,Dublin,Eygpt,Africa,0
+2009,Dublin,Morocco,Africa,3.9
+2009,Dublin,Tunisia,Africa,0
+2009,Dublin,Other Africa (6),Africa,0
+2009,Dublin,Bahrain,Asia,0
+2009,Dublin,Israel,Asia,0
+2009,Dublin,Turkey,Asia,38.2
+2009,Dublin,United Arab Emirates,Asia,79.8
+2009,Dublin,Other Asian countries (4),Asia,0
+2009,Dublin,Oceania and Polar regions (1),Oceania and Polar,0
 2009,Galway,Ireland (domestic),Ireland (domestic),32.3
+2009,Galway,Austria,Western Europe,0
+2009,Galway,Belgium,Western Europe,0
+2009,Galway,Bulgaria,Eastern Europe,0
+2009,Galway,Cyprus,Southern Europe,0
+2009,Galway,Czech Republic,Eastern Europe,0
+2009,Galway,Denmark,Northern Europe,0
+2009,Galway,Estonia,Northern Europe,0
+2009,Galway,Finland,Northern Europe,0
+2009,Galway,France,Western Europe,1.1
+2009,Galway,Germany,Western Europe,0
+2009,Galway,Greece,Southern Europe,0
+2009,Galway,Hungary,Eastern Europe,0
+2009,Galway,Italy,Southern Europe,0
+2009,Galway,Latvia,Northern Europe,0
+2009,Galway,Lithuania,Northern Europe,0
+2009,Galway,Luxembourg,Western Europe,0
+2009,Galway,Malta,Southern Europe,0
+2009,Galway,Netherlands,Western Europe,0.2
+2009,Galway,Poland,Eastern Europe,0
+2009,Galway,Portugal,Southern Europe,0
+2009,Galway,Romania,Eastern Europe,0
+2009,Galway,Slovakia,Eastern Europe,0
+2009,Galway,Slovenia,Southern Europe,0
+2009,Galway,Spain,Southern Europe,0
+2009,Galway,Sweden,Northern Europe,0
 2009,Galway,England,UK,53.5
+2009,Galway,Northern Ireland,UK,0
+2009,Galway,Scotland,UK,9.7
+2009,Galway,Wales,UK,0
+2009,Galway,Other UK (1),UK,0
+2009,Galway,Croatia,Southern Europe,0
+2009,Galway,Iceland,Northern Europe,0
+2009,Galway,Norway,Northern Europe,0
+2009,Galway,Russian Federation,Eastern Europe,0
+2009,Galway,Serbia,Southern Europe,0
+2009,Galway,Switzerland,Western Europe,0
+2009,Galway,Other Europe (12),Europe (other),0
+2009,Galway,Canada,Americas,0
+2009,Galway,United States,Americas,0
+2009,Galway,Other America (5),Americas,0
+2009,Galway,Canary Islands,Africa,0
+2009,Galway,Eygpt,Africa,0
+2009,Galway,Morocco,Africa,0
+2009,Galway,Tunisia,Africa,0
+2009,Galway,Other Africa (6),Africa,0
+2009,Galway,Bahrain,Asia,0
+2009,Galway,Israel,Asia,0
+2009,Galway,Turkey,Asia,0
+2009,Galway,United Arab Emirates,Asia,0
+2009,Galway,Other Asian countries (4),Asia,0
+2009,Galway,Oceania and Polar regions (1),Oceania and Polar,0.1
+2009,Kerry,Ireland (domestic),Ireland (domestic),53.1
+2009,Kerry,Austria,Western Europe,0
 2009,Kerry,Belgium,Western Europe,0.1
+2009,Kerry,Bulgaria,Eastern Europe,0
+2009,Kerry,Cyprus,Southern Europe,0
+2009,Kerry,Czech Republic,Eastern Europe,0
+2009,Kerry,Denmark,Northern Europe,0
+2009,Kerry,Estonia,Northern Europe,0
+2009,Kerry,Finland,Northern Europe,0
 2009,Kerry,France,Western Europe,1.8
 2009,Kerry,Germany,Western Europe,34.3
-2009,Kerry,Ireland (domestic),Ireland (domestic),53.1
+2009,Kerry,Greece,Southern Europe,0
+2009,Kerry,Hungary,Eastern Europe,0
+2009,Kerry,Italy,Southern Europe,0
+2009,Kerry,Latvia,Northern Europe,0
+2009,Kerry,Lithuania,Northern Europe,0
+2009,Kerry,Luxembourg,Western Europe,0
+2009,Kerry,Malta,Southern Europe,0
+2009,Kerry,Netherlands,Western Europe,0
+2009,Kerry,Poland,Eastern Europe,0
+2009,Kerry,Portugal,Southern Europe,0
+2009,Kerry,Romania,Eastern Europe,0
+2009,Kerry,Slovakia,Eastern Europe,0
+2009,Kerry,Slovenia,Southern Europe,0
+2009,Kerry,Spain,Southern Europe,0
+2009,Kerry,Sweden,Northern Europe,0
 2009,Kerry,England,UK,90.3
-2009,Knock,Scotland,UK,1.3
+2009,Kerry,Northern Ireland,UK,0
+2009,Kerry,Scotland,UK,0
+2009,Kerry,Wales,UK,0
+2009,Kerry,Other UK (1),UK,0
+2009,Kerry,Croatia,Southern Europe,0
+2009,Kerry,Iceland,Northern Europe,0
+2009,Kerry,Norway,Northern Europe,0
+2009,Kerry,Russian Federation,Eastern Europe,0
+2009,Kerry,Serbia,Southern Europe,0
+2009,Kerry,Switzerland,Western Europe,0
+2009,Kerry,Other Europe (12),Europe (other),0
+2009,Kerry,Canada,Americas,0
+2009,Kerry,United States,Americas,0
+2009,Kerry,Other America (5),Americas,0
+2009,Kerry,Canary Islands,Africa,0
+2009,Kerry,Eygpt,Africa,0
+2009,Kerry,Morocco,Africa,0
+2009,Kerry,Tunisia,Africa,0
+2009,Kerry,Other Africa (6),Africa,0
+2009,Kerry,Bahrain,Asia,0
+2009,Kerry,Israel,Asia,0
+2009,Kerry,Turkey,Asia,0
+2009,Kerry,United Arab Emirates,Asia,0
+2009,Kerry,Other Asian countries (4),Asia,0
+2009,Kerry,Oceania and Polar regions (1),Oceania and Polar,0
 2009,Knock,Ireland (domestic),Ireland (domestic),5.5
-2009,Knock,Oceania and Polar regions (1),Oceania and Polar,10.1
+2009,Knock,Austria,Western Europe,0
+2009,Knock,Belgium,Western Europe,0
+2009,Knock,Bulgaria,Eastern Europe,0
+2009,Knock,Cyprus,Southern Europe,0
+2009,Knock,Czech Republic,Eastern Europe,0
+2009,Knock,Denmark,Northern Europe,0
+2009,Knock,Estonia,Northern Europe,0
+2009,Knock,Finland,Northern Europe,0
+2009,Knock,France,Western Europe,0
+2009,Knock,Germany,Western Europe,0
+2009,Knock,Greece,Southern Europe,0
+2009,Knock,Hungary,Eastern Europe,0
+2009,Knock,Italy,Southern Europe,0
+2009,Knock,Latvia,Northern Europe,0
+2009,Knock,Lithuania,Northern Europe,0
+2009,Knock,Luxembourg,Western Europe,0
+2009,Knock,Malta,Southern Europe,0
+2009,Knock,Netherlands,Western Europe,0
+2009,Knock,Poland,Eastern Europe,0
+2009,Knock,Portugal,Southern Europe,0
+2009,Knock,Romania,Eastern Europe,0
+2009,Knock,Slovakia,Eastern Europe,0
+2009,Knock,Slovenia,Southern Europe,0
+2009,Knock,Spain,Southern Europe,0
+2009,Knock,Sweden,Northern Europe,0
 2009,Knock,England,UK,261.8
-2009,Shannon,Slovakia,Eastern Europe,0.1
-2009,Shannon,Russian Federation,Eastern Europe,0.2
-2009,Shannon,Switzerland,Western Europe,1
-2009,Shannon,Canada,Americas,11.1
-2009,Shannon,Canary Islands,Africa,12.3
-2009,Shannon,Germany,Western Europe,20.4
-2009,Shannon,Belgium,Western Europe,20.5
-2009,Shannon,Italy,Southern Europe,20.8
-2009,Shannon,Portugal,Southern Europe,24.6
+2009,Knock,Northern Ireland,UK,0
+2009,Knock,Scotland,UK,1.3
+2009,Knock,Wales,UK,0
+2009,Knock,Other UK (1),UK,0
+2009,Knock,Croatia,Southern Europe,0
+2009,Knock,Iceland,Northern Europe,0
+2009,Knock,Norway,Northern Europe,0
+2009,Knock,Russian Federation,Eastern Europe,0
+2009,Knock,Serbia,Southern Europe,0
+2009,Knock,Switzerland,Western Europe,0
+2009,Knock,Other Europe (12),Europe (other),0
+2009,Knock,Canada,Americas,0
+2009,Knock,United States,Americas,0
+2009,Knock,Other America (5),Americas,0
+2009,Knock,Canary Islands,Africa,0
+2009,Knock,Eygpt,Africa,0
+2009,Knock,Morocco,Africa,0
+2009,Knock,Tunisia,Africa,0
+2009,Knock,Other Africa (6),Africa,0
+2009,Knock,Bahrain,Asia,0
+2009,Knock,Israel,Asia,0
+2009,Knock,Turkey,Asia,0
+2009,Knock,United Arab Emirates,Asia,0
+2009,Knock,Other Asian countries (4),Asia,0
+2009,Knock,Oceania and Polar regions (1),Oceania and Polar,10.1
 2009,Shannon,Ireland (domestic),Ireland (domestic),47.5
-2009,Shannon,Poland,Eastern Europe,67.5
-2009,Shannon,Scotland,UK,72.5
-2009,Shannon,Spain,Southern Europe,100.2
+2009,Shannon,Austria,Western Europe,0
+2009,Shannon,Belgium,Western Europe,20.5
+2009,Shannon,Bulgaria,Eastern Europe,0
+2009,Shannon,Cyprus,Southern Europe,0
+2009,Shannon,Czech Republic,Eastern Europe,0
+2009,Shannon,Denmark,Northern Europe,0
+2009,Shannon,Estonia,Northern Europe,0
+2009,Shannon,Finland,Northern Europe,0
 2009,Shannon,France,Western Europe,100.9
-2009,Shannon,United States,Americas,242.9
+2009,Shannon,Germany,Western Europe,20.4
+2009,Shannon,Greece,Southern Europe,0
+2009,Shannon,Hungary,Eastern Europe,0
+2009,Shannon,Italy,Southern Europe,20.8
+2009,Shannon,Latvia,Northern Europe,0
+2009,Shannon,Lithuania,Northern Europe,0
+2009,Shannon,Luxembourg,Western Europe,0
+2009,Shannon,Malta,Southern Europe,0
+2009,Shannon,Netherlands,Western Europe,0
+2009,Shannon,Poland,Eastern Europe,67.5
+2009,Shannon,Portugal,Southern Europe,24.6
+2009,Shannon,Romania,Eastern Europe,0
+2009,Shannon,Slovakia,Eastern Europe,0.1
+2009,Shannon,Slovenia,Southern Europe,0
+2009,Shannon,Spain,Southern Europe,100.2
+2009,Shannon,Sweden,Northern Europe,0
 2009,Shannon,England,UK,461.9
-2010,Cork,Other UK (1),UK,1.5
-2010,Cork,Switzerland,Western Europe,3.7
-2010,Cork,Northern Ireland,Northern Europe,8.3
-2010,Cork,Wales,UK,9.4
-2010,Cork,Italy,Southern Europe,10.5
-2010,Cork,Germany,Western Europe,21.9
-2010,Cork,Canary Islands,Africa,31.7
-2010,Cork,Scotland,UK,31.9
-2010,Cork,Portugal,Southern Europe,33.3
-2010,Cork,France,Western Europe,74.8
-2010,Cork,Netherlands,Western Europe,74.9
+2009,Shannon,Northern Ireland,UK,0
+2009,Shannon,Scotland,UK,72.5
+2009,Shannon,Wales,UK,0
+2009,Shannon,Other UK (1),UK,0
+2009,Shannon,Croatia,Southern Europe,0
+2009,Shannon,Iceland,Northern Europe,0
+2009,Shannon,Norway,Northern Europe,0
+2009,Shannon,Russian Federation,Eastern Europe,0.2
+2009,Shannon,Serbia,Southern Europe,0
+2009,Shannon,Switzerland,Western Europe,1
+2009,Shannon,Other Europe (12),Europe (other),0
+2009,Shannon,Canada,Americas,11.1
+2009,Shannon,United States,Americas,242.9
+2009,Shannon,Other America (5),Americas,0
+2009,Shannon,Canary Islands,Africa,12.3
+2009,Shannon,Eygpt,Africa,0
+2009,Shannon,Morocco,Africa,0
+2009,Shannon,Tunisia,Africa,0
+2009,Shannon,Other Africa (6),Africa,0
+2009,Shannon,Bahrain,Asia,0
+2009,Shannon,Israel,Asia,0
+2009,Shannon,Turkey,Asia,0
+2009,Shannon,United Arab Emirates,Asia,0
+2009,Shannon,Other Asian countries (4),Asia,0
+2009,Shannon,Oceania and Polar regions (1),Oceania and Polar,0
 2010,Cork,Ireland (domestic),Ireland (domestic),87.6
+2010,Cork,Austria,Western Europe,0
+2010,Cork,Belgium,Western Europe,0
+2010,Cork,Bulgaria,Eastern Europe,0
+2010,Cork,Cyprus,Southern Europe,0
+2010,Cork,Czech Republic,Eastern Europe,0
+2010,Cork,Denmark,Northern Europe,0
+2010,Cork,Estonia,Northern Europe,0
+2010,Cork,Finland,Northern Europe,0
+2010,Cork,France,Western Europe,74.8
+2010,Cork,Germany,Western Europe,21.9
+2010,Cork,Greece,Southern Europe,0
+2010,Cork,Hungary,Eastern Europe,0
+2010,Cork,Italy,Southern Europe,10.5
+2010,Cork,Latvia,Northern Europe,0
+2010,Cork,Lithuania,Northern Europe,0
+2010,Cork,Luxembourg,Western Europe,0
+2010,Cork,Malta,Southern Europe,0
+2010,Cork,Netherlands,Western Europe,74.9
 2010,Cork,Poland,Eastern Europe,89.4
+2010,Cork,Portugal,Southern Europe,33.3
+2010,Cork,Romania,Eastern Europe,0
+2010,Cork,Slovakia,Eastern Europe,0
+2010,Cork,Slovenia,Southern Europe,0
 2010,Cork,Spain,Southern Europe,95.5
+2010,Cork,Sweden,Northern Europe,0
 2010,Cork,England,UK,556.5
-2010,Dublin,Slovenia,Southern Europe,1
-2010,Dublin,Israel,Asia,2.3
-2010,Dublin,Russian Federation,Eastern Europe,2.5
-2010,Dublin,Estonia,Northern Europe,2.9
-2010,Dublin,Morocco,Africa,4.1
-2010,Dublin,Luxembourg,Western Europe,5.9
-2010,Dublin,Northern Ireland,Northern Europe,8.2
-2010,Dublin,Finland,Northern Europe,8.3
-2010,Dublin,Greece,Southern Europe,9.7
-2010,Dublin,Bulgaria,Eastern Europe,11.6
-2010,Dublin,Other UK (1),UK,25.3
-2010,Dublin,Croatia,Southern Europe,26.5
-2010,Dublin,Romania,Eastern Europe,28.7
-2010,Dublin,Malta,Southern Europe,29.5
-2010,Dublin,Wales,UK,33.2
-2010,Dublin,Canada,Americas,34.8
-2010,Dublin,Turkey,Asia,37
-2010,Dublin,Slovakia,Eastern Europe,44.9
+2010,Cork,Northern Ireland,UK,8.3
+2010,Cork,Scotland,UK,31.9
+2010,Cork,Wales,UK,9.4
+2010,Cork,Other UK (1),UK,1.5
+2010,Cork,Croatia,Southern Europe,0
+2010,Cork,Iceland,Northern Europe,0
+2010,Cork,Norway,Northern Europe,0
+2010,Cork,Russian Federation,Eastern Europe,0
+2010,Cork,Serbia,Southern Europe,0
+2010,Cork,Switzerland,Western Europe,3.7
+2010,Cork,Other Europe (12),Europe (other),0
+2010,Cork,Canada,Americas,0
+2010,Cork,United States,Americas,0
+2010,Cork,Other America (5),Americas,0
+2010,Cork,Canary Islands,Africa,31.7
+2010,Cork,Eygpt,Africa,0
+2010,Cork,Morocco,Africa,0
+2010,Cork,Tunisia,Africa,0
+2010,Cork,Other Africa (6),Africa,0
+2010,Cork,Bahrain,Asia,0
+2010,Cork,Israel,Asia,0
+2010,Cork,Turkey,Asia,0
+2010,Cork,United Arab Emirates,Asia,0
+2010,Cork,Other Asian countries (4),Asia,0
+2010,Cork,Oceania and Polar regions (1),Oceania and Polar,0
+2010,Dublin,Ireland (domestic),Ireland (domestic),190.4
 2010,Dublin,Austria,Western Europe,48.1
-2010,Dublin,Sweden,Northern Europe,50.8
+2010,Dublin,Belgium,Western Europe,159.2
+2010,Dublin,Bulgaria,Eastern Europe,11.6
+2010,Dublin,Cyprus,Southern Europe,0
 2010,Dublin,Czech Republic,Eastern Europe,62.4
-2010,Dublin,Norway,Northern Europe,66.8
+2010,Dublin,Denmark,Northern Europe,92
+2010,Dublin,Estonia,Northern Europe,2.9
+2010,Dublin,Finland,Northern Europe,8.3
+2010,Dublin,France,Western Europe,636.2
+2010,Dublin,Germany,Western Europe,597.3
+2010,Dublin,Greece,Southern Europe,9.7
+2010,Dublin,Hungary,Eastern Europe,97.3
+2010,Dublin,Italy,Southern Europe,419.6
 2010,Dublin,Latvia,Northern Europe,75.5
 2010,Dublin,Lithuania,Northern Europe,85.8
-2010,Dublin,Denmark,Northern Europe,92
-2010,Dublin,Hungary,Eastern Europe,97.3
-2010,Dublin,United Arab Emirates,Asia,98.7
-2010,Dublin,Switzerland,Western Europe,121.3
-2010,Dublin,Belgium,Western Europe,159.2
-2010,Dublin,Ireland (domestic),Ireland (domestic),190.4
-2010,Dublin,Canary Islands,Africa,191
-2010,Dublin,Portugal,Southern Europe,203.4
+2010,Dublin,Luxembourg,Western Europe,5.9
+2010,Dublin,Malta,Southern Europe,29.5
 2010,Dublin,Netherlands,Western Europe,258.4
-2010,Dublin,Scotland,UK,350.3
 2010,Dublin,Poland,Eastern Europe,372.9
-2010,Dublin,Italy,Southern Europe,419.6
-2010,Dublin,Germany,Western Europe,597.3
-2010,Dublin,France,Western Europe,636.2
-2010,Dublin,United States,Americas,695.7
+2010,Dublin,Portugal,Southern Europe,203.4
+2010,Dublin,Romania,Eastern Europe,28.7
+2010,Dublin,Slovakia,Eastern Europe,44.9
+2010,Dublin,Slovenia,Southern Europe,1
 2010,Dublin,Spain,Southern Europe,782
+2010,Dublin,Sweden,Northern Europe,50.8
 2010,Dublin,England,UK,2949.6
-2010,Galway,Northern Ireland,Northern Europe,0.7
-2010,Galway,Oceania and Polar regions (1),Oceania and Polar,1.2
-2010,Galway,Scotland,UK,8.7
+2010,Dublin,Northern Ireland,UK,8.2
+2010,Dublin,Scotland,UK,350.3
+2010,Dublin,Wales,UK,33.2
+2010,Dublin,Other UK (1),UK,25.3
+2010,Dublin,Croatia,Southern Europe,26.5
+2010,Dublin,Iceland,Northern Europe,0
+2010,Dublin,Norway,Northern Europe,66.8
+2010,Dublin,Russian Federation,Eastern Europe,2.5
+2010,Dublin,Serbia,Southern Europe,0
+2010,Dublin,Switzerland,Western Europe,121.3
+2010,Dublin,Other Europe (12),Europe (other),0
+2010,Dublin,Canada,Americas,34.8
+2010,Dublin,United States,Americas,695.7
+2010,Dublin,Other America (5),Americas,0
+2010,Dublin,Canary Islands,Africa,191
+2010,Dublin,Eygpt,Africa,0
+2010,Dublin,Morocco,Africa,4.1
+2010,Dublin,Tunisia,Africa,0
+2010,Dublin,Other Africa (6),Africa,0
+2010,Dublin,Bahrain,Asia,0
+2010,Dublin,Israel,Asia,2.3
+2010,Dublin,Turkey,Asia,37
+2010,Dublin,United Arab Emirates,Asia,98.7
+2010,Dublin,Other Asian countries (4),Asia,0
+2010,Dublin,Oceania and Polar regions (1),Oceania and Polar,0
 2010,Galway,Ireland (domestic),Ireland (domestic),20.7
+2010,Galway,Austria,Western Europe,0
+2010,Galway,Belgium,Western Europe,0
+2010,Galway,Bulgaria,Eastern Europe,0
+2010,Galway,Cyprus,Southern Europe,0
+2010,Galway,Czech Republic,Eastern Europe,0
+2010,Galway,Denmark,Northern Europe,0
+2010,Galway,Estonia,Northern Europe,0
+2010,Galway,Finland,Northern Europe,0
+2010,Galway,France,Western Europe,0
+2010,Galway,Germany,Western Europe,0
+2010,Galway,Greece,Southern Europe,0
+2010,Galway,Hungary,Eastern Europe,0
+2010,Galway,Italy,Southern Europe,0
+2010,Galway,Latvia,Northern Europe,0
+2010,Galway,Lithuania,Northern Europe,0
+2010,Galway,Luxembourg,Western Europe,0
+2010,Galway,Malta,Southern Europe,0
+2010,Galway,Netherlands,Western Europe,0
+2010,Galway,Poland,Eastern Europe,0
+2010,Galway,Portugal,Southern Europe,0
+2010,Galway,Romania,Eastern Europe,0
+2010,Galway,Slovakia,Eastern Europe,0
+2010,Galway,Slovenia,Southern Europe,0
+2010,Galway,Spain,Southern Europe,0
+2010,Galway,Sweden,Northern Europe,0
 2010,Galway,England,UK,44.8
-2010,Kerry,France,Western Europe,0.9
-2010,Kerry,Portugal,Southern Europe,10.8
-2010,Kerry,Spain,Southern Europe,11.1
+2010,Galway,Northern Ireland,UK,0.7
+2010,Galway,Scotland,UK,8.7
+2010,Galway,Wales,UK,0
+2010,Galway,Other UK (1),UK,0
+2010,Galway,Croatia,Southern Europe,0
+2010,Galway,Iceland,Northern Europe,0
+2010,Galway,Norway,Northern Europe,0
+2010,Galway,Russian Federation,Eastern Europe,0
+2010,Galway,Serbia,Southern Europe,0
+2010,Galway,Switzerland,Western Europe,0
+2010,Galway,Other Europe (12),Europe (other),0
+2010,Galway,Canada,Americas,0
+2010,Galway,United States,Americas,0
+2010,Galway,Other America (5),Americas,0
+2010,Galway,Canary Islands,Africa,0
+2010,Galway,Eygpt,Africa,0
+2010,Galway,Morocco,Africa,0
+2010,Galway,Tunisia,Africa,0
+2010,Galway,Other Africa (6),Africa,0
+2010,Galway,Bahrain,Asia,0
+2010,Galway,Israel,Asia,0
+2010,Galway,Turkey,Asia,0
+2010,Galway,United Arab Emirates,Asia,0
+2010,Galway,Other Asian countries (4),Asia,0
+2010,Galway,Oceania and Polar regions (1),Oceania and Polar,1.2
 2010,Kerry,Ireland (domestic),Ireland (domestic),36.1
+2010,Kerry,Austria,Western Europe,0
+2010,Kerry,Belgium,Western Europe,0
+2010,Kerry,Bulgaria,Eastern Europe,0
+2010,Kerry,Cyprus,Southern Europe,0
+2010,Kerry,Czech Republic,Eastern Europe,0
+2010,Kerry,Denmark,Northern Europe,0
+2010,Kerry,Estonia,Northern Europe,0
+2010,Kerry,Finland,Northern Europe,0
+2010,Kerry,France,Western Europe,0.9
 2010,Kerry,Germany,Western Europe,44.9
+2010,Kerry,Greece,Southern Europe,0
+2010,Kerry,Hungary,Eastern Europe,0
+2010,Kerry,Italy,Southern Europe,0
+2010,Kerry,Latvia,Northern Europe,0
+2010,Kerry,Lithuania,Northern Europe,0
+2010,Kerry,Luxembourg,Western Europe,0
+2010,Kerry,Malta,Southern Europe,0
+2010,Kerry,Netherlands,Western Europe,0
+2010,Kerry,Poland,Eastern Europe,0
+2010,Kerry,Portugal,Southern Europe,10.8
+2010,Kerry,Romania,Eastern Europe,0
+2010,Kerry,Slovakia,Eastern Europe,0
+2010,Kerry,Slovenia,Southern Europe,0
+2010,Kerry,Spain,Southern Europe,11.1
+2010,Kerry,Sweden,Northern Europe,0
 2010,Kerry,England,UK,90
-2010,Knock,Scotland,UK,0.2
+2010,Kerry,Northern Ireland,UK,0
+2010,Kerry,Scotland,UK,0
+2010,Kerry,Wales,UK,0
+2010,Kerry,Other UK (1),UK,0
+2010,Kerry,Croatia,Southern Europe,0
+2010,Kerry,Iceland,Northern Europe,0
+2010,Kerry,Norway,Northern Europe,0
+2010,Kerry,Russian Federation,Eastern Europe,0
+2010,Kerry,Serbia,Southern Europe,0
+2010,Kerry,Switzerland,Western Europe,0
+2010,Kerry,Other Europe (12),Europe (other),0
+2010,Kerry,Canada,Americas,0
+2010,Kerry,United States,Americas,0
+2010,Kerry,Other America (5),Americas,0
+2010,Kerry,Canary Islands,Africa,0
+2010,Kerry,Eygpt,Africa,0
+2010,Kerry,Morocco,Africa,0
+2010,Kerry,Tunisia,Africa,0
+2010,Kerry,Other Africa (6),Africa,0
+2010,Kerry,Bahrain,Asia,0
+2010,Kerry,Israel,Asia,0
+2010,Kerry,Turkey,Asia,0
+2010,Kerry,United Arab Emirates,Asia,0
+2010,Kerry,Other Asian countries (4),Asia,0
+2010,Kerry,Oceania and Polar regions (1),Oceania and Polar,0
 2010,Knock,Ireland (domestic),Ireland (domestic),3
-2010,Knock,Oceania and Polar regions (1),Oceania and Polar,8.8
+2010,Knock,Austria,Western Europe,0
+2010,Knock,Belgium,Western Europe,0
+2010,Knock,Bulgaria,Eastern Europe,0
+2010,Knock,Cyprus,Southern Europe,0
+2010,Knock,Czech Republic,Eastern Europe,0
+2010,Knock,Denmark,Northern Europe,0
+2010,Knock,Estonia,Northern Europe,0
+2010,Knock,Finland,Northern Europe,0
+2010,Knock,France,Western Europe,0
+2010,Knock,Germany,Western Europe,0
+2010,Knock,Greece,Southern Europe,0
+2010,Knock,Hungary,Eastern Europe,0
+2010,Knock,Italy,Southern Europe,0
+2010,Knock,Latvia,Northern Europe,0
+2010,Knock,Lithuania,Northern Europe,0
+2010,Knock,Luxembourg,Western Europe,0
+2010,Knock,Malta,Southern Europe,0
+2010,Knock,Netherlands,Western Europe,0
+2010,Knock,Poland,Eastern Europe,0
+2010,Knock,Portugal,Southern Europe,0
+2010,Knock,Romania,Eastern Europe,0
+2010,Knock,Slovakia,Eastern Europe,0
+2010,Knock,Slovenia,Southern Europe,0
+2010,Knock,Spain,Southern Europe,0
+2010,Knock,Sweden,Northern Europe,0
 2010,Knock,England,UK,235.3
-2010,Shannon,Switzerland,Western Europe,0.3
-2010,Shannon,Austria,Western Europe,0.6
-2010,Shannon,Portugal,Southern Europe,3.3
-2010,Shannon,Belgium,Western Europe,4.7
-2010,Shannon,Canada,Americas,7.4
-2010,Shannon,Canary Islands,Africa,14.6
+2010,Knock,Northern Ireland,UK,0
+2010,Knock,Scotland,UK,0.2
+2010,Knock,Wales,UK,0
+2010,Knock,Other UK (1),UK,0
+2010,Knock,Croatia,Southern Europe,0
+2010,Knock,Iceland,Northern Europe,0
+2010,Knock,Norway,Northern Europe,0
+2010,Knock,Russian Federation,Eastern Europe,0
+2010,Knock,Serbia,Southern Europe,0
+2010,Knock,Switzerland,Western Europe,0
+2010,Knock,Other Europe (12),Europe (other),0
+2010,Knock,Canada,Americas,0
+2010,Knock,United States,Americas,0
+2010,Knock,Other America (5),Americas,0
+2010,Knock,Canary Islands,Africa,0
+2010,Knock,Eygpt,Africa,0
+2010,Knock,Morocco,Africa,0
+2010,Knock,Tunisia,Africa,0
+2010,Knock,Other Africa (6),Africa,0
+2010,Knock,Bahrain,Asia,0
+2010,Knock,Israel,Asia,0
+2010,Knock,Turkey,Asia,0
+2010,Knock,United Arab Emirates,Asia,0
+2010,Knock,Other Asian countries (4),Asia,0
+2010,Knock,Oceania and Polar regions (1),Oceania and Polar,8.8
 2010,Shannon,Ireland (domestic),Ireland (domestic),20.2
-2010,Shannon,Poland,Eastern Europe,24.1
-2010,Shannon,Spain,Southern Europe,28.4
-2010,Shannon,Scotland,UK,29.4
+2010,Shannon,Austria,Western Europe,0.6
+2010,Shannon,Belgium,Western Europe,4.7
+2010,Shannon,Bulgaria,Eastern Europe,0
+2010,Shannon,Cyprus,Southern Europe,0
+2010,Shannon,Czech Republic,Eastern Europe,0
+2010,Shannon,Denmark,Northern Europe,0
+2010,Shannon,Estonia,Northern Europe,0
+2010,Shannon,Finland,Northern Europe,0
 2010,Shannon,France,Western Europe,31.5
-2010,Shannon,United States,Americas,185.2
+2010,Shannon,Germany,Western Europe,0
+2010,Shannon,Greece,Southern Europe,0
+2010,Shannon,Hungary,Eastern Europe,0
+2010,Shannon,Italy,Southern Europe,0
+2010,Shannon,Latvia,Northern Europe,0
+2010,Shannon,Lithuania,Northern Europe,0
+2010,Shannon,Luxembourg,Western Europe,0
+2010,Shannon,Malta,Southern Europe,0
+2010,Shannon,Netherlands,Western Europe,0
+2010,Shannon,Poland,Eastern Europe,24.1
+2010,Shannon,Portugal,Southern Europe,3.3
+2010,Shannon,Romania,Eastern Europe,0
+2010,Shannon,Slovakia,Eastern Europe,0
+2010,Shannon,Slovenia,Southern Europe,0
+2010,Shannon,Spain,Southern Europe,28.4
+2010,Shannon,Sweden,Northern Europe,0
 2010,Shannon,England,UK,347.6
-2011,Cork,Oceania and Polar regions (1),Oceania and Polar,0.2
-2011,Cork,Northern Ireland,Northern Europe,1
-2011,Cork,Switzerland,Western Europe,1.8
-2011,Cork,Other UK (1),UK,2
-2011,Cork,Lithuania,Northern Europe,11.4
-2011,Cork,Italy,Southern Europe,16.8
-2011,Cork,Germany,Western Europe,18
+2010,Shannon,Northern Ireland,UK,0
+2010,Shannon,Scotland,UK,29.4
+2010,Shannon,Wales,UK,0
+2010,Shannon,Other UK (1),UK,0
+2010,Shannon,Croatia,Southern Europe,0
+2010,Shannon,Iceland,Northern Europe,0
+2010,Shannon,Norway,Northern Europe,0
+2010,Shannon,Russian Federation,Eastern Europe,0
+2010,Shannon,Serbia,Southern Europe,0
+2010,Shannon,Switzerland,Western Europe,0.3
+2010,Shannon,Other Europe (12),Europe (other),0
+2010,Shannon,Canada,Americas,7.4
+2010,Shannon,United States,Americas,185.2
+2010,Shannon,Other America (5),Americas,0
+2010,Shannon,Canary Islands,Africa,14.6
+2010,Shannon,Eygpt,Africa,0
+2010,Shannon,Morocco,Africa,0
+2010,Shannon,Tunisia,Africa,0
+2010,Shannon,Other Africa (6),Africa,0
+2010,Shannon,Bahrain,Asia,0
+2010,Shannon,Israel,Asia,0
+2010,Shannon,Turkey,Asia,0
+2010,Shannon,United Arab Emirates,Asia,0
+2010,Shannon,Other Asian countries (4),Asia,0
+2010,Shannon,Oceania and Polar regions (1),Oceania and Polar,0
 2011,Cork,Ireland (domestic),Ireland (domestic),19.4
-2011,Cork,Scotland,UK,31.7
-2011,Cork,Portugal,Southern Europe,41
-2011,Cork,Canary Islands,Africa,56.4
+2011,Cork,Austria,Western Europe,0
+2011,Cork,Belgium,Western Europe,0
+2011,Cork,Bulgaria,Eastern Europe,0
+2011,Cork,Cyprus,Southern Europe,0
+2011,Cork,Czech Republic,Eastern Europe,0
+2011,Cork,Denmark,Northern Europe,0
+2011,Cork,Estonia,Northern Europe,0
+2011,Cork,Finland,Northern Europe,0
 2011,Cork,France,Western Europe,70.9
+2011,Cork,Germany,Western Europe,18
+2011,Cork,Greece,Southern Europe,0
+2011,Cork,Hungary,Eastern Europe,0
+2011,Cork,Italy,Southern Europe,16.8
+2011,Cork,Latvia,Northern Europe,0
+2011,Cork,Lithuania,Northern Europe,11.4
+2011,Cork,Luxembourg,Western Europe,0
+2011,Cork,Malta,Southern Europe,0
 2011,Cork,Netherlands,Western Europe,83.2
 2011,Cork,Poland,Eastern Europe,91.9
+2011,Cork,Portugal,Southern Europe,41
+2011,Cork,Romania,Eastern Europe,0
+2011,Cork,Slovakia,Eastern Europe,0
+2011,Cork,Slovenia,Southern Europe,0
 2011,Cork,Spain,Southern Europe,105.8
+2011,Cork,Sweden,Northern Europe,0
 2011,Cork,England,UK,558.2
-2011,Dublin,Oceania and Polar regions (1),Oceania and Polar,0.7
-2011,Dublin,Slovenia,Southern Europe,1
-2011,Dublin,Morocco,Africa,2.3
-2011,Dublin,Israel,Asia,2.3
-2011,Dublin,Russian Federation,Eastern Europe,2.4
-2011,Dublin,Northern Ireland,Northern Europe,3
-2011,Dublin,Greece,Southern Europe,8.6
-2011,Dublin,Finland,Northern Europe,8.7
-2011,Dublin,Bulgaria,Eastern Europe,14.9
-2011,Dublin,Luxembourg,Western Europe,19.2
-2011,Dublin,Estonia,Northern Europe,23.7
-2011,Dublin,Other UK (1),UK,25.3
-2011,Dublin,Croatia,Southern Europe,26.4
-2011,Dublin,Malta,Southern Europe,27.7
-2011,Dublin,Wales,UK,30.7
-2011,Dublin,Romania,Eastern Europe,36.6
-2011,Dublin,Canada,Americas,41
-2011,Dublin,Czech Republic,Eastern Europe,42.9
-2011,Dublin,Slovakia,Eastern Europe,43.8
-2011,Dublin,Turkey,Asia,46.1
-2011,Dublin,Austria,Western Europe,47.3
-2011,Dublin,Latvia,Northern Europe,61.7
-2011,Dublin,Sweden,Northern Europe,61.7
+2011,Cork,Northern Ireland,UK,1
+2011,Cork,Scotland,UK,31.7
+2011,Cork,Wales,UK,0
+2011,Cork,Other UK (1),UK,2
+2011,Cork,Croatia,Southern Europe,0
+2011,Cork,Iceland,Northern Europe,0
+2011,Cork,Norway,Northern Europe,0
+2011,Cork,Russian Federation,Eastern Europe,0
+2011,Cork,Serbia,Southern Europe,0
+2011,Cork,Switzerland,Western Europe,1.8
+2011,Cork,Other Europe (12),Europe (other),0
+2011,Cork,Canada,Americas,0
+2011,Cork,United States,Americas,0
+2011,Cork,Other America (5),Americas,0
+2011,Cork,Canary Islands,Africa,56.4
+2011,Cork,Eygpt,Africa,0
+2011,Cork,Morocco,Africa,0
+2011,Cork,Tunisia,Africa,0
+2011,Cork,Other Africa (6),Africa,0
+2011,Cork,Bahrain,Asia,0
+2011,Cork,Israel,Asia,0
+2011,Cork,Turkey,Asia,0
+2011,Cork,United Arab Emirates,Asia,0
+2011,Cork,Other Asian countries (4),Asia,0
+2011,Cork,Oceania and Polar regions (1),Oceania and Polar,0.2
 2011,Dublin,Ireland (domestic),Ireland (domestic),62.1
-2011,Dublin,Norway,Northern Europe,78.9
-2011,Dublin,Lithuania,Northern Europe,79.2
-2011,Dublin,Hungary,Eastern Europe,85.9
-2011,Dublin,Denmark,Northern Europe,98.9
-2011,Dublin,United Arab Emirates,Asia,114.3
-2011,Dublin,Switzerland,Western Europe,139
+2011,Dublin,Austria,Western Europe,47.3
 2011,Dublin,Belgium,Western Europe,171.8
-2011,Dublin,Portugal,Southern Europe,199.6
-2011,Dublin,Canary Islands,Africa,208.5
-2011,Dublin,Netherlands,Western Europe,291.3
-2011,Dublin,Scotland,UK,364.2
-2011,Dublin,Poland,Eastern Europe,365.5
-2011,Dublin,Italy,Southern Europe,414.8
+2011,Dublin,Bulgaria,Eastern Europe,14.9
+2011,Dublin,Cyprus,Southern Europe,0
+2011,Dublin,Czech Republic,Eastern Europe,42.9
+2011,Dublin,Denmark,Northern Europe,98.9
+2011,Dublin,Estonia,Northern Europe,23.7
+2011,Dublin,Finland,Northern Europe,8.7
 2011,Dublin,France,Western Europe,621.5
 2011,Dublin,Germany,Western Europe,637.5
-2011,Dublin,United States,Americas,742.7
+2011,Dublin,Greece,Southern Europe,8.6
+2011,Dublin,Hungary,Eastern Europe,85.9
+2011,Dublin,Italy,Southern Europe,414.8
+2011,Dublin,Latvia,Northern Europe,61.7
+2011,Dublin,Lithuania,Northern Europe,79.2
+2011,Dublin,Luxembourg,Western Europe,19.2
+2011,Dublin,Malta,Southern Europe,27.7
+2011,Dublin,Netherlands,Western Europe,291.3
+2011,Dublin,Poland,Eastern Europe,365.5
+2011,Dublin,Portugal,Southern Europe,199.6
+2011,Dublin,Romania,Eastern Europe,36.6
+2011,Dublin,Slovakia,Eastern Europe,43.8
+2011,Dublin,Slovenia,Southern Europe,1
 2011,Dublin,Spain,Southern Europe,792
+2011,Dublin,Sweden,Northern Europe,61.7
 2011,Dublin,England,UK,3063.5
-2011,Galway,Oceania and Polar regions (1),Oceania and Polar,0.2
-2011,Galway,Scotland,UK,5.8
+2011,Dublin,Northern Ireland,UK,3
+2011,Dublin,Scotland,UK,364.2
+2011,Dublin,Wales,UK,30.7
+2011,Dublin,Other UK (1),UK,25.3
+2011,Dublin,Croatia,Southern Europe,26.4
+2011,Dublin,Iceland,Northern Europe,0
+2011,Dublin,Norway,Northern Europe,78.9
+2011,Dublin,Russian Federation,Eastern Europe,2.4
+2011,Dublin,Serbia,Southern Europe,0
+2011,Dublin,Switzerland,Western Europe,139
+2011,Dublin,Other Europe (12),Europe (other),0
+2011,Dublin,Canada,Americas,41
+2011,Dublin,United States,Americas,742.7
+2011,Dublin,Other America (5),Americas,0
+2011,Dublin,Canary Islands,Africa,208.5
+2011,Dublin,Eygpt,Africa,0
+2011,Dublin,Morocco,Africa,2.3
+2011,Dublin,Tunisia,Africa,0
+2011,Dublin,Other Africa (6),Africa,0
+2011,Dublin,Bahrain,Asia,0
+2011,Dublin,Israel,Asia,2.3
+2011,Dublin,Turkey,Asia,46.1
+2011,Dublin,United Arab Emirates,Asia,114.3
+2011,Dublin,Other Asian countries (4),Asia,0
+2011,Dublin,Oceania and Polar regions (1),Oceania and Polar,0.7
 2011,Galway,Ireland (domestic),Ireland (domestic),7.9
+2011,Galway,Austria,Western Europe,0
+2011,Galway,Belgium,Western Europe,0
+2011,Galway,Bulgaria,Eastern Europe,0
+2011,Galway,Cyprus,Southern Europe,0
+2011,Galway,Czech Republic,Eastern Europe,0
+2011,Galway,Denmark,Northern Europe,0
+2011,Galway,Estonia,Northern Europe,0
+2011,Galway,Finland,Northern Europe,0
+2011,Galway,France,Western Europe,0
+2011,Galway,Germany,Western Europe,0
+2011,Galway,Greece,Southern Europe,0
+2011,Galway,Hungary,Eastern Europe,0
+2011,Galway,Italy,Southern Europe,0
+2011,Galway,Latvia,Northern Europe,0
+2011,Galway,Lithuania,Northern Europe,0
+2011,Galway,Luxembourg,Western Europe,0
+2011,Galway,Malta,Southern Europe,0
+2011,Galway,Netherlands,Western Europe,0
+2011,Galway,Poland,Eastern Europe,0
+2011,Galway,Portugal,Southern Europe,0
+2011,Galway,Romania,Eastern Europe,0
+2011,Galway,Slovakia,Eastern Europe,0
+2011,Galway,Slovenia,Southern Europe,0
+2011,Galway,Spain,Southern Europe,0
+2011,Galway,Sweden,Northern Europe,0
 2011,Galway,England,UK,19.8
-2011,Kerry,France,Western Europe,0.7
-2011,Kerry,Portugal,Southern Europe,9.3
-2011,Kerry,Spain,Southern Europe,9.5
+2011,Galway,Northern Ireland,UK,0
+2011,Galway,Scotland,UK,5.8
+2011,Galway,Wales,UK,0
+2011,Galway,Other UK (1),UK,0
+2011,Galway,Croatia,Southern Europe,0
+2011,Galway,Iceland,Northern Europe,0
+2011,Galway,Norway,Northern Europe,0
+2011,Galway,Russian Federation,Eastern Europe,0
+2011,Galway,Serbia,Southern Europe,0
+2011,Galway,Switzerland,Western Europe,0
+2011,Galway,Other Europe (12),Europe (other),0
+2011,Galway,Canada,Americas,0
+2011,Galway,United States,Americas,0
+2011,Galway,Other America (5),Americas,0
+2011,Galway,Canary Islands,Africa,0
+2011,Galway,Eygpt,Africa,0
+2011,Galway,Morocco,Africa,0
+2011,Galway,Tunisia,Africa,0
+2011,Galway,Other Africa (6),Africa,0
+2011,Galway,Bahrain,Asia,0
+2011,Galway,Israel,Asia,0
+2011,Galway,Turkey,Asia,0
+2011,Galway,United Arab Emirates,Asia,0
+2011,Galway,Other Asian countries (4),Asia,0
+2011,Galway,Oceania and Polar regions (1),Oceania and Polar,0.2
 2011,Kerry,Ireland (domestic),Ireland (domestic),13.9
+2011,Kerry,Austria,Western Europe,0
+2011,Kerry,Belgium,Western Europe,0
+2011,Kerry,Bulgaria,Eastern Europe,0
+2011,Kerry,Cyprus,Southern Europe,0
+2011,Kerry,Czech Republic,Eastern Europe,0
+2011,Kerry,Denmark,Northern Europe,0
+2011,Kerry,Estonia,Northern Europe,0
+2011,Kerry,Finland,Northern Europe,0
+2011,Kerry,France,Western Europe,0.7
 2011,Kerry,Germany,Western Europe,28.6
+2011,Kerry,Greece,Southern Europe,0
+2011,Kerry,Hungary,Eastern Europe,0
+2011,Kerry,Italy,Southern Europe,0
+2011,Kerry,Latvia,Northern Europe,0
+2011,Kerry,Lithuania,Northern Europe,0
+2011,Kerry,Luxembourg,Western Europe,0
+2011,Kerry,Malta,Southern Europe,0
+2011,Kerry,Netherlands,Western Europe,0
+2011,Kerry,Poland,Eastern Europe,0
+2011,Kerry,Portugal,Southern Europe,9.3
+2011,Kerry,Romania,Eastern Europe,0
+2011,Kerry,Slovakia,Eastern Europe,0
+2011,Kerry,Slovenia,Southern Europe,0
+2011,Kerry,Spain,Southern Europe,9.5
+2011,Kerry,Sweden,Northern Europe,0
 2011,Kerry,England,UK,94.9
-2011,Knock,Oceania and Polar regions (1),Oceania and Polar,0.5
+2011,Kerry,Northern Ireland,UK,0
+2011,Kerry,Scotland,UK,0
+2011,Kerry,Wales,UK,0
+2011,Kerry,Other UK (1),UK,0
+2011,Kerry,Croatia,Southern Europe,0
+2011,Kerry,Iceland,Northern Europe,0
+2011,Kerry,Norway,Northern Europe,0
+2011,Kerry,Russian Federation,Eastern Europe,0
+2011,Kerry,Serbia,Southern Europe,0
+2011,Kerry,Switzerland,Western Europe,0
+2011,Kerry,Other Europe (12),Europe (other),0
+2011,Kerry,Canada,Americas,0
+2011,Kerry,United States,Americas,0
+2011,Kerry,Other America (5),Americas,0
+2011,Kerry,Canary Islands,Africa,0
+2011,Kerry,Eygpt,Africa,0
+2011,Kerry,Morocco,Africa,0
+2011,Kerry,Tunisia,Africa,0
+2011,Kerry,Other Africa (6),Africa,0
+2011,Kerry,Bahrain,Asia,0
+2011,Kerry,Israel,Asia,0
+2011,Kerry,Turkey,Asia,0
+2011,Kerry,United Arab Emirates,Asia,0
+2011,Kerry,Other Asian countries (4),Asia,0
+2011,Kerry,Oceania and Polar regions (1),Oceania and Polar,0
 2011,Knock,Ireland (domestic),Ireland (domestic),1
-2011,Knock,Scotland,UK,5.2
+2011,Knock,Austria,Western Europe,0
+2011,Knock,Belgium,Western Europe,0
+2011,Knock,Bulgaria,Eastern Europe,0
+2011,Knock,Cyprus,Southern Europe,0
+2011,Knock,Czech Republic,Eastern Europe,0
+2011,Knock,Denmark,Northern Europe,0
+2011,Knock,Estonia,Northern Europe,0
+2011,Knock,Finland,Northern Europe,0
+2011,Knock,France,Western Europe,0
+2011,Knock,Germany,Western Europe,0
+2011,Knock,Greece,Southern Europe,0
+2011,Knock,Hungary,Eastern Europe,0
+2011,Knock,Italy,Southern Europe,0
+2011,Knock,Latvia,Northern Europe,0
+2011,Knock,Lithuania,Northern Europe,0
+2011,Knock,Luxembourg,Western Europe,0
+2011,Knock,Malta,Southern Europe,0
+2011,Knock,Netherlands,Western Europe,0
+2011,Knock,Poland,Eastern Europe,0
+2011,Knock,Portugal,Southern Europe,0
+2011,Knock,Romania,Eastern Europe,0
+2011,Knock,Slovakia,Eastern Europe,0
+2011,Knock,Slovenia,Southern Europe,0
+2011,Knock,Spain,Southern Europe,0
+2011,Knock,Sweden,Northern Europe,0
 2011,Knock,England,UK,256.3
+2011,Knock,Northern Ireland,UK,0
+2011,Knock,Scotland,UK,5.2
+2011,Knock,Wales,UK,0
+2011,Knock,Other UK (1),UK,0
+2011,Knock,Croatia,Southern Europe,0
+2011,Knock,Iceland,Northern Europe,0
+2011,Knock,Norway,Northern Europe,0
+2011,Knock,Russian Federation,Eastern Europe,0
+2011,Knock,Serbia,Southern Europe,0
+2011,Knock,Switzerland,Western Europe,0
+2011,Knock,Other Europe (12),Europe (other),0
+2011,Knock,Canada,Americas,0
+2011,Knock,United States,Americas,0
+2011,Knock,Other America (5),Americas,0
+2011,Knock,Canary Islands,Africa,0
+2011,Knock,Eygpt,Africa,0
+2011,Knock,Morocco,Africa,0
+2011,Knock,Tunisia,Africa,0
+2011,Knock,Other Africa (6),Africa,0
+2011,Knock,Bahrain,Asia,0
+2011,Knock,Israel,Asia,0
+2011,Knock,Turkey,Asia,0
+2011,Knock,United Arab Emirates,Asia,0
+2011,Knock,Other Asian countries (4),Asia,0
+2011,Knock,Oceania and Polar regions (1),Oceania and Polar,0.5
 2011,Shannon,Ireland (domestic),Ireland (domestic),0.1
-2011,Shannon,Netherlands,Western Europe,0.1
-2011,Shannon,Canada,Americas,8.6
-2011,Shannon,Scotland,UK,16.2
-2011,Shannon,Poland,Eastern Europe,17.2
-2011,Shannon,Spain,Southern Europe,20.3
+2011,Shannon,Austria,Western Europe,0
+2011,Shannon,Belgium,Western Europe,0
+2011,Shannon,Bulgaria,Eastern Europe,0
+2011,Shannon,Cyprus,Southern Europe,0
+2011,Shannon,Czech Republic,Eastern Europe,0
+2011,Shannon,Denmark,Northern Europe,0
+2011,Shannon,Estonia,Northern Europe,0
+2011,Shannon,Finland,Northern Europe,0
 2011,Shannon,France,Western Europe,21
-2011,Shannon,Canary Islands,Africa,27.7
-2011,Shannon,United States,Americas,157.7
+2011,Shannon,Germany,Western Europe,0
+2011,Shannon,Greece,Southern Europe,0
+2011,Shannon,Hungary,Eastern Europe,0
+2011,Shannon,Italy,Southern Europe,0
+2011,Shannon,Latvia,Northern Europe,0
+2011,Shannon,Lithuania,Northern Europe,0
+2011,Shannon,Luxembourg,Western Europe,0
+2011,Shannon,Malta,Southern Europe,0
+2011,Shannon,Netherlands,Western Europe,0.1
+2011,Shannon,Poland,Eastern Europe,17.2
+2011,Shannon,Portugal,Southern Europe,0
+2011,Shannon,Romania,Eastern Europe,0
+2011,Shannon,Slovakia,Eastern Europe,0
+2011,Shannon,Slovenia,Southern Europe,0
+2011,Shannon,Spain,Southern Europe,20.3
+2011,Shannon,Sweden,Northern Europe,0
 2011,Shannon,England,UK,358.4
+2011,Shannon,Northern Ireland,UK,0
+2011,Shannon,Scotland,UK,16.2
+2011,Shannon,Wales,UK,0
+2011,Shannon,Other UK (1),UK,0
+2011,Shannon,Croatia,Southern Europe,0
+2011,Shannon,Iceland,Northern Europe,0
+2011,Shannon,Norway,Northern Europe,0
+2011,Shannon,Russian Federation,Eastern Europe,0
+2011,Shannon,Serbia,Southern Europe,0
+2011,Shannon,Switzerland,Western Europe,0
+2011,Shannon,Other Europe (12),Europe (other),0
+2011,Shannon,Canada,Americas,8.6
+2011,Shannon,United States,Americas,157.7
+2011,Shannon,Other America (5),Americas,0
+2011,Shannon,Canary Islands,Africa,27.7
+2011,Shannon,Eygpt,Africa,0
+2011,Shannon,Morocco,Africa,0
+2011,Shannon,Tunisia,Africa,0
+2011,Shannon,Other Africa (6),Africa,0
+2011,Shannon,Bahrain,Asia,0
+2011,Shannon,Israel,Asia,0
+2011,Shannon,Turkey,Asia,0
+2011,Shannon,United Arab Emirates,Asia,0
+2011,Shannon,Other Asian countries (4),Asia,0
+2011,Shannon,Oceania and Polar regions (1),Oceania and Polar,0
 2012,Cork,Ireland (domestic),Ireland (domestic),0.1
-2012,Cork,Wales,UK,0.1
-2012,Cork,Other UK (1),UK,1.7
-2012,Cork,Switzerland,Western Europe,1.7
+2012,Cork,Austria,Western Europe,0
 2012,Cork,Belgium,Western Europe,12.3
-2012,Cork,Germany,Western Europe,16
-2012,Cork,Lithuania,Northern Europe,19.4
-2012,Cork,Italy,Southern Europe,23.2
-2012,Cork,Scotland,UK,34.3
-2012,Cork,Portugal,Southern Europe,44.4
-2012,Cork,Canary Islands,Africa,62.1
+2012,Cork,Bulgaria,Eastern Europe,0
+2012,Cork,Cyprus,Southern Europe,0
+2012,Cork,Czech Republic,Eastern Europe,0
+2012,Cork,Denmark,Northern Europe,0
+2012,Cork,Estonia,Northern Europe,0
+2012,Cork,Finland,Northern Europe,0
 2012,Cork,France,Western Europe,71.7
+2012,Cork,Germany,Western Europe,16
+2012,Cork,Greece,Southern Europe,0
+2012,Cork,Hungary,Eastern Europe,0
+2012,Cork,Italy,Southern Europe,23.2
+2012,Cork,Latvia,Northern Europe,0
+2012,Cork,Lithuania,Northern Europe,19.4
+2012,Cork,Luxembourg,Western Europe,0
+2012,Cork,Malta,Southern Europe,0
 2012,Cork,Netherlands,Western Europe,86.2
 2012,Cork,Poland,Eastern Europe,88.6
+2012,Cork,Portugal,Southern Europe,44.4
+2012,Cork,Romania,Eastern Europe,0
+2012,Cork,Slovakia,Eastern Europe,0
+2012,Cork,Slovenia,Southern Europe,0
 2012,Cork,Spain,Southern Europe,121.1
+2012,Cork,Sweden,Northern Europe,0
 2012,Cork,England,UK,538.9
-2012,Dublin,Other Europe (12),Europe (other),0.1
-2012,Dublin,Oceania and Polar regions (1),Oceania and Polar,0.5
-2012,Dublin,Russian Federation,Eastern Europe,1.5
-2012,Dublin,Israel,Asia,1.9
-2012,Dublin,Morocco,Africa,4.9
-2012,Dublin,Greece,Southern Europe,7.8
-2012,Dublin,Bulgaria,Eastern Europe,12.1
-2012,Dublin,Finland,Northern Europe,12.1
-2012,Dublin,Estonia,Northern Europe,15
-2012,Dublin,Croatia,Southern Europe,21.8
-2012,Dublin,Other UK (1),UK,22.7
-2012,Dublin,Malta,Southern Europe,28.8
-2012,Dublin,Wales,UK,30.7
+2012,Cork,Northern Ireland,UK,0
+2012,Cork,Scotland,UK,34.3
+2012,Cork,Wales,UK,0.1
+2012,Cork,Other UK (1),UK,1.7
+2012,Cork,Croatia,Southern Europe,0
+2012,Cork,Iceland,Northern Europe,0
+2012,Cork,Norway,Northern Europe,0
+2012,Cork,Russian Federation,Eastern Europe,0
+2012,Cork,Serbia,Southern Europe,0
+2012,Cork,Switzerland,Western Europe,1.7
+2012,Cork,Other Europe (12),Europe (other),0
+2012,Cork,Canada,Americas,0
+2012,Cork,United States,Americas,0
+2012,Cork,Other America (5),Americas,0
+2012,Cork,Canary Islands,Africa,62.1
+2012,Cork,Eygpt,Africa,0
+2012,Cork,Morocco,Africa,0
+2012,Cork,Tunisia,Africa,0
+2012,Cork,Other Africa (6),Africa,0
+2012,Cork,Bahrain,Asia,0
+2012,Cork,Israel,Asia,0
+2012,Cork,Turkey,Asia,0
+2012,Cork,United Arab Emirates,Asia,0
+2012,Cork,Other Asian countries (4),Asia,0
+2012,Cork,Oceania and Polar regions (1),Oceania and Polar,0
 2012,Dublin,Ireland (domestic),Ireland (domestic),32.6
-2012,Dublin,Romania,Eastern Europe,35.1
-2012,Dublin,Slovakia,Eastern Europe,46.3
-2012,Dublin,Canada,Americas,49.7
 2012,Dublin,Austria,Western Europe,50.2
-2012,Dublin,Czech Republic,Eastern Europe,50.9
-2012,Dublin,Turkey,Asia,51.6
-2012,Dublin,Latvia,Northern Europe,59
-2012,Dublin,Norway,Northern Europe,70
-2012,Dublin,Sweden,Northern Europe,71.6
-2012,Dublin,Lithuania,Northern Europe,77.7
-2012,Dublin,Hungary,Eastern Europe,94.3
-2012,Dublin,Denmark,Northern Europe,98.9
-2012,Dublin,Switzerland,Western Europe,152.6
 2012,Dublin,Belgium,Western Europe,170.9
-2012,Dublin,Canary Islands,Africa,212
-2012,Dublin,United Arab Emirates,Asia,224
-2012,Dublin,Portugal,Southern Europe,224.3
-2012,Dublin,Netherlands,Western Europe,295.8
-2012,Dublin,Scotland,UK,348.8
-2012,Dublin,Poland,Eastern Europe,355.2
-2012,Dublin,Italy,Southern Europe,429.9
+2012,Dublin,Bulgaria,Eastern Europe,12.1
+2012,Dublin,Cyprus,Southern Europe,0
+2012,Dublin,Czech Republic,Eastern Europe,50.9
+2012,Dublin,Denmark,Northern Europe,98.9
+2012,Dublin,Estonia,Northern Europe,15
+2012,Dublin,Finland,Northern Europe,12.1
 2012,Dublin,France,Western Europe,641.1
 2012,Dublin,Germany,Western Europe,667
-2012,Dublin,United States,Americas,770.1
+2012,Dublin,Greece,Southern Europe,7.8
+2012,Dublin,Hungary,Eastern Europe,94.3
+2012,Dublin,Italy,Southern Europe,429.9
+2012,Dublin,Latvia,Northern Europe,59
+2012,Dublin,Lithuania,Northern Europe,77.7
+2012,Dublin,Luxembourg,Western Europe,0
+2012,Dublin,Malta,Southern Europe,28.8
+2012,Dublin,Netherlands,Western Europe,295.8
+2012,Dublin,Poland,Eastern Europe,355.2
+2012,Dublin,Portugal,Southern Europe,224.3
+2012,Dublin,Romania,Eastern Europe,35.1
+2012,Dublin,Slovakia,Eastern Europe,46.3
+2012,Dublin,Slovenia,Southern Europe,0
 2012,Dublin,Spain,Southern Europe,830.5
+2012,Dublin,Sweden,Northern Europe,71.6
 2012,Dublin,England,UK,3044.1
-2012,Kerry,Belgium,Western Europe,0.1
-2012,Kerry,France,Western Europe,0.5
-2012,Kerry,Spain,Southern Europe,10
-2012,Kerry,Portugal,Southern Europe,10.2
+2012,Dublin,Northern Ireland,UK,0
+2012,Dublin,Scotland,UK,348.8
+2012,Dublin,Wales,UK,30.7
+2012,Dublin,Other UK (1),UK,22.7
+2012,Dublin,Croatia,Southern Europe,21.8
+2012,Dublin,Iceland,Northern Europe,0
+2012,Dublin,Norway,Northern Europe,70
+2012,Dublin,Russian Federation,Eastern Europe,1.5
+2012,Dublin,Serbia,Southern Europe,0
+2012,Dublin,Switzerland,Western Europe,152.6
+2012,Dublin,Other Europe (12),Europe (other),0.1
+2012,Dublin,Canada,Americas,49.7
+2012,Dublin,United States,Americas,770.1
+2012,Dublin,Other America (5),Americas,0
+2012,Dublin,Canary Islands,Africa,212
+2012,Dublin,Eygpt,Africa,0
+2012,Dublin,Morocco,Africa,4.9
+2012,Dublin,Tunisia,Africa,0
+2012,Dublin,Other Africa (6),Africa,0
+2012,Dublin,Bahrain,Asia,0
+2012,Dublin,Israel,Asia,1.9
+2012,Dublin,Turkey,Asia,51.6
+2012,Dublin,United Arab Emirates,Asia,224
+2012,Dublin,Other Asian countries (4),Asia,0
+2012,Dublin,Oceania and Polar regions (1),Oceania and Polar,0.5
+2012,Galway,Ireland (domestic),Ireland (domestic),0
+2012,Galway,Austria,Western Europe,0
+2012,Galway,Belgium,Western Europe,0
+2012,Galway,Bulgaria,Eastern Europe,0
+2012,Galway,Cyprus,Southern Europe,0
+2012,Galway,Czech Republic,Eastern Europe,0
+2012,Galway,Denmark,Northern Europe,0
+2012,Galway,Estonia,Northern Europe,0
+2012,Galway,Finland,Northern Europe,0
+2012,Galway,France,Western Europe,0
+2012,Galway,Germany,Western Europe,0
+2012,Galway,Greece,Southern Europe,0
+2012,Galway,Hungary,Eastern Europe,0
+2012,Galway,Italy,Southern Europe,0
+2012,Galway,Latvia,Northern Europe,0
+2012,Galway,Lithuania,Northern Europe,0
+2012,Galway,Luxembourg,Western Europe,0
+2012,Galway,Malta,Southern Europe,0
+2012,Galway,Netherlands,Western Europe,0
+2012,Galway,Poland,Eastern Europe,0
+2012,Galway,Portugal,Southern Europe,0
+2012,Galway,Romania,Eastern Europe,0
+2012,Galway,Slovakia,Eastern Europe,0
+2012,Galway,Slovenia,Southern Europe,0
+2012,Galway,Spain,Southern Europe,0
+2012,Galway,Sweden,Northern Europe,0
+2012,Galway,England,UK,0
+2012,Galway,Northern Ireland,UK,0
+2012,Galway,Scotland,UK,0
+2012,Galway,Wales,UK,0
+2012,Galway,Other UK (1),UK,0
+2012,Galway,Croatia,Southern Europe,0
+2012,Galway,Iceland,Northern Europe,0
+2012,Galway,Norway,Northern Europe,0
+2012,Galway,Russian Federation,Eastern Europe,0
+2012,Galway,Serbia,Southern Europe,0
+2012,Galway,Switzerland,Western Europe,0
+2012,Galway,Other Europe (12),Europe (other),0
+2012,Galway,Canada,Americas,0
+2012,Galway,United States,Americas,0
+2012,Galway,Other America (5),Americas,0
+2012,Galway,Canary Islands,Africa,0
+2012,Galway,Eygpt,Africa,0
+2012,Galway,Morocco,Africa,0
+2012,Galway,Tunisia,Africa,0
+2012,Galway,Other Africa (6),Africa,0
+2012,Galway,Bahrain,Asia,0
+2012,Galway,Israel,Asia,0
+2012,Galway,Turkey,Asia,0
+2012,Galway,United Arab Emirates,Asia,0
+2012,Galway,Other Asian countries (4),Asia,0
+2012,Galway,Oceania and Polar regions (1),Oceania and Polar,0
 2012,Kerry,Ireland (domestic),Ireland (domestic),15.7
+2012,Kerry,Austria,Western Europe,0
+2012,Kerry,Belgium,Western Europe,0.1
+2012,Kerry,Bulgaria,Eastern Europe,0
+2012,Kerry,Cyprus,Southern Europe,0
+2012,Kerry,Czech Republic,Eastern Europe,0
+2012,Kerry,Denmark,Northern Europe,0
+2012,Kerry,Estonia,Northern Europe,0
+2012,Kerry,Finland,Northern Europe,0
+2012,Kerry,France,Western Europe,0.5
 2012,Kerry,Germany,Western Europe,25.8
+2012,Kerry,Greece,Southern Europe,0
+2012,Kerry,Hungary,Eastern Europe,0
+2012,Kerry,Italy,Southern Europe,0
+2012,Kerry,Latvia,Northern Europe,0
+2012,Kerry,Lithuania,Northern Europe,0
+2012,Kerry,Luxembourg,Western Europe,0
+2012,Kerry,Malta,Southern Europe,0
+2012,Kerry,Netherlands,Western Europe,0
+2012,Kerry,Poland,Eastern Europe,0
+2012,Kerry,Portugal,Southern Europe,10.2
+2012,Kerry,Romania,Eastern Europe,0
+2012,Kerry,Slovakia,Eastern Europe,0
+2012,Kerry,Slovenia,Southern Europe,0
+2012,Kerry,Spain,Southern Europe,10
+2012,Kerry,Sweden,Northern Europe,0
 2012,Kerry,England,UK,81.7
+2012,Kerry,Northern Ireland,UK,0
+2012,Kerry,Scotland,UK,0
+2012,Kerry,Wales,UK,0
+2012,Kerry,Other UK (1),UK,0
+2012,Kerry,Croatia,Southern Europe,0
+2012,Kerry,Iceland,Northern Europe,0
+2012,Kerry,Norway,Northern Europe,0
+2012,Kerry,Russian Federation,Eastern Europe,0
+2012,Kerry,Serbia,Southern Europe,0
+2012,Kerry,Switzerland,Western Europe,0
+2012,Kerry,Other Europe (12),Europe (other),0
+2012,Kerry,Canada,Americas,0
+2012,Kerry,United States,Americas,0
+2012,Kerry,Other America (5),Americas,0
+2012,Kerry,Canary Islands,Africa,0
+2012,Kerry,Eygpt,Africa,0
+2012,Kerry,Morocco,Africa,0
+2012,Kerry,Tunisia,Africa,0
+2012,Kerry,Other Africa (6),Africa,0
+2012,Kerry,Bahrain,Asia,0
+2012,Kerry,Israel,Asia,0
+2012,Kerry,Turkey,Asia,0
+2012,Kerry,United Arab Emirates,Asia,0
+2012,Kerry,Other Asian countries (4),Asia,0
+2012,Kerry,Oceania and Polar regions (1),Oceania and Polar,0
+2012,Knock,Ireland (domestic),Ireland (domestic),0
+2012,Knock,Austria,Western Europe,0
+2012,Knock,Belgium,Western Europe,0
+2012,Knock,Bulgaria,Eastern Europe,0
+2012,Knock,Cyprus,Southern Europe,0
+2012,Knock,Czech Republic,Eastern Europe,0
+2012,Knock,Denmark,Northern Europe,0
+2012,Knock,Estonia,Northern Europe,0
+2012,Knock,Finland,Northern Europe,0
 2012,Knock,France,Western Europe,0.5
-2012,Knock,Italy,Southern Europe,0.5
-2012,Knock,Turkey,Asia,0.5
 2012,Knock,Germany,Western Europe,0.9
-2012,Knock,Spain,Southern Europe,2
+2012,Knock,Greece,Southern Europe,0
+2012,Knock,Hungary,Eastern Europe,0
+2012,Knock,Italy,Southern Europe,0.5
+2012,Knock,Latvia,Northern Europe,0
+2012,Knock,Lithuania,Northern Europe,0
+2012,Knock,Luxembourg,Western Europe,0
+2012,Knock,Malta,Southern Europe,0
+2012,Knock,Netherlands,Western Europe,0
+2012,Knock,Poland,Eastern Europe,0
 2012,Knock,Portugal,Southern Europe,2.2
-2012,Knock,Canary Islands,Africa,4.2
-2012,Knock,Scotland,UK,5.5
+2012,Knock,Romania,Eastern Europe,0
+2012,Knock,Slovakia,Eastern Europe,0
+2012,Knock,Slovenia,Southern Europe,0
+2012,Knock,Spain,Southern Europe,2
+2012,Knock,Sweden,Northern Europe,0
 2012,Knock,England,UK,250.9
-2012,Shannon,Austria,Western Europe,0.1
+2012,Knock,Northern Ireland,UK,0
+2012,Knock,Scotland,UK,5.5
+2012,Knock,Wales,UK,0
+2012,Knock,Other UK (1),UK,0
+2012,Knock,Croatia,Southern Europe,0
+2012,Knock,Iceland,Northern Europe,0
+2012,Knock,Norway,Northern Europe,0
+2012,Knock,Russian Federation,Eastern Europe,0
+2012,Knock,Serbia,Southern Europe,0
+2012,Knock,Switzerland,Western Europe,0
+2012,Knock,Other Europe (12),Europe (other),0
+2012,Knock,Canada,Americas,0
+2012,Knock,United States,Americas,0
+2012,Knock,Other America (5),Americas,0
+2012,Knock,Canary Islands,Africa,4.2
+2012,Knock,Eygpt,Africa,0
+2012,Knock,Morocco,Africa,0
+2012,Knock,Tunisia,Africa,0
+2012,Knock,Other Africa (6),Africa,0
+2012,Knock,Bahrain,Asia,0
+2012,Knock,Israel,Asia,0
+2012,Knock,Turkey,Asia,0.5
+2012,Knock,United Arab Emirates,Asia,0
+2012,Knock,Other Asian countries (4),Asia,0
+2012,Knock,Oceania and Polar regions (1),Oceania and Polar,0
 2012,Shannon,Ireland (domestic),Ireland (domestic),0.2
-2012,Shannon,Canada,Americas,9.5
+2012,Shannon,Austria,Western Europe,0.1
+2012,Shannon,Belgium,Western Europe,0
+2012,Shannon,Bulgaria,Eastern Europe,0
+2012,Shannon,Cyprus,Southern Europe,0
+2012,Shannon,Czech Republic,Eastern Europe,0
+2012,Shannon,Denmark,Northern Europe,0
+2012,Shannon,Estonia,Northern Europe,0
+2012,Shannon,Finland,Northern Europe,0
 2012,Shannon,France,Western Europe,10.4
-2012,Shannon,Scotland,UK,15.9
-2012,Shannon,Canary Islands,Africa,16.5
+2012,Shannon,Germany,Western Europe,0
+2012,Shannon,Greece,Southern Europe,0
+2012,Shannon,Hungary,Eastern Europe,0
+2012,Shannon,Italy,Southern Europe,0
+2012,Shannon,Latvia,Northern Europe,0
+2012,Shannon,Lithuania,Northern Europe,0
+2012,Shannon,Luxembourg,Western Europe,0
+2012,Shannon,Malta,Southern Europe,0
+2012,Shannon,Netherlands,Western Europe,0
 2012,Shannon,Poland,Eastern Europe,17.5
+2012,Shannon,Portugal,Southern Europe,0
+2012,Shannon,Romania,Eastern Europe,0
+2012,Shannon,Slovakia,Eastern Europe,0
+2012,Shannon,Slovenia,Southern Europe,0
 2012,Shannon,Spain,Southern Europe,22.4
-2012,Shannon,United States,Americas,141.6
+2012,Shannon,Sweden,Northern Europe,0
 2012,Shannon,England,UK,351.4
-2013,Cork,Other UK (1),UK,1.8
-2013,Cork,Switzerland,Western Europe,1.8
+2012,Shannon,Northern Ireland,UK,0
+2012,Shannon,Scotland,UK,15.9
+2012,Shannon,Wales,UK,0
+2012,Shannon,Other UK (1),UK,0
+2012,Shannon,Croatia,Southern Europe,0
+2012,Shannon,Iceland,Northern Europe,0
+2012,Shannon,Norway,Northern Europe,0
+2012,Shannon,Russian Federation,Eastern Europe,0
+2012,Shannon,Serbia,Southern Europe,0
+2012,Shannon,Switzerland,Western Europe,0
+2012,Shannon,Other Europe (12),Europe (other),0
+2012,Shannon,Canada,Americas,9.5
+2012,Shannon,United States,Americas,141.6
+2012,Shannon,Other America (5),Americas,0
+2012,Shannon,Canary Islands,Africa,16.5
+2012,Shannon,Eygpt,Africa,0
+2012,Shannon,Morocco,Africa,0
+2012,Shannon,Tunisia,Africa,0
+2012,Shannon,Other Africa (6),Africa,0
+2012,Shannon,Bahrain,Asia,0
+2012,Shannon,Israel,Asia,0
+2012,Shannon,Turkey,Asia,0
+2012,Shannon,United Arab Emirates,Asia,0
+2012,Shannon,Other Asian countries (4),Asia,0
+2012,Shannon,Oceania and Polar regions (1),Oceania and Polar,0
+2013,Cork,Ireland (domestic),Ireland (domestic),0
+2013,Cork,Austria,Western Europe,0
 2013,Cork,Belgium,Western Europe,12.2
-2013,Cork,Italy,Southern Europe,12.3
-2013,Cork,Germany,Western Europe,15.3
-2013,Cork,Lithuania,Northern Europe,16.1
-2013,Cork,Scotland,UK,31.2
-2013,Cork,Portugal,Southern Europe,47.8
+2013,Cork,Bulgaria,Eastern Europe,0
+2013,Cork,Cyprus,Southern Europe,0
+2013,Cork,Czech Republic,Eastern Europe,0
+2013,Cork,Denmark,Northern Europe,0
+2013,Cork,Estonia,Northern Europe,0
+2013,Cork,Finland,Northern Europe,0
 2013,Cork,France,Western Europe,63
-2013,Cork,Canary Islands,Africa,68.1
+2013,Cork,Germany,Western Europe,15.3
+2013,Cork,Greece,Southern Europe,0
+2013,Cork,Hungary,Eastern Europe,0
+2013,Cork,Italy,Southern Europe,12.3
+2013,Cork,Latvia,Northern Europe,0
+2013,Cork,Lithuania,Northern Europe,16.1
+2013,Cork,Luxembourg,Western Europe,0
+2013,Cork,Malta,Southern Europe,0
 2013,Cork,Netherlands,Western Europe,86
 2013,Cork,Poland,Eastern Europe,89.3
+2013,Cork,Portugal,Southern Europe,47.8
+2013,Cork,Romania,Eastern Europe,0
+2013,Cork,Slovakia,Eastern Europe,0
+2013,Cork,Slovenia,Southern Europe,0
 2013,Cork,Spain,Southern Europe,114.2
+2013,Cork,Sweden,Northern Europe,0
 2013,Cork,England,UK,524.8
-2013,Dublin,Oceania and Polar regions (1),Oceania and Polar,0.2
-2013,Dublin,Russian Federation,Eastern Europe,1.5
-2013,Dublin,Israel,Asia,2
-2013,Dublin,Other Europe (12),Europe (other),2.5
-2013,Dublin,Morocco,Africa,4.5
-2013,Dublin,Estonia,Northern Europe,10.8
-2013,Dublin,Bulgaria,Eastern Europe,11.1
-2013,Dublin,Greece,Southern Europe,12.3
-2013,Dublin,Finland,Northern Europe,16.3
-2013,Dublin,Other UK (1),UK,23.1
-2013,Dublin,Malta,Southern Europe,29.8
-2013,Dublin,Wales,UK,31.5
-2013,Dublin,Croatia,Southern Europe,31.8
+2013,Cork,Northern Ireland,UK,0
+2013,Cork,Scotland,UK,31.2
+2013,Cork,Wales,UK,0
+2013,Cork,Other UK (1),UK,1.8
+2013,Cork,Croatia,Southern Europe,0
+2013,Cork,Iceland,Northern Europe,0
+2013,Cork,Norway,Northern Europe,0
+2013,Cork,Russian Federation,Eastern Europe,0
+2013,Cork,Serbia,Southern Europe,0
+2013,Cork,Switzerland,Western Europe,1.8
+2013,Cork,Other Europe (12),Europe (other),0
+2013,Cork,Canada,Americas,0
+2013,Cork,United States,Americas,0
+2013,Cork,Other America (5),Americas,0
+2013,Cork,Canary Islands,Africa,68.1
+2013,Cork,Eygpt,Africa,0
+2013,Cork,Morocco,Africa,0
+2013,Cork,Tunisia,Africa,0
+2013,Cork,Other Africa (6),Africa,0
+2013,Cork,Bahrain,Asia,0
+2013,Cork,Israel,Asia,0
+2013,Cork,Turkey,Asia,0
+2013,Cork,United Arab Emirates,Asia,0
+2013,Cork,Other Asian countries (4),Asia,0
+2013,Cork,Oceania and Polar regions (1),Oceania and Polar,0
 2013,Dublin,Ireland (domestic),Ireland (domestic),32.8
-2013,Dublin,Romania,Eastern Europe,35.8
-2013,Dublin,Slovakia,Eastern Europe,48.3
-2013,Dublin,Canada,Americas,49.1
 2013,Dublin,Austria,Western Europe,50.3
-2013,Dublin,Czech Republic,Eastern Europe,51.3
-2013,Dublin,Latvia,Northern Europe,54.3
-2013,Dublin,Norway,Northern Europe,66
-2013,Dublin,Lithuania,Northern Europe,66.7
-2013,Dublin,Turkey,Asia,68.5
-2013,Dublin,Sweden,Northern Europe,74.2
-2013,Dublin,Hungary,Eastern Europe,79.8
-2013,Dublin,Denmark,Northern Europe,124.4
-2013,Dublin,Switzerland,Western Europe,155.4
 2013,Dublin,Belgium,Western Europe,198.9
-2013,Dublin,Canary Islands,Africa,238.8
-2013,Dublin,Portugal,Southern Europe,243.1
-2013,Dublin,United Arab Emirates,Asia,252.1
-2013,Dublin,Netherlands,Western Europe,317.9
-2013,Dublin,Poland,Eastern Europe,352.1
-2013,Dublin,Scotland,UK,361.7
-2013,Dublin,Italy,Southern Europe,444.4
+2013,Dublin,Bulgaria,Eastern Europe,11.1
+2013,Dublin,Cyprus,Southern Europe,0
+2013,Dublin,Czech Republic,Eastern Europe,51.3
+2013,Dublin,Denmark,Northern Europe,124.4
+2013,Dublin,Estonia,Northern Europe,10.8
+2013,Dublin,Finland,Northern Europe,16.3
 2013,Dublin,France,Western Europe,668.7
 2013,Dublin,Germany,Western Europe,706.1
+2013,Dublin,Greece,Southern Europe,12.3
+2013,Dublin,Hungary,Eastern Europe,79.8
+2013,Dublin,Italy,Southern Europe,444.4
+2013,Dublin,Latvia,Northern Europe,54.3
+2013,Dublin,Lithuania,Northern Europe,66.7
+2013,Dublin,Luxembourg,Western Europe,0
+2013,Dublin,Malta,Southern Europe,29.8
+2013,Dublin,Netherlands,Western Europe,317.9
+2013,Dublin,Poland,Eastern Europe,352.1
+2013,Dublin,Portugal,Southern Europe,243.1
+2013,Dublin,Romania,Eastern Europe,35.8
+2013,Dublin,Slovakia,Eastern Europe,48.3
+2013,Dublin,Slovenia,Southern Europe,0
 2013,Dublin,Spain,Southern Europe,854.4
-2013,Dublin,United States,Americas,880.4
+2013,Dublin,Sweden,Northern Europe,74.2
 2013,Dublin,England,UK,3177.8
-2013,Kerry,Portugal,Southern Europe,9.6
-2013,Kerry,Spain,Southern Europe,10.8
+2013,Dublin,Northern Ireland,UK,0
+2013,Dublin,Scotland,UK,361.7
+2013,Dublin,Wales,UK,31.5
+2013,Dublin,Other UK (1),UK,23.1
+2013,Dublin,Croatia,Southern Europe,31.8
+2013,Dublin,Iceland,Northern Europe,0
+2013,Dublin,Norway,Northern Europe,66
+2013,Dublin,Russian Federation,Eastern Europe,1.5
+2013,Dublin,Serbia,Southern Europe,0
+2013,Dublin,Switzerland,Western Europe,155.4
+2013,Dublin,Other Europe (12),Europe (other),2.5
+2013,Dublin,Canada,Americas,49.1
+2013,Dublin,United States,Americas,880.4
+2013,Dublin,Other America (5),Americas,0
+2013,Dublin,Canary Islands,Africa,238.8
+2013,Dublin,Eygpt,Africa,0
+2013,Dublin,Morocco,Africa,4.5
+2013,Dublin,Tunisia,Africa,0
+2013,Dublin,Other Africa (6),Africa,0
+2013,Dublin,Bahrain,Asia,0
+2013,Dublin,Israel,Asia,2
+2013,Dublin,Turkey,Asia,68.5
+2013,Dublin,United Arab Emirates,Asia,252.1
+2013,Dublin,Other Asian countries (4),Asia,0
+2013,Dublin,Oceania and Polar regions (1),Oceania and Polar,0.2
+2013,Galway,Ireland (domestic),Ireland (domestic),0
+2013,Galway,Austria,Western Europe,0
+2013,Galway,Belgium,Western Europe,0
+2013,Galway,Bulgaria,Eastern Europe,0
+2013,Galway,Cyprus,Southern Europe,0
+2013,Galway,Czech Republic,Eastern Europe,0
+2013,Galway,Denmark,Northern Europe,0
+2013,Galway,Estonia,Northern Europe,0
+2013,Galway,Finland,Northern Europe,0
+2013,Galway,France,Western Europe,0
+2013,Galway,Germany,Western Europe,0
+2013,Galway,Greece,Southern Europe,0
+2013,Galway,Hungary,Eastern Europe,0
+2013,Galway,Italy,Southern Europe,0
+2013,Galway,Latvia,Northern Europe,0
+2013,Galway,Lithuania,Northern Europe,0
+2013,Galway,Luxembourg,Western Europe,0
+2013,Galway,Malta,Southern Europe,0
+2013,Galway,Netherlands,Western Europe,0
+2013,Galway,Poland,Eastern Europe,0
+2013,Galway,Portugal,Southern Europe,0
+2013,Galway,Romania,Eastern Europe,0
+2013,Galway,Slovakia,Eastern Europe,0
+2013,Galway,Slovenia,Southern Europe,0
+2013,Galway,Spain,Southern Europe,0
+2013,Galway,Sweden,Northern Europe,0
+2013,Galway,England,UK,0
+2013,Galway,Northern Ireland,UK,0
+2013,Galway,Scotland,UK,0
+2013,Galway,Wales,UK,0
+2013,Galway,Other UK (1),UK,0
+2013,Galway,Croatia,Southern Europe,0
+2013,Galway,Iceland,Northern Europe,0
+2013,Galway,Norway,Northern Europe,0
+2013,Galway,Russian Federation,Eastern Europe,0
+2013,Galway,Serbia,Southern Europe,0
+2013,Galway,Switzerland,Western Europe,0
+2013,Galway,Other Europe (12),Europe (other),0
+2013,Galway,Canada,Americas,0
+2013,Galway,United States,Americas,0
+2013,Galway,Other America (5),Americas,0
+2013,Galway,Canary Islands,Africa,0
+2013,Galway,Eygpt,Africa,0
+2013,Galway,Morocco,Africa,0
+2013,Galway,Tunisia,Africa,0
+2013,Galway,Other Africa (6),Africa,0
+2013,Galway,Bahrain,Asia,0
+2013,Galway,Israel,Asia,0
+2013,Galway,Turkey,Asia,0
+2013,Galway,United Arab Emirates,Asia,0
+2013,Galway,Other Asian countries (4),Asia,0
+2013,Galway,Oceania and Polar regions (1),Oceania and Polar,0
 2013,Kerry,Ireland (domestic),Ireland (domestic),16.7
+2013,Kerry,Austria,Western Europe,0
+2013,Kerry,Belgium,Western Europe,0
+2013,Kerry,Bulgaria,Eastern Europe,0
+2013,Kerry,Cyprus,Southern Europe,0
+2013,Kerry,Czech Republic,Eastern Europe,0
+2013,Kerry,Denmark,Northern Europe,0
+2013,Kerry,Estonia,Northern Europe,0
+2013,Kerry,Finland,Northern Europe,0
+2013,Kerry,France,Western Europe,0
 2013,Kerry,Germany,Western Europe,28
+2013,Kerry,Greece,Southern Europe,0
+2013,Kerry,Hungary,Eastern Europe,0
+2013,Kerry,Italy,Southern Europe,0
+2013,Kerry,Latvia,Northern Europe,0
+2013,Kerry,Lithuania,Northern Europe,0
+2013,Kerry,Luxembourg,Western Europe,0
+2013,Kerry,Malta,Southern Europe,0
+2013,Kerry,Netherlands,Western Europe,0
+2013,Kerry,Poland,Eastern Europe,0
+2013,Kerry,Portugal,Southern Europe,9.6
+2013,Kerry,Romania,Eastern Europe,0
+2013,Kerry,Slovakia,Eastern Europe,0
+2013,Kerry,Slovenia,Southern Europe,0
+2013,Kerry,Spain,Southern Europe,10.8
+2013,Kerry,Sweden,Northern Europe,0
 2013,Kerry,England,UK,87.5
+2013,Kerry,Northern Ireland,UK,0
+2013,Kerry,Scotland,UK,0
+2013,Kerry,Wales,UK,0
+2013,Kerry,Other UK (1),UK,0
+2013,Kerry,Croatia,Southern Europe,0
+2013,Kerry,Iceland,Northern Europe,0
+2013,Kerry,Norway,Northern Europe,0
+2013,Kerry,Russian Federation,Eastern Europe,0
+2013,Kerry,Serbia,Southern Europe,0
+2013,Kerry,Switzerland,Western Europe,0
+2013,Kerry,Other Europe (12),Europe (other),0
+2013,Kerry,Canada,Americas,0
+2013,Kerry,United States,Americas,0
+2013,Kerry,Other America (5),Americas,0
+2013,Kerry,Canary Islands,Africa,0
+2013,Kerry,Eygpt,Africa,0
+2013,Kerry,Morocco,Africa,0
+2013,Kerry,Tunisia,Africa,0
+2013,Kerry,Other Africa (6),Africa,0
+2013,Kerry,Bahrain,Asia,0
+2013,Kerry,Israel,Asia,0
+2013,Kerry,Turkey,Asia,0
+2013,Kerry,United Arab Emirates,Asia,0
+2013,Kerry,Other Asian countries (4),Asia,0
+2013,Kerry,Oceania and Polar regions (1),Oceania and Polar,0
+2013,Knock,Ireland (domestic),Ireland (domestic),0
+2013,Knock,Austria,Western Europe,0
+2013,Knock,Belgium,Western Europe,0
+2013,Knock,Bulgaria,Eastern Europe,0
+2013,Knock,Cyprus,Southern Europe,0
+2013,Knock,Czech Republic,Eastern Europe,0
+2013,Knock,Denmark,Northern Europe,0
+2013,Knock,Estonia,Northern Europe,0
+2013,Knock,Finland,Northern Europe,0
+2013,Knock,France,Western Europe,0
+2013,Knock,Germany,Western Europe,0
+2013,Knock,Greece,Southern Europe,0
+2013,Knock,Hungary,Eastern Europe,0
 2013,Knock,Italy,Southern Europe,0.1
-2013,Knock,Spain,Southern Europe,0.3
+2013,Knock,Latvia,Northern Europe,0
+2013,Knock,Lithuania,Northern Europe,0
+2013,Knock,Luxembourg,Western Europe,0
+2013,Knock,Malta,Southern Europe,0
+2013,Knock,Netherlands,Western Europe,0
+2013,Knock,Poland,Eastern Europe,0
 2013,Knock,Portugal,Southern Europe,0.5
-2013,Knock,Canary Islands,Africa,1
-2013,Knock,Scotland,UK,3.9
+2013,Knock,Romania,Eastern Europe,0
+2013,Knock,Slovakia,Eastern Europe,0
+2013,Knock,Slovenia,Southern Europe,0
+2013,Knock,Spain,Southern Europe,0.3
+2013,Knock,Sweden,Northern Europe,0
 2013,Knock,England,UK,258.4
+2013,Knock,Northern Ireland,UK,0
+2013,Knock,Scotland,UK,3.9
+2013,Knock,Wales,UK,0
+2013,Knock,Other UK (1),UK,0
+2013,Knock,Croatia,Southern Europe,0
+2013,Knock,Iceland,Northern Europe,0
+2013,Knock,Norway,Northern Europe,0
+2013,Knock,Russian Federation,Eastern Europe,0
+2013,Knock,Serbia,Southern Europe,0
+2013,Knock,Switzerland,Western Europe,0
+2013,Knock,Other Europe (12),Europe (other),0
+2013,Knock,Canada,Americas,0
+2013,Knock,United States,Americas,0
+2013,Knock,Other America (5),Americas,0
+2013,Knock,Canary Islands,Africa,1
+2013,Knock,Eygpt,Africa,0
+2013,Knock,Morocco,Africa,0
+2013,Knock,Tunisia,Africa,0
+2013,Knock,Other Africa (6),Africa,0
+2013,Knock,Bahrain,Asia,0
+2013,Knock,Israel,Asia,0
+2013,Knock,Turkey,Asia,0
+2013,Knock,United Arab Emirates,Asia,0
+2013,Knock,Other Asian countries (4),Asia,0
+2013,Knock,Oceania and Polar regions (1),Oceania and Polar,0
+2013,Shannon,Ireland (domestic),Ireland (domestic),0
+2013,Shannon,Austria,Western Europe,0
+2013,Shannon,Belgium,Western Europe,0
+2013,Shannon,Bulgaria,Eastern Europe,0
+2013,Shannon,Cyprus,Southern Europe,0
+2013,Shannon,Czech Republic,Eastern Europe,0
+2013,Shannon,Denmark,Northern Europe,0
+2013,Shannon,Estonia,Northern Europe,0
+2013,Shannon,Finland,Northern Europe,0
 2013,Shannon,France,Western Europe,8.3
-2013,Shannon,Portugal,Southern Europe,9.5
-2013,Shannon,Canada,Americas,11.9
-2013,Shannon,Canary Islands,Africa,16.3
+2013,Shannon,Germany,Western Europe,0
+2013,Shannon,Greece,Southern Europe,0
+2013,Shannon,Hungary,Eastern Europe,0
+2013,Shannon,Italy,Southern Europe,0
+2013,Shannon,Latvia,Northern Europe,0
+2013,Shannon,Lithuania,Northern Europe,0
+2013,Shannon,Luxembourg,Western Europe,0
+2013,Shannon,Malta,Southern Europe,0
+2013,Shannon,Netherlands,Western Europe,0
 2013,Shannon,Poland,Eastern Europe,17.2
-2013,Shannon,Scotland,UK,18.7
+2013,Shannon,Portugal,Southern Europe,9.5
+2013,Shannon,Romania,Eastern Europe,0
+2013,Shannon,Slovakia,Eastern Europe,0
+2013,Shannon,Slovenia,Southern Europe,0
 2013,Shannon,Spain,Southern Europe,32.5
-2013,Shannon,United States,Americas,166.4
+2013,Shannon,Sweden,Northern Europe,0
 2013,Shannon,England,UK,329.9
+2013,Shannon,Northern Ireland,UK,0
+2013,Shannon,Scotland,UK,18.7
+2013,Shannon,Wales,UK,0
+2013,Shannon,Other UK (1),UK,0
+2013,Shannon,Croatia,Southern Europe,0
+2013,Shannon,Iceland,Northern Europe,0
+2013,Shannon,Norway,Northern Europe,0
+2013,Shannon,Russian Federation,Eastern Europe,0
+2013,Shannon,Serbia,Southern Europe,0
+2013,Shannon,Switzerland,Western Europe,0
+2013,Shannon,Other Europe (12),Europe (other),0
+2013,Shannon,Canada,Americas,11.9
+2013,Shannon,United States,Americas,166.4
+2013,Shannon,Other America (5),Americas,0
+2013,Shannon,Canary Islands,Africa,16.3
+2013,Shannon,Eygpt,Africa,0
+2013,Shannon,Morocco,Africa,0
+2013,Shannon,Tunisia,Africa,0
+2013,Shannon,Other Africa (6),Africa,0
+2013,Shannon,Bahrain,Asia,0
+2013,Shannon,Israel,Asia,0
+2013,Shannon,Turkey,Asia,0
+2013,Shannon,United Arab Emirates,Asia,0
+2013,Shannon,Other Asian countries (4),Asia,0
+2013,Shannon,Oceania and Polar regions (1),Oceania and Polar,0

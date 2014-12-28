@@ -10,7 +10,7 @@ Year,Dep. Airport,Destination,Destination_Region,Passengers (Thousand)
 2005,Cork,Portugal,Southern Europe,11.1
 2005,Cork,Germany,Western Europe,11.3
 2005,Cork,Wales,UK,14.5
-2005,Cork,Northern Ireland,Northern Europe,20.2
+2005,Cork,Northern Ireland,UK,20.2
 2005,Cork,Czech Republic,Eastern Europe,22.2
 2005,Cork,Scotland,UK,25
 2005,Cork,France,Western Europe,54.4
@@ -30,7 +30,7 @@ Year,Dep. Airport,Destination,Destination_Region,Passengers (Thousand)
 2005,Dublin,Estonia,Northern Europe,11.4
 2005,Dublin,Croatia,Southern Europe,12.8
 2005,Dublin,Finland,Northern Europe,14
-2005,Dublin,Northern Ireland,Northern Europe,14.1
+2005,Dublin,Northern Ireland,UK,14.1
 2005,Dublin,Cyprus,Southern Europe,15.5
 2005,Dublin,Norway,Northern Europe,21
 2005,Dublin,Canary Islands,Africa,22.5
@@ -92,7 +92,7 @@ Year,Dep. Airport,Destination,Destination_Region,Passengers (Thousand)
 2006,Cork,Hungary,Eastern Europe,13
 2006,Cork,Portugal,Southern Europe,15.8
 2006,Cork,Italy,Southern Europe,17.2
-2006,Cork,Northern Ireland,Northern Europe,21.6
+2006,Cork,Northern Ireland,UK,21.6
 2006,Cork,Czech Republic,Eastern Europe,25.2
 2006,Cork,Scotland,UK,28.9
 2006,Cork,Poland,Eastern Europe,37.1
@@ -112,7 +112,7 @@ Year,Dep. Airport,Destination,Destination_Region,Passengers (Thousand)
 2006,Dublin,Turkey,Asia,8.5
 2006,Dublin,Estonia,Northern Europe,9
 2006,Dublin,Malta,Southern Europe,9.7
-2006,Dublin,Northern Ireland,Northern Europe,14.8
+2006,Dublin,Northern Ireland,UK,14.8
 2006,Dublin,Croatia,Southern Europe,15.3
 2006,Dublin,Finland,Northern Europe,16.7
 2006,Dublin,United Arab Emirates,Asia,22.5
@@ -180,7 +180,7 @@ Year,Dep. Airport,Destination,Destination_Region,Passengers (Thousand)
 2007,Cork,Italy,Southern Europe,20.2
 2007,Cork,Germany,Western Europe,20.6
 2007,Cork,Czech Republic,Eastern Europe,22.3
-2007,Cork,Northern Ireland,Northern Europe,22.5
+2007,Cork,Northern Ireland,UK,22.5
 2007,Cork,Scotland,UK,28.9
 2007,Cork,France,Western Europe,67.7
 2007,Cork,Netherlands,Western Europe,77.7
@@ -200,7 +200,7 @@ Year,Dep. Airport,Destination,Destination_Region,Passengers (Thousand)
 2007,Dublin,Greece,Southern Europe,9.3
 2007,Dublin,Bahrain,Asia,10.6
 2007,Dublin,Canada,Americas,13
-2007,Dublin,Northern Ireland,Northern Europe,13.1
+2007,Dublin,Northern Ireland,UK,13.1
 2007,Dublin,Malta,Southern Europe,22.4
 2007,Dublin,Turkey,Asia,24.6
 2007,Dublin,Other UK (1),UK,26.2
@@ -235,7 +235,7 @@ Year,Dep. Airport,Destination,Destination_Region,Passengers (Thousand)
 2007,Galway,Portugal,Southern Europe,0.4
 2007,Galway,Wales,UK,0.7
 2007,Galway,France,Western Europe,1.8
-2007,Galway,Northern Ireland,Northern Europe,3.3
+2007,Galway,Northern Ireland,UK,3.3
 2007,Galway,Scotland,UK,13.5
 2007,Galway,Ireland (domestic),Ireland (domestic),51.2
 2007,Galway,England,UK,81.3
@@ -277,7 +277,7 @@ Year,Dep. Airport,Destination,Destination_Region,Passengers (Thousand)
 2008,Cork,Slovakia,Eastern Europe,13.7
 2008,Cork,Czech Republic,Eastern Europe,17.2
 2008,Cork,Portugal,Southern Europe,20.6
-2008,Cork,Northern Ireland,Northern Europe,22.9
+2008,Cork,Northern Ireland,UK,22.9
 2008,Cork,Italy,Southern Europe,24.2
 2008,Cork,Germany,Western Europe,41.9
 2008,Cork,Scotland,UK,52.5
@@ -293,7 +293,7 @@ Year,Dep. Airport,Destination,Destination_Region,Passengers (Thousand)
 2008,Dublin,Estonia,Northern Europe,6.9
 2008,Dublin,Bulgaria,Eastern Europe,8
 2008,Dublin,Luxembourg,Western Europe,9.1
-2008,Dublin,Northern Ireland,Northern Europe,12.3
+2008,Dublin,Northern Ireland,UK,12.3
 2008,Dublin,Greece,Southern Europe,14.6
 2008,Dublin,Romania,Eastern Europe,23.9
 2008,Dublin,Malta,Southern Europe,24.7
@@ -327,7 +327,7 @@ Year,Dep. Airport,Destination,Destination_Region,Passengers (Thousand)
 2008,Dublin,United States,Americas,815
 2008,Dublin,Spain,Southern Europe,835.3
 2008,Dublin,England,UK,3750.1
-2008,Galway,Northern Ireland,Northern Europe,0.1
+2008,Galway,Northern Ireland,UK,0.1
 2008,Galway,Portugal,Southern Europe,0.7
 2008,Galway,Spain,Southern Europe,0.9
 2008,Galway,France,Western Europe,2.7
@@ -363,7 +363,7 @@ Year,Dep. Airport,Destination,Destination_Region,Passengers (Thousand)
 2009,Cork,Other UK (1),UK,1.6
 2009,Cork,Switzerland,Western Europe,3.9
 2009,Cork,Wales,UK,8.2
-2009,Cork,Northern Ireland,Northern Europe,17.7
+2009,Cork,Northern Ireland,UK,17.7
 2009,Cork,Scotland,UK,19.2
 2009,Cork,Italy,Southern Europe,19.9
 2009,Cork,Canary Islands,Africa,26.9
@@ -381,7 +381,7 @@ Year,Dep. Airport,Destination,Destination_Region,Passengers (Thousand)
 2009,Dublin,Morocco,Africa,3.9
 2009,Dublin,Luxembourg,Western Europe,6.8
 2009,Dublin,Greece,Southern Europe,8.7
-2009,Dublin,Northern Ireland,Northern Europe,10.9
+2009,Dublin,Northern Ireland,UK,10.9
 2009,Dublin,Bulgaria,Eastern Europe,18.1
 2009,Dublin,Finland,Northern Europe,22.2
 2009,Dublin,Romania,Eastern Europe,25.1
@@ -446,7 +446,7 @@ Year,Dep. Airport,Destination,Destination_Region,Passengers (Thousand)
 2009,Shannon,England,UK,461.9
 2010,Cork,Other UK (1),UK,1.5
 2010,Cork,Switzerland,Western Europe,3.7
-2010,Cork,Northern Ireland,Northern Europe,8.3
+2010,Cork,Northern Ireland,UK,8.3
 2010,Cork,Wales,UK,9.4
 2010,Cork,Italy,Southern Europe,10.5
 2010,Cork,Germany,Western Europe,21.9
@@ -465,7 +465,7 @@ Year,Dep. Airport,Destination,Destination_Region,Passengers (Thousand)
 2010,Dublin,Estonia,Northern Europe,2.9
 2010,Dublin,Morocco,Africa,4.1
 2010,Dublin,Luxembourg,Western Europe,5.9
-2010,Dublin,Northern Ireland,Northern Europe,8.2
+2010,Dublin,Northern Ireland,UK,8.2
 2010,Dublin,Finland,Northern Europe,8.3
 2010,Dublin,Greece,Southern Europe,9.7
 2010,Dublin,Bulgaria,Eastern Europe,11.6
@@ -500,7 +500,7 @@ Year,Dep. Airport,Destination,Destination_Region,Passengers (Thousand)
 2010,Dublin,United States,Americas,695.7
 2010,Dublin,Spain,Southern Europe,782
 2010,Dublin,England,UK,2949.6
-2010,Galway,Northern Ireland,Northern Europe,0.7
+2010,Galway,Northern Ireland,UK,0.7
 2010,Galway,Scotland,UK,8.7
 2010,Galway,Ireland (domestic),Ireland (domestic),20.7
 2010,Galway,England,UK,44.8
@@ -526,7 +526,7 @@ Year,Dep. Airport,Destination,Destination_Region,Passengers (Thousand)
 2010,Shannon,France,Western Europe,31.5
 2010,Shannon,United States,Americas,185.2
 2010,Shannon,England,UK,347.6
-2011,Cork,Northern Ireland,Northern Europe,1
+2011,Cork,Northern Ireland,UK,1
 2011,Cork,Switzerland,Western Europe,1.8
 2011,Cork,Other UK (1),UK,2
 2011,Cork,Lithuania,Northern Europe,11.4
@@ -545,7 +545,7 @@ Year,Dep. Airport,Destination,Destination_Region,Passengers (Thousand)
 2011,Dublin,Morocco,Africa,2.3
 2011,Dublin,Israel,Asia,2.3
 2011,Dublin,Russian Federation,Eastern Europe,2.4
-2011,Dublin,Northern Ireland,Northern Europe,3
+2011,Dublin,Northern Ireland,UK,3
 2011,Dublin,Greece,Southern Europe,8.6
 2011,Dublin,Finland,Northern Europe,8.7
 2011,Dublin,Bulgaria,Eastern Europe,14.9
