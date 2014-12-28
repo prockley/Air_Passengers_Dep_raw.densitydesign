@@ -1,13 +1,14 @@
-Air_Passengers_Dep_raw.densitydesign
-====================================
+Reduction in Ireland's Domestiic Air Passenger numbers
+======================================================
 
-This started as a means of looking at d3.js interactive visualisations but while doing this I saw that I needed some practice getting SVG graphics files online.
+Currently I'm trying to get up to speed with d3.js interactive visualisations but while doing this I saw that I needed some practice getting SVG graphics files online. This post is the result.
 
 SVG graphics are vector based and so scale really nicely when people get pinching on the screens of their mobile devices.
 
+
 ### Data Source
 
-The data was downloaded from the website of the CSO. Only data for departing passengers was used as it was thought it would be (almost) a mirror of the arriving passengers (might look at migration another time).
+The data was downloaded from the website of the CSO. Only data for departing passengers was used as it was thought it would be (almost) a mirror of the arriving passenger numbers.
 
 _Data Source_
 [TAA02: Passenger, Freight and Commercial Flights by Airports in Ireland, Country, Direction, Flight Type, Year and Statistic](http://www.cso.ie/px/pxeirestat/Statire/SelectVarVal/Define.asp?maintable=TAA02&PLanguage=0)
@@ -25,20 +26,16 @@ I'm new to SVG graphics and stumbled across this fantastic website for creating 
 
 [Raw by Density Design]: http://raw.densitydesign.org
 
-I used a Bump Chart with the following settings:-
-- Width: 848
-- Height: 500
-- Padding: 90
-- Curve: basis
+I used a Bump Chart with the these settings (Width: 848, Height: 500, Padding: 90, Curve: basis)
 
-Once the svg files were generated there were some changes to be made to the underlying code to highlight the data of interest and to make sure that text was not cropped at the side of the image.
+Once the SVG files were generated there were some changes to be made to the underlying code to highlight the data of interest and to make sure that text was not cropped at the side of the image.
 
 
 ### Adding SVG graphic to web page
 
-This was perhaps the most difficult part as vector graphics are harder to insert into pages than normal raster images (such as PNG or JPEG filetypes).
+This was perhaps the most difficult part as vector graphics are harder to insert into pages than normal raster images (such as PNGs or JPEGs).
 
-As well as inserting the images it is important that they are responsive to different screen sizes ranging from smartphones to PCs. The following blog posts on _demosthemes.info_ were very helpful:-
+As well as inserting the images it is important that they are responsive to different screen sizes ranging from smartphones to PCs. The following blog posts on _demosthenes.info_ were very helpful:-
 - [Using SVG in Web Pages][1]
 - [Make SVG Responsive][2]
 
