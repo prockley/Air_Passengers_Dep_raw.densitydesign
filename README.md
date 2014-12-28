@@ -29,7 +29,7 @@ I'm new to SVG graphics and stumbled across this fantastic website for creating 
 
 I used a Bump Chart with these settings (Width: 848, Height: 500, Padding: 90, Curve: basis).
 
-Once the SVG files were generated there were some changes to be made to the underlying code to highlight the data of interest and to make sure that text was not cropped at the edges.
+Once the SVG file was generated there were some changes to be made to the underlying code to highlight the data of interest and to make sure that text was not cropped at the edges.
 
 
 ### Adding SVG graphic to web page
