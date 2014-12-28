@@ -12,13 +12,16 @@ The data was downloaded from the website of the CSO. Only data for departing pas
 _Data Source_
 [TAA02: Passenger, Freight and Commercial Flights by Airports in Ireland, Country, Direction, Flight Type, Year and Statistic](http://www.cso.ie/px/pxeirestat/Statire/SelectVarVal/Define.asp?maintable=TAA02&PLanguage=0)
 
-#### Aggregating Countries
+##### Aggregating Countries
 
 There were too many countries to show on one chart so they were aggregated using the [United Nations Geoscheme].
 
 [United Nations Geoscheme]: http://en.wikipedia.org/wiki/United_Nations_geoscheme
 
 
-### Generating SVG graphics
+### Generating SVG graphic
 
-Trying out Raw by Density Design to produce Vector Graphic showing Air Passenger Destinations from Ireland.
+I'm new to SVG graphics and stumbled across this fantastic website for creating charts from raw data. All you need to do is paste in some raw data and select the chart you want. A great way to see what works best initially.
+
+[raw.densitydesign.org]
+
