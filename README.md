@@ -10,6 +10,8 @@ SVG graphics are vector based and so scale really nicely when people get pinchin
 
 The data was downloaded from the website of the CSO. Only data for departing passengers was used as it was thought it would be (almost) a mirror of the arriving passenger numbers.
 
+Most of the data wrangling was done in Excel. The relevant data is saved in CSV format in the 'data' folder.
+
 _Source:_
 [TAA02: Passenger, Freight and Commercial Flights by Airports in Ireland, Country, Direction, Flight Type, Year and Statistic](http://www.cso.ie/px/pxeirestat/Statire/SelectVarVal/Define.asp?maintable=TAA02&PLanguage=0)
 
