@@ -21,7 +21,7 @@ There were too many countries to show on one chart so they were aggregated using
 
 ### Generating SVG graphic
 
-I'm new to SVG graphics and stumbled across this fantastic website for creating charts from raw data. All you need to do is paste in some raw data and select the chart you want. A great way to see what works best initially.
+I'm new to SVG graphics and stumbled across this fantastic website for creating charts from raw data; [Raw by Density Design]. All you need to do is paste in some raw data and select the chart you want. A great way to see what works best initially.
 
-[raw.densitydesign.org]
+[Raw by Density Design]: http://raw.densitydesign.org
 
