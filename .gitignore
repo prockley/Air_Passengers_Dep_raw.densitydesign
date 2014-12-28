@@ -1,5 +1,5 @@
 # Excel file
-data/141117_DataFormatted.xlsx
+data/*.xlsx
 
 # Windows image file caches
 Thumbs.db
