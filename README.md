@@ -12,6 +12,12 @@ The data was downloaded from the website of the CSO. Only data for departing pas
 _Data Source_
 [TAA02: Passenger, Freight and Commercial Flights by Airports in Ireland, Country, Direction, Flight Type, Year and Statistic](http://www.cso.ie/px/pxeirestat/Statire/SelectVarVal/Define.asp?maintable=TAA02&PLanguage=0)
 
+#### Aggregating Countries
+
+There were too many countries to show on one chart so they were aggregated using the [United Nations Geoscheme].
+
+[United Nations Geoscheme]: http://en.wikipedia.org/wiki/United_Nations_geoscheme
+
 
 ### Generating SVG graphics
 
