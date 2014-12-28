@@ -13,7 +13,7 @@ SVG graphics are vector based and so scale nicely when people pinch to zoom on t
 
 ### Data Source
 
-The data was downloaded from the website of the CSO. Only data for departing passengers was used as it was thought it would be (almost) a mirror of the arriving passenger numbers.
+The data was downloaded from the website of the CSO. Only data for departing passengers was used as they would largely mirror the numbers of arriving passengers. Only data for passengers on __scheduled__ flights was used.
 
 Most of the data wrangling was done in Excel with lookups and pivots. The relevant data is saved in CSV format in the 'data' folder.
 
