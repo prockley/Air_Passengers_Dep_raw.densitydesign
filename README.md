@@ -1,9 +1,14 @@
 The reduction in passenger numbers on Ireland's domestic air routes (and getting used to SVG graphics)
 =========================================================
 
-Currently I'm trying to get up to speed with d3.js interactive visualisations but while doing this I saw that I needed some practice getting SVG graphics files online. This post is the result - when I started I didn't realise that the drop off in domestic flights had been so massive.
+Currently I'm trying to get up to speed with d3.js interactive visualisations but while doing this I saw that I needed some practice getting SVG images online. This post is the result.
 
-SVG graphics are vector based and so scale really nicely when people get pinching on the screens of their mobile devices.
+But it's not just about that. When I started I didn't realise that the drop off in domestic flights had been so massive. So something was learnt from the data too.
+
+
+### SVG Graphics
+
+SVG graphics are vector based and so scale nicely when people pinch to zoom on the screens of their mobile devices. They are also the typical output from d3.js interactive visualisations.
 
 
 ### Data Source
