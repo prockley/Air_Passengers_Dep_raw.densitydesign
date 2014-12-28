@@ -10,7 +10,7 @@ SVG graphics are vector based and so scale really nicely when people get pinchin
 
 The data was downloaded from the website of the CSO. Only data for departing passengers was used as it was thought it would be (almost) a mirror of the arriving passenger numbers.
 
-Most of the data wrangling was done in Excel. The relevant data is saved in CSV format in the 'data' folder.
+Most of the data wrangling was done in Excel with lookups and pivots. The relevant data is saved in CSV format in the 'data' folder.
 
 _Source:_
 [TAA02: Passenger, Freight and Commercial Flights by Airports in Ireland, Country, Direction, Flight Type, Year and Statistic](http://www.cso.ie/px/pxeirestat/Statire/SelectVarVal/Define.asp?maintable=TAA02&PLanguage=0)
@@ -27,7 +27,7 @@ I'm new to SVG graphics and stumbled across this fantastic website for creating 
 
 [Raw by Density Design]: http://raw.densitydesign.org
 
-I used a Bump Chart with these settings (Width: 848, Height: 500, Padding: 90, Curve: basis).
+I used a Bump Chart with these settings (Width: 848, Height: 500, Padding: 90, Curve: basis).  The data in '141123_DataFormatted.csv' was used.
 
 Once the SVG file was generated there were some changes to be made to the underlying code to highlight the data of interest and to make sure that text was not cropped at the edges.
 
