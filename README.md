@@ -39,8 +39,8 @@ Once the svg files were generated there were some changes to be made to the unde
 This was perhaps the most difficult part as vector graphics are harder to insert into pages than normal raster images (such as PNG or JPEG filetypes).
 
 As well as inserting the images it is important that they are responsive to different screen sizes ranging from smartphones to PCs. The following blog posts on _demosthemes.info_ were very helpful:-
-1. [Using SVG in Web Pages][1]
-2. [Make SVG Responsive][2]
+- [Using SVG in Web Pages][1]
+- [Make SVG Responsive][2]
 
 [1]: http://demosthenes.info/blog/428/Using-SVG-In-Web-Pages
 [2]: http://demosthenes.info/blog/744/Make-SVG-Responsive
