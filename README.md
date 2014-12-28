@@ -1,4 +1,4 @@
-Reduction in Ireland's Domestic Air Passenger numbers
+The reduction in passenger numbers on Ireland's domestic air routes
 ======================================================
 
 Currently I'm trying to get up to speed with d3.js interactive visualisations but while doing this I saw that I needed some practice getting SVG graphics files online. This post is the result.
@@ -25,7 +25,7 @@ I'm new to SVG graphics and stumbled across this fantastic website for creating 
 
 [Raw by Density Design]: http://raw.densitydesign.org
 
-I used a Bump Chart with these settings (Width: 848, Height: 500, Padding: 90, Curve: basis)
+I used a Bump Chart with these settings (Width: 848, Height: 500, Padding: 90, Curve: basis).
 
 Once the SVG files were generated there were some changes to be made to the underlying code to highlight the data of interest and to make sure that text was not cropped at the edges.
 
