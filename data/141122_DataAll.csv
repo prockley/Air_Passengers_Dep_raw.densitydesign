@@ -1,0 +1,775 @@
+Year,Dep. Airport,Destination,Destination_Region,Passengers (Thousand)
+2005,Cork,Bulgaria,Eastern Europe,0.1
+2005,Cork,Canary Islands,Africa,0.3
+2005,Cork,Belgium,Western Europe,0.8
+2005,Cork,Poland,Eastern Europe,3.1
+2005,Cork,Hungary,Eastern Europe,7.3
+2005,Cork,Italy,Southern Europe,9.7
+2005,Cork,Portugal,Southern Europe,11.1
+2005,Cork,Germany,Western Europe,11.3
+2005,Cork,Wales,UK,14.5
+2005,Cork,Northern Ireland,Northern Europe,20.2
+2005,Cork,Czech Republic,Eastern Europe,22.2
+2005,Cork,Scotland,UK,25
+2005,Cork,France,Western Europe,54.4
+2005,Cork,Netherlands,Western Europe,60
+2005,Cork,Spain,Southern Europe,61.6
+2005,Cork,Ireland (domestic),Ireland (domestic),116.6
+2005,Cork,England,UK,731.1
+2005,Dublin,Eygpt,Africa,0.1
+2005,Dublin,Turkey,Asia,0.2
+2005,Dublin,Canada,Americas,0.3
+2005,Dublin,Other Africa (6),Africa,0.3
+2005,Dublin,Oceania and Polar regions (1),Oceania and Polar,0.8
+2005,Dublin,Bahrain,Asia,1.9
+2005,Dublin,Slovakia,Eastern Europe,2.8
+2005,Dublin,Slovenia,Southern Europe,2.8
+2005,Dublin,Greece,Southern Europe,3.4
+2005,Dublin,Malta,Southern Europe,9.9
+2005,Dublin,Estonia,Northern Europe,11.4
+2005,Dublin,Croatia,Southern Europe,12.8
+2005,Dublin,Finland,Northern Europe,14
+2005,Dublin,Northern Ireland,Northern Europe,14.1
+2005,Dublin,Cyprus,Southern Europe,15.5
+2005,Dublin,Norway,Northern Europe,21
+2005,Dublin,Canary Islands,Africa,22.5
+2005,Dublin,Latvia,Northern Europe,27
+2005,Dublin,Other UK (1),UK,30.9
+2005,Dublin,Sweden,Northern Europe,35.9
+2005,Dublin,Lithuania,Northern Europe,44.8
+2005,Dublin,Austria,Western Europe,50.2
+2005,Dublin,Wales,UK,60.6
+2005,Dublin,Poland,Eastern Europe,69.7
+2005,Dublin,Hungary,Eastern Europe,70.5
+2005,Dublin,Portugal,Southern Europe,74.6
+2005,Dublin,Switzerland,Western Europe,83.8
+2005,Dublin,Denmark,Northern Europe,96.6
+2005,Dublin,Czech Republic,Eastern Europe,103
+2005,Dublin,Belgium,Western Europe,177.6
+2005,Dublin,Netherlands,Western Europe,299.5
+2005,Dublin,Italy,Southern Europe,312
+2005,Dublin,Scotland,UK,421.4
+2005,Dublin,Germany,Western Europe,482.3
+2005,Dublin,Ireland (domestic),Ireland (domestic),483
+2005,Dublin,United States,Americas,485.8
+2005,Dublin,France,Western Europe,530.2
+2005,Dublin,Spain,Southern Europe,534.3
+2005,Dublin,England,UK,3602.5
+2005,Galway,Other UK (1),UK,0.1
+2005,Galway,Spain,Southern Europe,1.6
+2005,Galway,France,Western Europe,3.3
+2005,Galway,Scotland,UK,14.5
+2005,Galway,Ireland (domestic),Ireland (domestic),49.4
+2005,Galway,England,UK,58.1
+2005,Kerry,Scotland,UK,0.1
+2005,Kerry,France,Western Europe,0.4
+2005,Kerry,Germany,Western Europe,50.4
+2005,Kerry,Ireland (domestic),Ireland (domestic),57.3
+2005,Kerry,England,UK,83.3
+2005,Knock,France,Western Europe,0.2
+2005,Knock,Ireland (domestic),Ireland (domestic),7.1
+2005,Knock,England,UK,213
+2005,Shannon,Switzerland,Western Europe,0.7
+2005,Shannon,Oceania and Polar regions (1),Oceania and Polar,1.5
+2005,Shannon,Poland,Eastern Europe,2.6
+2005,Shannon,Portugal,Southern Europe,2.9
+2005,Shannon,Russian Federation,Eastern Europe,3.9
+2005,Shannon,Sweden,Northern Europe,10.7
+2005,Shannon,Italy,Southern Europe,18.9
+2005,Shannon,Canada,Americas,18.9
+2005,Shannon,Spain,Southern Europe,29.5
+2005,Shannon,Belgium,Western Europe,42.6
+2005,Shannon,Scotland,UK,48.2
+2005,Shannon,France,Western Europe,52.3
+2005,Shannon,Germany,Western Europe,57.8
+2005,Shannon,Ireland (domestic),Ireland (domestic),221
+2005,Shannon,United States,Americas,400
+2005,Shannon,England,UK,526.7
+2006,Cork,Oceania and Polar regions (1),Oceania and Polar,0.8
+2006,Cork,Other UK (1),UK,0.9
+2006,Cork,Canary Islands,Africa,5
+2006,Cork,Wales,UK,9.6
+2006,Cork,Germany,Western Europe,11.4
+2006,Cork,Hungary,Eastern Europe,13
+2006,Cork,Portugal,Southern Europe,15.8
+2006,Cork,Italy,Southern Europe,17.2
+2006,Cork,Northern Ireland,Northern Europe,21.6
+2006,Cork,Czech Republic,Eastern Europe,25.2
+2006,Cork,Scotland,UK,28.9
+2006,Cork,Poland,Eastern Europe,37.1
+2006,Cork,France,Western Europe,65.9
+2006,Cork,Netherlands,Western Europe,71.6
+2006,Cork,Spain,Southern Europe,74.4
+2006,Cork,Ireland (domestic),Ireland (domestic),208.1
+2006,Cork,England,UK,709.6
+2006,Dublin,Morocco,Africa,0.2
+2006,Dublin,Tunisia,Africa,0.2
+2006,Dublin,Israel,Asia,0.2
+2006,Dublin,Canada,Americas,0.4
+2006,Dublin,Slovenia,Southern Europe,1.4
+2006,Dublin,Bulgaria,Eastern Europe,3.8
+2006,Dublin,Greece,Southern Europe,4.3
+2006,Dublin,Cyprus,Southern Europe,5.5
+2006,Dublin,Turkey,Asia,8.5
+2006,Dublin,Estonia,Northern Europe,9
+2006,Dublin,Malta,Southern Europe,9.7
+2006,Dublin,Northern Ireland,Northern Europe,14.8
+2006,Dublin,Croatia,Southern Europe,15.3
+2006,Dublin,Finland,Northern Europe,16.7
+2006,Dublin,United Arab Emirates,Asia,22.5
+2006,Dublin,Bahrain,Asia,25.6
+2006,Dublin,Norway,Northern Europe,26.7
+2006,Dublin,Other UK (1),UK,29.7
+2006,Dublin,Slovakia,Eastern Europe,36.9
+2006,Dublin,Wales,UK,41.9
+2006,Dublin,Canary Islands,Africa,55
+2006,Dublin,Lithuania,Northern Europe,67.4
+2006,Dublin,Hungary,Eastern Europe,72.6
+2006,Dublin,Austria,Western Europe,78.4
+2006,Dublin,Sweden,Northern Europe,78.9
+2006,Dublin,Denmark,Northern Europe,85
+2006,Dublin,Switzerland,Western Europe,92.3
+2006,Dublin,Latvia,Northern Europe,93.7
+2006,Dublin,Czech Republic,Eastern Europe,102.2
+2006,Dublin,Portugal,Southern Europe,153.8
+2006,Dublin,Belgium,Western Europe,187
+2006,Dublin,Poland,Eastern Europe,281.1
+2006,Dublin,Netherlands,Western Europe,313.8
+2006,Dublin,Italy,Southern Europe,411.9
+2006,Dublin,Scotland,UK,468.8
+2006,Dublin,United States,Americas,524.9
+2006,Dublin,Ireland (domestic),Ireland (domestic),597.3
+2006,Dublin,Germany,Western Europe,615.6
+2006,Dublin,France,Western Europe,666.9
+2006,Dublin,Spain,Southern Europe,702.3
+2006,Dublin,England,UK,3756.4
+2006,Galway,Oceania and Polar regions (1),Oceania and Polar,0.9
+2006,Galway,Wales,UK,2.2
+2006,Galway,France,Western Europe,2.5
+2006,Galway,Scotland,UK,13
+2006,Galway,Ireland (domestic),Ireland (domestic),45
+2006,Galway,England,UK,57.3
+2006,Kerry,Italy,Southern Europe,0.1
+2006,Kerry,Scotland,UK,0.3
+2006,Kerry,Croatia,Southern Europe,0.3
+2006,Kerry,France,Western Europe,2.7
+2006,Kerry,Germany,Western Europe,45.8
+2006,Kerry,Ireland (domestic),Ireland (domestic),56.7
+2006,Kerry,England,UK,88.1
+2006,Knock,Ireland (domestic),Ireland (domestic),6.7
+2006,Knock,England,UK,260.1
+2006,Shannon,Lithuania,Northern Europe,0.5
+2006,Shannon,Sweden,Northern Europe,1
+2006,Shannon,Portugal,Southern Europe,2.7
+2006,Shannon,Russian Federation,Eastern Europe,3.8
+2006,Shannon,Canada,Americas,19.3
+2006,Shannon,Belgium,Western Europe,21.3
+2006,Shannon,Germany,Western Europe,38.8
+2006,Shannon,Italy,Southern Europe,42.8
+2006,Shannon,Scotland,UK,47.5
+2006,Shannon,Poland,Eastern Europe,48.1
+2006,Shannon,Spain,Southern Europe,67.5
+2006,Shannon,France,Western Europe,69.6
+2006,Shannon,Ireland (domestic),Ireland (domestic),244.9
+2006,Shannon,United States,Americas,484.9
+2006,Shannon,England,UK,591.7
+2007,Cork,Other UK (1),UK,0.8
+2007,Cork,Slovakia,Eastern Europe,2.7
+2007,Cork,Canary Islands,Africa,8.5
+2007,Cork,Wales,UK,11.8
+2007,Cork,Hungary,Eastern Europe,13.9
+2007,Cork,Portugal,Southern Europe,17.4
+2007,Cork,Italy,Southern Europe,20.2
+2007,Cork,Germany,Western Europe,20.6
+2007,Cork,Czech Republic,Eastern Europe,22.3
+2007,Cork,Northern Ireland,Northern Europe,22.5
+2007,Cork,Scotland,UK,28.9
+2007,Cork,France,Western Europe,67.7
+2007,Cork,Netherlands,Western Europe,77.7
+2007,Cork,Spain,Southern Europe,86.3
+2007,Cork,Poland,Eastern Europe,101
+2007,Cork,Ireland (domestic),Ireland (domestic),254.6
+2007,Cork,England,UK,654.2
+2007,Dublin,Tunisia,Africa,0.1
+2007,Dublin,Oceania and Polar regions (1),Oceania and Polar,0.1
+2007,Dublin,Bulgaria,Eastern Europe,1.1
+2007,Dublin,Morocco,Africa,1.2
+2007,Dublin,Israel,Asia,1.2
+2007,Dublin,Luxembourg,Western Europe,1.4
+2007,Dublin,Cyprus,Southern Europe,1.7
+2007,Dublin,Slovenia,Southern Europe,1.7
+2007,Dublin,Romania,Eastern Europe,2.8
+2007,Dublin,Estonia,Northern Europe,8.7
+2007,Dublin,Greece,Southern Europe,9.3
+2007,Dublin,Bahrain,Asia,10.6
+2007,Dublin,Canada,Americas,13
+2007,Dublin,Northern Ireland,Northern Europe,13.1
+2007,Dublin,Malta,Southern Europe,22.4
+2007,Dublin,Turkey,Asia,24.6
+2007,Dublin,Other UK (1),UK,26.2
+2007,Dublin,Croatia,Southern Europe,31.4
+2007,Dublin,Wales,UK,33.9
+2007,Dublin,Finland,Northern Europe,46
+2007,Dublin,United Arab Emirates,Asia,53.5
+2007,Dublin,Slovakia,Eastern Europe,61.3
+2007,Dublin,Norway,Northern Europe,62.2
+2007,Dublin,Austria,Western Europe,72.3
+2007,Dublin,Hungary,Eastern Europe,95
+2007,Dublin,Lithuania,Northern Europe,98.9
+2007,Dublin,Sweden,Northern Europe,103.3
+2007,Dublin,Canary Islands,Africa,111
+2007,Dublin,Denmark,Northern Europe,114.6
+2007,Dublin,Latvia,Northern Europe,114.8
+2007,Dublin,Czech Republic,Eastern Europe,115.1
+2007,Dublin,Switzerland,Western Europe,122.5
+2007,Dublin,Belgium,Western Europe,175.1
+2007,Dublin,Portugal,Southern Europe,176.5
+2007,Dublin,Netherlands,Western Europe,309.3
+2007,Dublin,Poland,Eastern Europe,467.7
+2007,Dublin,Scotland,UK,469.5
+2007,Dublin,Italy,Southern Europe,480.3
+2007,Dublin,Ireland (domestic),Ireland (domestic),584.4
+2007,Dublin,United States,Americas,654.3
+2007,Dublin,Germany,Western Europe,670.9
+2007,Dublin,France,Western Europe,722
+2007,Dublin,Spain,Southern Europe,864.2
+2007,Dublin,England,UK,3802.4
+2007,Galway,Spain,Southern Europe,0.3
+2007,Galway,Portugal,Southern Europe,0.4
+2007,Galway,Wales,UK,0.7
+2007,Galway,Oceania and Polar regions (1),Oceania and Polar,1.6
+2007,Galway,France,Western Europe,1.8
+2007,Galway,Northern Ireland,Northern Europe,3.3
+2007,Galway,Scotland,UK,13.5
+2007,Galway,Ireland (domestic),Ireland (domestic),51.2
+2007,Galway,England,UK,81.3
+2007,Kerry,United States,Americas,0.1
+2007,Kerry,France,Western Europe,1.9
+2007,Kerry,Canary Islands,Africa,1.9
+2007,Kerry,Germany,Western Europe,43.9
+2007,Kerry,Ireland (domestic),Ireland (domestic),61.2
+2007,Kerry,England,UK,86.6
+2007,Knock,France,Western Europe,0.1
+2007,Knock,Croatia,Southern Europe,0.1
+2007,Knock,Serbia,Southern Europe,0.2
+2007,Knock,Spain,Southern Europe,0.5
+2007,Knock,Canary Islands,Africa,1.2
+2007,Knock,Ireland (domestic),Ireland (domestic),8.1
+2007,Knock,United States,Americas,9.4
+2007,Knock,England,UK,217.3
+2007,Shannon,Latvia,Northern Europe,2.3
+2007,Shannon,Canary Islands,Africa,2.4
+2007,Shannon,Lithuania,Northern Europe,2.8
+2007,Shannon,Russian Federation,Eastern Europe,3.2
+2007,Shannon,Canada,Americas,10.6
+2007,Shannon,Portugal,Southern Europe,15.8
+2007,Shannon,Belgium,Western Europe,21.5
+2007,Shannon,Germany,Western Europe,24.8
+2007,Shannon,Italy,Southern Europe,53.6
+2007,Shannon,Scotland,UK,65.2
+2007,Shannon,Spain,Southern Europe,89.2
+2007,Shannon,Poland,Eastern Europe,99.6
+2007,Shannon,France,Western Europe,100.5
+2007,Shannon,Ireland (domestic),Ireland (domestic),126.3
+2007,Shannon,United States,Americas,426.5
+2007,Shannon,England,UK,563.3
+2008,Cork,Hungary,Eastern Europe,0.3
+2008,Cork,Switzerland,Western Europe,0.9
+2008,Cork,Other UK (1),UK,3.6
+2008,Cork,Wales,UK,11.5
+2008,Cork,Canary Islands,Africa,12.1
+2008,Cork,Slovakia,Eastern Europe,13.7
+2008,Cork,Czech Republic,Eastern Europe,17.2
+2008,Cork,Portugal,Southern Europe,20.6
+2008,Cork,Northern Ireland,Northern Europe,22.9
+2008,Cork,Italy,Southern Europe,24.2
+2008,Cork,Germany,Western Europe,41.9
+2008,Cork,Scotland,UK,52.5
+2008,Cork,Poland,Eastern Europe,69.4
+2008,Cork,France,Western Europe,76
+2008,Cork,Netherlands,Western Europe,80.8
+2008,Cork,Spain,Southern Europe,81.7
+2008,Cork,Ireland (domestic),Ireland (domestic),224.9
+2008,Cork,England,UK,708.7
+2008,Dublin,Slovenia,Southern Europe,1.6
+2008,Dublin,Morocco,Africa,3.3
+2008,Dublin,Russian Federation,Eastern Europe,5.6
+2008,Dublin,Estonia,Northern Europe,6.9
+2008,Dublin,Bulgaria,Eastern Europe,8
+2008,Dublin,Luxembourg,Western Europe,9.1
+2008,Dublin,Northern Ireland,Northern Europe,12.3
+2008,Dublin,Greece,Southern Europe,14.6
+2008,Dublin,Romania,Eastern Europe,23.9
+2008,Dublin,Malta,Southern Europe,24.7
+2008,Dublin,Croatia,Southern Europe,25.3
+2008,Dublin,Turkey,Asia,26.1
+2008,Dublin,Other UK (1),UK,30.3
+2008,Dublin,Wales,UK,32.2
+2008,Dublin,Finland,Northern Europe,37.2
+2008,Dublin,Canada,Americas,41.8
+2008,Dublin,Norway,Northern Europe,55.6
+2008,Dublin,Austria,Western Europe,67.7
+2008,Dublin,United Arab Emirates,Asia,70.7
+2008,Dublin,Sweden,Northern Europe,82.1
+2008,Dublin,Slovakia,Eastern Europe,89.2
+2008,Dublin,Latvia,Northern Europe,102.8
+2008,Dublin,Lithuania,Northern Europe,113.3
+2008,Dublin,Denmark,Northern Europe,123.6
+2008,Dublin,Switzerland,Western Europe,128.6
+2008,Dublin,Hungary,Eastern Europe,136.5
+2008,Dublin,Canary Islands,Africa,140.4
+2008,Dublin,Czech Republic,Eastern Europe,146.2
+2008,Dublin,Belgium,Western Europe,178.6
+2008,Dublin,Portugal,Southern Europe,189.3
+2008,Dublin,Netherlands,Western Europe,302.3
+2008,Dublin,Scotland,UK,458.6
+2008,Dublin,Ireland (domestic),Ireland (domestic),460.5
+2008,Dublin,Poland,Eastern Europe,473.8
+2008,Dublin,Italy,Southern Europe,484
+2008,Dublin,Germany,Western Europe,667.3
+2008,Dublin,France,Western Europe,752.9
+2008,Dublin,United States,Americas,815
+2008,Dublin,Spain,Southern Europe,835.3
+2008,Dublin,England,UK,3750.1
+2008,Galway,Northern Ireland,Northern Europe,0.1
+2008,Galway,Oceania and Polar regions (1),Oceania and Polar,0.2
+2008,Galway,Portugal,Southern Europe,0.7
+2008,Galway,Spain,Southern Europe,0.9
+2008,Galway,France,Western Europe,2.7
+2008,Galway,Netherlands,Western Europe,5
+2008,Galway,Scotland,UK,10.5
+2008,Galway,Ireland (domestic),Ireland (domestic),45.3
+2008,Galway,England,UK,69.8
+2008,Kerry,Canary Islands,Africa,1.5
+2008,Kerry,France,Western Europe,1.8
+2008,Kerry,Germany,Western Europe,41.2
+2008,Kerry,Ireland (domestic),Ireland (domestic),64.1
+2008,Kerry,England,UK,94.7
+2008,Knock,Ireland (domestic),Ireland (domestic),6.2
+2008,Knock,Scotland,UK,7.1
+2008,Knock,England,UK,269.7
+2008,Shannon,Austria,Western Europe,0.1
+2008,Shannon,Russian Federation,Eastern Europe,3.5
+2008,Shannon,Latvia,Northern Europe,5.7
+2008,Shannon,Lithuania,Northern Europe,5.7
+2008,Shannon,Canada,Americas,10.6
+2008,Shannon,Canary Islands,Africa,15.4
+2008,Shannon,Portugal,Southern Europe,16.8
+2008,Shannon,Belgium,Western Europe,21.1
+2008,Shannon,Italy,Southern Europe,21.7
+2008,Shannon,Germany,Western Europe,31.4
+2008,Shannon,Scotland,UK,65.9
+2008,Shannon,Poland,Eastern Europe,72.9
+2008,Shannon,Ireland (domestic),Ireland (domestic),94.7
+2008,Shannon,Spain,Southern Europe,98.6
+2008,Shannon,France,Western Europe,112.5
+2008,Shannon,United States,Americas,283.1
+2008,Shannon,England,UK,503.5
+2009,Cork,Other UK (1),UK,1.6
+2009,Cork,Switzerland,Western Europe,3.9
+2009,Cork,Wales,UK,8.2
+2009,Cork,Northern Ireland,Northern Europe,17.7
+2009,Cork,Scotland,UK,19.2
+2009,Cork,Italy,Southern Europe,19.9
+2009,Cork,Canary Islands,Africa,26.9
+2009,Cork,Portugal,Southern Europe,31
+2009,Cork,Germany,Western Europe,37.2
+2009,Cork,France,Western Europe,74
+2009,Cork,Netherlands,Western Europe,77.4
+2009,Cork,Spain,Southern Europe,80.5
+2009,Cork,Poland,Eastern Europe,89
+2009,Cork,Ireland (domestic),Ireland (domestic),169.7
+2009,Cork,England,UK,614.2
+2009,Dublin,Slovenia,Southern Europe,1
+2009,Dublin,Estonia,Northern Europe,2.2
+2009,Dublin,Russian Federation,Eastern Europe,3.4
+2009,Dublin,Morocco,Africa,3.9
+2009,Dublin,Luxembourg,Western Europe,6.8
+2009,Dublin,Greece,Southern Europe,8.7
+2009,Dublin,Northern Ireland,Northern Europe,10.9
+2009,Dublin,Bulgaria,Eastern Europe,18.1
+2009,Dublin,Finland,Northern Europe,22.2
+2009,Dublin,Romania,Eastern Europe,25.1
+2009,Dublin,Croatia,Southern Europe,25.4
+2009,Dublin,Malta,Southern Europe,26
+2009,Dublin,Other UK (1),UK,27.5
+2009,Dublin,Wales,UK,30.5
+2009,Dublin,Canada,Americas,35.9
+2009,Dublin,Slovakia,Eastern Europe,36.8
+2009,Dublin,Turkey,Asia,38.2
+2009,Dublin,Sweden,Northern Europe,53.9
+2009,Dublin,Norway,Northern Europe,53.9
+2009,Dublin,Austria,Western Europe,56.6
+2009,Dublin,Latvia,Northern Europe,71
+2009,Dublin,Lithuania,Northern Europe,78.5
+2009,Dublin,United Arab Emirates,Asia,79.8
+2009,Dublin,Czech Republic,Eastern Europe,88.1
+2009,Dublin,Denmark,Northern Europe,94.6
+2009,Dublin,Hungary,Eastern Europe,111.9
+2009,Dublin,Switzerland,Western Europe,129.3
+2009,Dublin,Canary Islands,Africa,132.7
+2009,Dublin,Belgium,Western Europe,175.1
+2009,Dublin,Portugal,Southern Europe,188.3
+2009,Dublin,Netherlands,Western Europe,271.9
+2009,Dublin,Ireland (domestic),Ireland (domestic),342.7
+2009,Dublin,Poland,Eastern Europe,390.4
+2009,Dublin,Scotland,UK,398.4
+2009,Dublin,Italy,Southern Europe,462.7
+2009,Dublin,Germany,Western Europe,652
+2009,Dublin,France,Western Europe,698.4
+2009,Dublin,United States,Americas,739.9
+2009,Dublin,Spain,Southern Europe,814.8
+2009,Dublin,England,UK,3320.2
+2009,Galway,Oceania and Polar regions (1),Oceania and Polar,0.1
+2009,Galway,Netherlands,Western Europe,0.2
+2009,Galway,France,Western Europe,1.1
+2009,Galway,Scotland,UK,9.7
+2009,Galway,Ireland (domestic),Ireland (domestic),32.3
+2009,Galway,England,UK,53.5
+2009,Kerry,Belgium,Western Europe,0.1
+2009,Kerry,France,Western Europe,1.8
+2009,Kerry,Germany,Western Europe,34.3
+2009,Kerry,Ireland (domestic),Ireland (domestic),53.1
+2009,Kerry,England,UK,90.3
+2009,Knock,Scotland,UK,1.3
+2009,Knock,Ireland (domestic),Ireland (domestic),5.5
+2009,Knock,Oceania and Polar regions (1),Oceania and Polar,10.1
+2009,Knock,England,UK,261.8
+2009,Shannon,Slovakia,Eastern Europe,0.1
+2009,Shannon,Russian Federation,Eastern Europe,0.2
+2009,Shannon,Switzerland,Western Europe,1
+2009,Shannon,Canada,Americas,11.1
+2009,Shannon,Canary Islands,Africa,12.3
+2009,Shannon,Germany,Western Europe,20.4
+2009,Shannon,Belgium,Western Europe,20.5
+2009,Shannon,Italy,Southern Europe,20.8
+2009,Shannon,Portugal,Southern Europe,24.6
+2009,Shannon,Ireland (domestic),Ireland (domestic),47.5
+2009,Shannon,Poland,Eastern Europe,67.5
+2009,Shannon,Scotland,UK,72.5
+2009,Shannon,Spain,Southern Europe,100.2
+2009,Shannon,France,Western Europe,100.9
+2009,Shannon,United States,Americas,242.9
+2009,Shannon,England,UK,461.9
+2010,Cork,Other UK (1),UK,1.5
+2010,Cork,Switzerland,Western Europe,3.7
+2010,Cork,Northern Ireland,Northern Europe,8.3
+2010,Cork,Wales,UK,9.4
+2010,Cork,Italy,Southern Europe,10.5
+2010,Cork,Germany,Western Europe,21.9
+2010,Cork,Canary Islands,Africa,31.7
+2010,Cork,Scotland,UK,31.9
+2010,Cork,Portugal,Southern Europe,33.3
+2010,Cork,France,Western Europe,74.8
+2010,Cork,Netherlands,Western Europe,74.9
+2010,Cork,Ireland (domestic),Ireland (domestic),87.6
+2010,Cork,Poland,Eastern Europe,89.4
+2010,Cork,Spain,Southern Europe,95.5
+2010,Cork,England,UK,556.5
+2010,Dublin,Slovenia,Southern Europe,1
+2010,Dublin,Israel,Asia,2.3
+2010,Dublin,Russian Federation,Eastern Europe,2.5
+2010,Dublin,Estonia,Northern Europe,2.9
+2010,Dublin,Morocco,Africa,4.1
+2010,Dublin,Luxembourg,Western Europe,5.9
+2010,Dublin,Northern Ireland,Northern Europe,8.2
+2010,Dublin,Finland,Northern Europe,8.3
+2010,Dublin,Greece,Southern Europe,9.7
+2010,Dublin,Bulgaria,Eastern Europe,11.6
+2010,Dublin,Other UK (1),UK,25.3
+2010,Dublin,Croatia,Southern Europe,26.5
+2010,Dublin,Romania,Eastern Europe,28.7
+2010,Dublin,Malta,Southern Europe,29.5
+2010,Dublin,Wales,UK,33.2
+2010,Dublin,Canada,Americas,34.8
+2010,Dublin,Turkey,Asia,37
+2010,Dublin,Slovakia,Eastern Europe,44.9
+2010,Dublin,Austria,Western Europe,48.1
+2010,Dublin,Sweden,Northern Europe,50.8
+2010,Dublin,Czech Republic,Eastern Europe,62.4
+2010,Dublin,Norway,Northern Europe,66.8
+2010,Dublin,Latvia,Northern Europe,75.5
+2010,Dublin,Lithuania,Northern Europe,85.8
+2010,Dublin,Denmark,Northern Europe,92
+2010,Dublin,Hungary,Eastern Europe,97.3
+2010,Dublin,United Arab Emirates,Asia,98.7
+2010,Dublin,Switzerland,Western Europe,121.3
+2010,Dublin,Belgium,Western Europe,159.2
+2010,Dublin,Ireland (domestic),Ireland (domestic),190.4
+2010,Dublin,Canary Islands,Africa,191
+2010,Dublin,Portugal,Southern Europe,203.4
+2010,Dublin,Netherlands,Western Europe,258.4
+2010,Dublin,Scotland,UK,350.3
+2010,Dublin,Poland,Eastern Europe,372.9
+2010,Dublin,Italy,Southern Europe,419.6
+2010,Dublin,Germany,Western Europe,597.3
+2010,Dublin,France,Western Europe,636.2
+2010,Dublin,United States,Americas,695.7
+2010,Dublin,Spain,Southern Europe,782
+2010,Dublin,England,UK,2949.6
+2010,Galway,Northern Ireland,Northern Europe,0.7
+2010,Galway,Oceania and Polar regions (1),Oceania and Polar,1.2
+2010,Galway,Scotland,UK,8.7
+2010,Galway,Ireland (domestic),Ireland (domestic),20.7
+2010,Galway,England,UK,44.8
+2010,Kerry,France,Western Europe,0.9
+2010,Kerry,Portugal,Southern Europe,10.8
+2010,Kerry,Spain,Southern Europe,11.1
+2010,Kerry,Ireland (domestic),Ireland (domestic),36.1
+2010,Kerry,Germany,Western Europe,44.9
+2010,Kerry,England,UK,90
+2010,Knock,Scotland,UK,0.2
+2010,Knock,Ireland (domestic),Ireland (domestic),3
+2010,Knock,Oceania and Polar regions (1),Oceania and Polar,8.8
+2010,Knock,England,UK,235.3
+2010,Shannon,Switzerland,Western Europe,0.3
+2010,Shannon,Austria,Western Europe,0.6
+2010,Shannon,Portugal,Southern Europe,3.3
+2010,Shannon,Belgium,Western Europe,4.7
+2010,Shannon,Canada,Americas,7.4
+2010,Shannon,Canary Islands,Africa,14.6
+2010,Shannon,Ireland (domestic),Ireland (domestic),20.2
+2010,Shannon,Poland,Eastern Europe,24.1
+2010,Shannon,Spain,Southern Europe,28.4
+2010,Shannon,Scotland,UK,29.4
+2010,Shannon,France,Western Europe,31.5
+2010,Shannon,United States,Americas,185.2
+2010,Shannon,England,UK,347.6
+2011,Cork,Oceania and Polar regions (1),Oceania and Polar,0.2
+2011,Cork,Northern Ireland,Northern Europe,1
+2011,Cork,Switzerland,Western Europe,1.8
+2011,Cork,Other UK (1),UK,2
+2011,Cork,Lithuania,Northern Europe,11.4
+2011,Cork,Italy,Southern Europe,16.8
+2011,Cork,Germany,Western Europe,18
+2011,Cork,Ireland (domestic),Ireland (domestic),19.4
+2011,Cork,Scotland,UK,31.7
+2011,Cork,Portugal,Southern Europe,41
+2011,Cork,Canary Islands,Africa,56.4
+2011,Cork,France,Western Europe,70.9
+2011,Cork,Netherlands,Western Europe,83.2
+2011,Cork,Poland,Eastern Europe,91.9
+2011,Cork,Spain,Southern Europe,105.8
+2011,Cork,England,UK,558.2
+2011,Dublin,Oceania and Polar regions (1),Oceania and Polar,0.7
+2011,Dublin,Slovenia,Southern Europe,1
+2011,Dublin,Morocco,Africa,2.3
+2011,Dublin,Israel,Asia,2.3
+2011,Dublin,Russian Federation,Eastern Europe,2.4
+2011,Dublin,Northern Ireland,Northern Europe,3
+2011,Dublin,Greece,Southern Europe,8.6
+2011,Dublin,Finland,Northern Europe,8.7
+2011,Dublin,Bulgaria,Eastern Europe,14.9
+2011,Dublin,Luxembourg,Western Europe,19.2
+2011,Dublin,Estonia,Northern Europe,23.7
+2011,Dublin,Other UK (1),UK,25.3
+2011,Dublin,Croatia,Southern Europe,26.4
+2011,Dublin,Malta,Southern Europe,27.7
+2011,Dublin,Wales,UK,30.7
+2011,Dublin,Romania,Eastern Europe,36.6
+2011,Dublin,Canada,Americas,41
+2011,Dublin,Czech Republic,Eastern Europe,42.9
+2011,Dublin,Slovakia,Eastern Europe,43.8
+2011,Dublin,Turkey,Asia,46.1
+2011,Dublin,Austria,Western Europe,47.3
+2011,Dublin,Latvia,Northern Europe,61.7
+2011,Dublin,Sweden,Northern Europe,61.7
+2011,Dublin,Ireland (domestic),Ireland (domestic),62.1
+2011,Dublin,Norway,Northern Europe,78.9
+2011,Dublin,Lithuania,Northern Europe,79.2
+2011,Dublin,Hungary,Eastern Europe,85.9
+2011,Dublin,Denmark,Northern Europe,98.9
+2011,Dublin,United Arab Emirates,Asia,114.3
+2011,Dublin,Switzerland,Western Europe,139
+2011,Dublin,Belgium,Western Europe,171.8
+2011,Dublin,Portugal,Southern Europe,199.6
+2011,Dublin,Canary Islands,Africa,208.5
+2011,Dublin,Netherlands,Western Europe,291.3
+2011,Dublin,Scotland,UK,364.2
+2011,Dublin,Poland,Eastern Europe,365.5
+2011,Dublin,Italy,Southern Europe,414.8
+2011,Dublin,France,Western Europe,621.5
+2011,Dublin,Germany,Western Europe,637.5
+2011,Dublin,United States,Americas,742.7
+2011,Dublin,Spain,Southern Europe,792
+2011,Dublin,England,UK,3063.5
+2011,Galway,Oceania and Polar regions (1),Oceania and Polar,0.2
+2011,Galway,Scotland,UK,5.8
+2011,Galway,Ireland (domestic),Ireland (domestic),7.9
+2011,Galway,England,UK,19.8
+2011,Kerry,France,Western Europe,0.7
+2011,Kerry,Portugal,Southern Europe,9.3
+2011,Kerry,Spain,Southern Europe,9.5
+2011,Kerry,Ireland (domestic),Ireland (domestic),13.9
+2011,Kerry,Germany,Western Europe,28.6
+2011,Kerry,England,UK,94.9
+2011,Knock,Oceania and Polar regions (1),Oceania and Polar,0.5
+2011,Knock,Ireland (domestic),Ireland (domestic),1
+2011,Knock,Scotland,UK,5.2
+2011,Knock,England,UK,256.3
+2011,Shannon,Ireland (domestic),Ireland (domestic),0.1
+2011,Shannon,Netherlands,Western Europe,0.1
+2011,Shannon,Canada,Americas,8.6
+2011,Shannon,Scotland,UK,16.2
+2011,Shannon,Poland,Eastern Europe,17.2
+2011,Shannon,Spain,Southern Europe,20.3
+2011,Shannon,France,Western Europe,21
+2011,Shannon,Canary Islands,Africa,27.7
+2011,Shannon,United States,Americas,157.7
+2011,Shannon,England,UK,358.4
+2012,Cork,Ireland (domestic),Ireland (domestic),0.1
+2012,Cork,Wales,UK,0.1
+2012,Cork,Other UK (1),UK,1.7
+2012,Cork,Switzerland,Western Europe,1.7
+2012,Cork,Belgium,Western Europe,12.3
+2012,Cork,Germany,Western Europe,16
+2012,Cork,Lithuania,Northern Europe,19.4
+2012,Cork,Italy,Southern Europe,23.2
+2012,Cork,Scotland,UK,34.3
+2012,Cork,Portugal,Southern Europe,44.4
+2012,Cork,Canary Islands,Africa,62.1
+2012,Cork,France,Western Europe,71.7
+2012,Cork,Netherlands,Western Europe,86.2
+2012,Cork,Poland,Eastern Europe,88.6
+2012,Cork,Spain,Southern Europe,121.1
+2012,Cork,England,UK,538.9
+2012,Dublin,Other Europe (12),Europe (other),0.1
+2012,Dublin,Oceania and Polar regions (1),Oceania and Polar,0.5
+2012,Dublin,Russian Federation,Eastern Europe,1.5
+2012,Dublin,Israel,Asia,1.9
+2012,Dublin,Morocco,Africa,4.9
+2012,Dublin,Greece,Southern Europe,7.8
+2012,Dublin,Bulgaria,Eastern Europe,12.1
+2012,Dublin,Finland,Northern Europe,12.1
+2012,Dublin,Estonia,Northern Europe,15
+2012,Dublin,Croatia,Southern Europe,21.8
+2012,Dublin,Other UK (1),UK,22.7
+2012,Dublin,Malta,Southern Europe,28.8
+2012,Dublin,Wales,UK,30.7
+2012,Dublin,Ireland (domestic),Ireland (domestic),32.6
+2012,Dublin,Romania,Eastern Europe,35.1
+2012,Dublin,Slovakia,Eastern Europe,46.3
+2012,Dublin,Canada,Americas,49.7
+2012,Dublin,Austria,Western Europe,50.2
+2012,Dublin,Czech Republic,Eastern Europe,50.9
+2012,Dublin,Turkey,Asia,51.6
+2012,Dublin,Latvia,Northern Europe,59
+2012,Dublin,Norway,Northern Europe,70
+2012,Dublin,Sweden,Northern Europe,71.6
+2012,Dublin,Lithuania,Northern Europe,77.7
+2012,Dublin,Hungary,Eastern Europe,94.3
+2012,Dublin,Denmark,Northern Europe,98.9
+2012,Dublin,Switzerland,Western Europe,152.6
+2012,Dublin,Belgium,Western Europe,170.9
+2012,Dublin,Canary Islands,Africa,212
+2012,Dublin,United Arab Emirates,Asia,224
+2012,Dublin,Portugal,Southern Europe,224.3
+2012,Dublin,Netherlands,Western Europe,295.8
+2012,Dublin,Scotland,UK,348.8
+2012,Dublin,Poland,Eastern Europe,355.2
+2012,Dublin,Italy,Southern Europe,429.9
+2012,Dublin,France,Western Europe,641.1
+2012,Dublin,Germany,Western Europe,667
+2012,Dublin,United States,Americas,770.1
+2012,Dublin,Spain,Southern Europe,830.5
+2012,Dublin,England,UK,3044.1
+2012,Kerry,Belgium,Western Europe,0.1
+2012,Kerry,France,Western Europe,0.5
+2012,Kerry,Spain,Southern Europe,10
+2012,Kerry,Portugal,Southern Europe,10.2
+2012,Kerry,Ireland (domestic),Ireland (domestic),15.7
+2012,Kerry,Germany,Western Europe,25.8
+2012,Kerry,England,UK,81.7
+2012,Knock,France,Western Europe,0.5
+2012,Knock,Italy,Southern Europe,0.5
+2012,Knock,Turkey,Asia,0.5
+2012,Knock,Germany,Western Europe,0.9
+2012,Knock,Spain,Southern Europe,2
+2012,Knock,Portugal,Southern Europe,2.2
+2012,Knock,Canary Islands,Africa,4.2
+2012,Knock,Scotland,UK,5.5
+2012,Knock,England,UK,250.9
+2012,Shannon,Austria,Western Europe,0.1
+2012,Shannon,Ireland (domestic),Ireland (domestic),0.2
+2012,Shannon,Canada,Americas,9.5
+2012,Shannon,France,Western Europe,10.4
+2012,Shannon,Scotland,UK,15.9
+2012,Shannon,Canary Islands,Africa,16.5
+2012,Shannon,Poland,Eastern Europe,17.5
+2012,Shannon,Spain,Southern Europe,22.4
+2012,Shannon,United States,Americas,141.6
+2012,Shannon,England,UK,351.4
+2013,Cork,Other UK (1),UK,1.8
+2013,Cork,Switzerland,Western Europe,1.8
+2013,Cork,Belgium,Western Europe,12.2
+2013,Cork,Italy,Southern Europe,12.3
+2013,Cork,Germany,Western Europe,15.3
+2013,Cork,Lithuania,Northern Europe,16.1
+2013,Cork,Scotland,UK,31.2
+2013,Cork,Portugal,Southern Europe,47.8
+2013,Cork,France,Western Europe,63
+2013,Cork,Canary Islands,Africa,68.1
+2013,Cork,Netherlands,Western Europe,86
+2013,Cork,Poland,Eastern Europe,89.3
+2013,Cork,Spain,Southern Europe,114.2
+2013,Cork,England,UK,524.8
+2013,Dublin,Oceania and Polar regions (1),Oceania and Polar,0.2
+2013,Dublin,Russian Federation,Eastern Europe,1.5
+2013,Dublin,Israel,Asia,2
+2013,Dublin,Other Europe (12),Europe (other),2.5
+2013,Dublin,Morocco,Africa,4.5
+2013,Dublin,Estonia,Northern Europe,10.8
+2013,Dublin,Bulgaria,Eastern Europe,11.1
+2013,Dublin,Greece,Southern Europe,12.3
+2013,Dublin,Finland,Northern Europe,16.3
+2013,Dublin,Other UK (1),UK,23.1
+2013,Dublin,Malta,Southern Europe,29.8
+2013,Dublin,Wales,UK,31.5
+2013,Dublin,Croatia,Southern Europe,31.8
+2013,Dublin,Ireland (domestic),Ireland (domestic),32.8
+2013,Dublin,Romania,Eastern Europe,35.8
+2013,Dublin,Slovakia,Eastern Europe,48.3
+2013,Dublin,Canada,Americas,49.1
+2013,Dublin,Austria,Western Europe,50.3
+2013,Dublin,Czech Republic,Eastern Europe,51.3
+2013,Dublin,Latvia,Northern Europe,54.3
+2013,Dublin,Norway,Northern Europe,66
+2013,Dublin,Lithuania,Northern Europe,66.7
+2013,Dublin,Turkey,Asia,68.5
+2013,Dublin,Sweden,Northern Europe,74.2
+2013,Dublin,Hungary,Eastern Europe,79.8
+2013,Dublin,Denmark,Northern Europe,124.4
+2013,Dublin,Switzerland,Western Europe,155.4
+2013,Dublin,Belgium,Western Europe,198.9
+2013,Dublin,Canary Islands,Africa,238.8
+2013,Dublin,Portugal,Southern Europe,243.1
+2013,Dublin,United Arab Emirates,Asia,252.1
+2013,Dublin,Netherlands,Western Europe,317.9
+2013,Dublin,Poland,Eastern Europe,352.1
+2013,Dublin,Scotland,UK,361.7
+2013,Dublin,Italy,Southern Europe,444.4
+2013,Dublin,France,Western Europe,668.7
+2013,Dublin,Germany,Western Europe,706.1
+2013,Dublin,Spain,Southern Europe,854.4
+2013,Dublin,United States,Americas,880.4
+2013,Dublin,England,UK,3177.8
+2013,Kerry,Portugal,Southern Europe,9.6
+2013,Kerry,Spain,Southern Europe,10.8
+2013,Kerry,Ireland (domestic),Ireland (domestic),16.7
+2013,Kerry,Germany,Western Europe,28
+2013,Kerry,England,UK,87.5
+2013,Knock,Italy,Southern Europe,0.1
+2013,Knock,Spain,Southern Europe,0.3
+2013,Knock,Portugal,Southern Europe,0.5
+2013,Knock,Canary Islands,Africa,1
+2013,Knock,Scotland,UK,3.9
+2013,Knock,England,UK,258.4
+2013,Shannon,France,Western Europe,8.3
+2013,Shannon,Portugal,Southern Europe,9.5
+2013,Shannon,Canada,Americas,11.9
+2013,Shannon,Canary Islands,Africa,16.3
+2013,Shannon,Poland,Eastern Europe,17.2
+2013,Shannon,Scotland,UK,18.7
+2013,Shannon,Spain,Southern Europe,32.5
+2013,Shannon,United States,Americas,166.4
+2013,Shannon,England,UK,329.9
