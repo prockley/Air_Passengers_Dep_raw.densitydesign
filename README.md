@@ -1,7 +1,7 @@
 The reduction in passenger numbers on Ireland's domestic air routes (and getting used to SVG graphics)
 =========================================================
 
-_This repo hold the background details for this [blog post]._
+_(This repo hold the background details for this [blog post])_
 
 [blog post]: http://www.prockley.eu/jekyll/svg/2014/12/28/Flight-Departures-Ireland/
 
