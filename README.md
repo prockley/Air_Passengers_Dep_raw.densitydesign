@@ -1,6 +1,11 @@
 The reduction in passenger numbers on Ireland's domestic air routes (and getting used to SVG graphics)
 =========================================================
 
+_This repo hold the background details for this [blog post]._
+
+[blog post]: http://www.prockley.eu/jekyll/svg/2014/12/28/Flight-Departures-Ireland/
+
+
 Currently I'm trying to get up to speed with d3.js interactive visualisations but while doing this I saw that I needed some practice getting SVG images online. This post is the result.
 
 But it's not just about that. When I started I didn't realise that the drop off in domestic flights had been so massive. So something was learnt from the data too.
